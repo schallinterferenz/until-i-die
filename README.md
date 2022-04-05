@@ -31,3 +31,4 @@ If you don't have the folder "Mods", just create it :)
         - Spiel installieren
         - Mods installieren
         - !!!SERVER!!! starten
+    5. Weniger Zombies ODER NCPs -> Due to FPS
