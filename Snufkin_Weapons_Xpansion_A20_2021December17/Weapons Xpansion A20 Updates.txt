@@ -1,0 +1,17 @@
+Snufkin Weapons Xpansion
+
+1. Changed gunShotgunT0Blunderbuss to gunShotgunT1DoubleBarrel in recipes.xml
+2. Changed Hero Chest loot to GunSafeSecure loot and Wall Safe / Desk Safe to reflect A20 updates to hardened chest Tier groups.
+3. Changed Hyperblaster icon from Blunderbuss to Auto Shotgun.
+4. Changed Railgun icon from Marksman Rifle to Sniper Rifle.
+5. Changed Meshfile and StickyMeshFile for Black Widow ammo types.
+6. Update Gamma Gun attachment to A20 version.
+7. Updated Vampire Guantlets spike attachment to match A20 location.
+8. Updated Kronos XII sights and AutoTurret attachment to match A20 location.
+9. Updated Vulcan sights.
+10. Updated Savery attachments to A20 version.
+11. Updated DCLXVI Zeus attachment to A20 version.
+12. Updated Brainsaw to reflect new model and settings.
+13. Updated Back Pack mod attachment to A20 version.
+14. Updated Clucker Round sell price to reflect A20 nest availability.
+15. Updated Railgun model to 'Dragunov Railgun' to reflect A20 changes.

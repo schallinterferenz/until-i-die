@@ -1,0 +1,45 @@
+<Configs>
+
+<append xpath="/blocks" >
+	
+	
+	
+<block name="screamerBeacon">
+	<property name="Material" value="MstoneNoGlue"/>
+	<property name="MaxDamage" value="20000"/>
+	<property name="StabilitySupport" value="false"/>
+	<property name="Shape" value="ModelEntity"/>
+	<property name="Path" value="solid"/>
+	<property name="Model" value="Entities/OutdoorDecor/birdBathPlanterPrefab"/>
+	<property name="TintColor" value="ffff80"/>
+	<property name="ImposterExchange" value="imposterDontBlockCTRQuarter" param1="170"/>
+	<property name="ImposterDontBlock" value="true"/>
+	<property name="IsTerrainDecoration" value="true"/>
+	<property name="CustomIcon" value="birdBathPlanter"/>
+	<property name="CustomIconTint" value="ffff80"/>
+	<property class="RepairItems">
+		<property name="resourceConcreteMix" value="25"/>
+	</property>
+	<drop event="Harvest" name="resourceRockSmall" count="24" tag="allHarvest"/>
+	<drop event="Destroy" count="0"/>
+	<drop event="Fall" name="terrDestroyedStone" count="1" prob="0.1" stick_chance="0.05"/>
+	<property name="EconomicValue" value="56"/>
+	<property name="FilterTags" value="MC_building,SC_decor"/>
+	<property name="DescriptionKey" value="creativeMenuBlockGroupDesc"/>
+	<property name="Stacknumber" value="10"/>
+	<property name="Class" value="TorchHeatMap"/>
+	<property name="HeatMapStrength" value="1000"/>
+	<property name="HeatMapTime" value="10"/>
+	<property name="HeatMapFrequency" value="70"/>
+	<property name="BuffsWhenWalkedOn" value="buffBurningEnvironment"/>
+	<property name="ActiveRadiusEffects" value="buffCampfireAOE(3)"/>
+	<property name="CanPickup" value="true"/>
+	<property name="TakeDelay" value="8"/>
+	<property name="DescriptionKey" value="screamerBeaconDesc"/>
+	<property name="SortOrder1" value="70a0"/>
+	<property name="FilterTags" value="MC_playerBlocks,SC_electrical"/>
+</block>
+
+
+</append>
+</Configs>

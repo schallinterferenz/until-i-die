@@ -1,0 +1,105 @@
+<configs>
+	<append xpath="/items">
+		<item name="GreenTicket">
+			<property name="HoldType" value="21"/>
+			<property name="CustomIcon" value="questMaster"/>
+			<property name="CustomIconTint" value="0,255,0" />
+			<property name="ItemTypeIcon" value="treasure"/>
+			<property name="DescriptionKey" value="GreenTicketDesc"/>			
+			<property name="Meshfile" value="#Other/Items?Misc/bookPrefab.prefab"/>
+			<property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+			<property name="Material" value="Mpaper"/>
+			<property name="Stacknumber" value="150"/>
+			<property name="EconomicValue" value="1600"/>
+			<property name="SellableToTrader" value="false"/>
+			<property name="Group" value="Resources"/>
+		</item>
+		<item name="YellowTicket">
+			<property name="Extends" value="GreenTicket"/>
+			<property name="CustomIcon" value="questMaster"/>
+			<property name="DescriptionKey" value="YellowTicketDesc"/>			
+			<property name="ItemTypeIcon" value="treasure"/>
+			<property name="CustomIconTint" value="255,255,0" />
+		</item>
+		<item name="RedTicket">
+			<property name="Extends" value="GreenTicket"/>
+			<property name="CustomIcon" value="questMaster"/>
+			<property name="DescriptionKey" value="RedTicketDesc"/>			
+			<property name="ItemTypeIcon" value="treasure"/>
+			<property name="CustomIconTint" value="255,0,0" />
+		</item>
+		<item name="PurpleTicket">
+			<property name="Extends" value="GreenTicket"/>
+			<property name="CustomIcon" value="questMaster"/>
+			<property name="DescriptionKey" value="PurpleTicketDesc"/>			
+			<property name="ItemTypeIcon" value="treasure"/>
+			<property name="CustomIconTint" value="128,0,128" />
+		</item>
+		
+		<item name="RailgunTicket">
+			<property name="Extends" value="questMaster"/>
+			<property name="ItemTypeIcon" value="treasure"/>
+			<property name="CustomIcon" value="gunRifleT3SniperRifle"/>
+			<property name="DescriptionKey" value="RailgunTicketDesc"/>			
+			<property name="CustomIconTint" value="180,180,255"/>
+			<property class="Action0">
+				<property name="QuestGiven" value="ticket_railgun"/>
+				<property name="Sound_start" value="UseActions/open_chest"/></property>
+		</item>
+		<item name="GammaGunTicket">
+			<property name="Extends" value="questMaster"/>
+			<property name="ItemTypeIcon" value="treasure"/>
+			<property name="DescriptionKey" value="GammaGunTicketDesc"/>			
+			<property name="CustomIconTint" value="200, 0, 200"/>
+			<property name="CustomIcon" value="spotlightNailedDownPOI"/>
+			<property class="Action0">
+				<property name="QuestGiven" value="ticket_gammagun"/>
+				<property name="Sound_start" value="UseActions/open_chest"/></property>
+		</item>
+		<item name="HyperBlasterTicket">
+			<property name="Extends" value="questMaster"/>
+			<property name="ItemTypeIcon" value="treasure"/>
+			<property name="DescriptionKey" value="HyperBlasterTicketDesc"/>			
+			<property name="CustomIcon" value="gunShotgunT3AutoShotgun"/>
+			<property name="CustomIconTint" value="200, 0, 200"/>
+			<property class="Action0">
+				<property name="QuestGiven" value="ticket_hyperblaster"/>
+				<property name="Sound_start" value="UseActions/open_chest"/></property>
+		</item>
+				
+		<item name="LVL1GreenLootBox">
+			<property name="Extends" value="questMaster"/>
+			<property name="CustomIcon" value="cntMunitionsBox"/>
+			<property name="DescriptionKey" value="LVL1GreenLootBoxDesc"/>			
+			<property name="CustomIconTint" value="0,255,0" />
+			<property name="SellableToTrader" value="false"/>
+			<property class="Action0">
+				<property name="QuestGiven" value="greenlootbox"/>
+				<property name="Sound_start" value="UseActions/open_chest"/></property>
+		</item>
+		<item name="LVL2YellowLootBox">
+			<property name="Extends" value="LVL1GreenLootBox"/>
+			<property name="CustomIcon" value="cntMunitionsBox"/>
+			<property name="DescriptionKey" value="LVL2YellowLootBoxDesc"/>			
+			<property name="CustomIconTint" value="255,255,0" />
+			<property class="Action0">
+				<property name="QuestGiven" value="yellowlootbox"/></property>
+		</item>
+		<item name="LVL3RedLootBox">
+			<property name="Extends" value="LVL1GreenLootBox"/>
+			<property name="CustomIcon" value="cntMunitionsBox"/>
+			<property name="DescriptionKey" value="LVL3RedLootBoxDesc"/>			
+			<property name="CustomIconTint" value="255,0,0" />
+			<property class="Action0">
+				<property name="QuestGiven" value="redlootbox"/></property>
+		</item>
+		<item name="LVL4PurpleLootBox">
+			<property name="Extends" value="LVL1GreenLootBox"/>
+			<property name="CustomIcon" value="cntMunitionsBox"/>
+			<property name="DescriptionKey" value="LVL4PurpleLootBoxDesc"/>		
+			<property name="CustomIconTint" value="128,0,128" />
+			<property class="Action0">
+				<property name="QuestGiven" value="purplelootbox"/></property>
+		</item>
+	</append>
+</configs>

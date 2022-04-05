@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<ModInfo>
+		<Name value="Snufkin_Weapons_Xpansion_LootboxAddon_A20_2022February01" />
+		<Description value="Allows players to gain loot through tickets and loot boxes." />
+		<Author value="Snufkin for base (A20 revision by arramus)" />
+		<Version value="A20" />
+		<Website value="" />
+	</ModInfo>
+</xml>

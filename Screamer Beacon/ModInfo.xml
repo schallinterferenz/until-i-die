@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<ModInfo>
+		<Name value="Screamer Beacon" />
+		<Description value="Adds a Planter like beacon to attract screamer zombies." />
+		<Author value="UriTheNomad aka kdthehun aka Kakusi Ugbe"/>
+		<Version value="3.4" />
+	</ModInfo>
+</xml>

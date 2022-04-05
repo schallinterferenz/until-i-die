@@ -1,0 +1,1143 @@
+<configs>
+<!-- battery craft bug fix-->
+<set xpath="/progression/perks/perk[@name='perkGreaseMonkey']/effect_group/passive_effect[@name='CraftingTier']/@operation">base_add</set>
+<set xpath="/progression/perks/perk[@name='perkGreaseMonkey']/effect_group/passive_effect[@name='CraftingTier']/@level">1,2,3,4,5</set>
+<set xpath="/progression/perks/perk[@name='perkGreaseMonkey']/effect_group/passive_effect[@name='CraftingTier']/@value">0,1,2,3,4</set>
+
+<insertAfter xpath="/progression/attributes/attribute[@name='attBooks']">
+	<attribute name="attprestige" name_key="attPrestigeName" desc_key="attPrestigeDesc" icon="cp_prestige" min_level="0" max_level="0"/>
+</insertAfter>
+
+<insertAfter xpath="/progression/perks/perk[@name='perkGreaseMonkey']">
+		<perk name="perkAcrobatics" parent="attPrestige" name_key="AcrobaticsName" desc_key="AcrobaticsDesc" icon="cp_acrobatics">
+			<effect_group>
+		<!--safe fall distance regulated in buffs.xml-->
+				<effect_description level="1" desc_key="AcrobaticsRank1Desc" long_desc_key="AcrobaticsRank1LongDesc"/>
+				<effect_description level="2" desc_key="AcrobaticsRank2Desc" long_desc_key="AcrobaticsRank2LongDesc"/>
+				<effect_description level="3" desc_key="AcrobaticsRank3Desc" long_desc_key="AcrobaticsRank3LongDesc"/>
+				<effect_description level="4" desc_key="AcrobaticsRank4Desc" long_desc_key="AcrobaticsRank4LongDesc"/>
+				<effect_description level="5" desc_key="AcrobaticsRank5Desc" long_desc_key="AcrobaticsRank5LongDesc"/>
+			</effect_group>
+		</perk>
+
+		<perk name="perkHeatSyn" parent="attPrestige" name_key="HeatSynergyName" desc_key="HeatSynergyDesc" icon="cp_heatsyn">
+			<effect_group>
+				<passive_effect name="HyperthermalResist" operation="base_add" level="1" value="5"/>
+				<passive_effect name="HyperthermalResist" operation="base_add" level="2" value="9"/>
+				<passive_effect name="HyperthermalResist" operation="base_add" level="3" value="12"/>
+				<passive_effect name="HyperthermalResist" operation="base_add" level="4" value="14"/>
+				<passive_effect name="HyperthermalResist" operation="base_add" level="5" value="15"/>
+
+				<effect_description level="1" desc_key="HeatSynergyRank1Desc" long_desc_key="HeatSynergyRank1LongDesc"/>
+				<effect_description level="2" desc_key="HeatSynergyRank2Desc" long_desc_key="HeatSynergyRank2LongDesc"/>
+				<effect_description level="3" desc_key="HeatSynergyRank3Desc" long_desc_key="HeatSynergyRank3LongDesc"/>
+				<effect_description level="4" desc_key="HeatSynergyRank4Desc" long_desc_key="HeatSynergyRank4LongDesc"/>
+				<effect_description level="5" desc_key="HeatSynergyRank5Desc" long_desc_key="HeatSynergyRank5LongDesc"/>
+			</effect_group>
+		</perk>
+
+			<perk name="perkColdSyn" parent="attPrestige" name_key="ColdSynergyName" desc_key="ColdSynergyDesc" icon="cp_coldsyn">
+			<effect_group>
+				<passive_effect name="HypothermalResist" operation="base_add" level="1" value="5"/>
+				<passive_effect name="HypothermalResist" operation="base_add" level="2" value="9"/>
+				<passive_effect name="HypothermalResist" operation="base_add" level="3" value="12"/>
+				<passive_effect name="HypothermalResist" operation="base_add" level="4" value="14"/>
+				<passive_effect name="HypothermalResist" operation="base_add" level="5" value="15"/>
+
+				<effect_description level="1" desc_key="ColdSynergyRank1Desc" long_desc_key="ColdSynergyRank1LongDesc"/>
+				<effect_description level="2" desc_key="ColdSynergyRank2Desc" long_desc_key="ColdSynergyRank2LongDesc"/>
+				<effect_description level="3" desc_key="ColdSynergyRank3Desc" long_desc_key="ColdSynergyRank3LongDesc"/>
+				<effect_description level="4" desc_key="ColdSynergyRank4Desc" long_desc_key="ColdSynergyRank4LongDesc"/>
+				<effect_description level="5" desc_key="ColdSynergyRank5Desc" long_desc_key="ColdSynergyRank5LongDesc"/>
+			</effect_group>
+		</perk>
+
+		<perk name="perkHealingArts" parent="attPrestige" name_key="HealingArtsName" desc_key="HealingArtsDesc" icon="cp_healingarts">
+			<effect_group>
+		<!--health per tick regulated in buffs.xml-->
+				<effect_description level="1" desc_key="HealingArtsRank1Desc" long_desc_key="HealingArtsRank1LongDesc"/>
+				<effect_description level="2" desc_key="HealingArtsRank2Desc" long_desc_key="HealingArtsRank2LongDesc"/>
+				<effect_description level="3" desc_key="HealingArtsRank3Desc" long_desc_key="HealingArtsRank3LongDesc"/>
+				<effect_description level="4" desc_key="HealingArtsRank4Desc" long_desc_key="HealingArtsRank4LongDesc"/>
+				<effect_description level="5" desc_key="HealingArtsRank5Desc" long_desc_key="HealingArtsRank5LongDesc"/>
+			</effect_group>
+		</perk>
+
+		<perk name="perkArmorSpecialist" parent="attPrestige" name_key="ArmorSpecialistName" desc_key="ArmorSpecialistDesc" icon="cp_armorspecialist">
+			<effect_group>
+				<passive_effect name="DegradationPerUse" operation="perc_add" level="1" value="-.12" tags="heavyArmorDeg,lightArmorDeg"/>
+				<passive_effect name="DegradationPerUse" operation="perc_add" level="2" value="-.20" tags="heavyArmorDeg,lightArmorDeg"/>
+				<passive_effect name="DegradationPerUse" operation="perc_add" level="3" value="-.26" tags="heavyArmorDeg,lightArmorDeg"/>
+				<passive_effect name="DegradationPerUse" operation="perc_add" level="4" value="-.31" tags="heavyArmorDeg,lightArmorDeg"/>
+				<passive_effect name="DegradationPerUse" operation="perc_add" level="5" value="-.34" tags="heavyArmorDeg,lightArmorDeg"/>
+
+				<effect_description level="1" desc_key="ArmorSpecialistRank1Desc" long_desc_key="ArmorSpecialistRank1LongDesc"/>
+				<effect_description level="2" desc_key="ArmorSpecialistRank2Desc" long_desc_key="ArmorSpecialistRank2LongDesc"/>
+				<effect_description level="3" desc_key="ArmorSpecialistRank3Desc" long_desc_key="ArmorSpecialistRank3LongDesc"/>
+				<effect_description level="4" desc_key="ArmorSpecialistRank4Desc" long_desc_key="ArmorSpecialistRank4LongDesc"/>
+				<effect_description level="5" desc_key="ArmorSpecialistRank5Desc" long_desc_key="ArmorSpecialistRank5LongDesc"/>
+			</effect_group>
+		</perk>
+
+		<perk name="perkWeaponSpecialist" parent="attPrestige" name_key="WeaponSpecialistName" desc_key="WeaponSpecialistDesc" icon="cp_weaponspecialist">
+			<effect_group>
+				<passive_effect name="DegradationPerUse" operation="perc_add" level="1" value="-.20" tags="melee,ranged"/>
+				<passive_effect name="DegradationPerUse" operation="perc_add" level="2" value="-.31" tags="melee,ranged"/>
+				<passive_effect name="DegradationPerUse" operation="perc_add" level="3" value="-.39" tags="melee,ranged"/>
+				<passive_effect name="DegradationPerUse" operation="perc_add" level="4" value="-.45" tags="melee,ranged"/>
+				<passive_effect name="DegradationPerUse" operation="perc_add" level="5" value="-.5" tags="melee,ranged"/>
+
+				<effect_description level="1" desc_key="WeaponSpecialistRank1Desc" long_desc_key="WeaponSpecialistRank1LongDesc"/>
+				<effect_description level="2" desc_key="WeaponSpecialistRank2Desc" long_desc_key="WeaponSpecialistRank2LongDesc"/>
+				<effect_description level="3" desc_key="WeaponSpecialistRank3Desc" long_desc_key="WeaponSpecialistRank3LongDesc"/>
+				<effect_description level="4" desc_key="WeaponSpecialistRank4Desc" long_desc_key="WeaponSpecialistRank4LongDesc"/>
+				<effect_description level="5" desc_key="WeaponSpecialistRank5Desc" long_desc_key="WeaponSpecialistRank5LongDesc"/>
+			</effect_group>
+		</perk>
+
+		<perk name="perkAPM" parent="attPrestige" name_key="AttackSpeedName" desc_key="AttackSpeedDesc" icon="cp_apm">
+			<effect_group>
+				<requirement name="ItemHasTags" tags="melee"/>
+					<passive_effect name="AttacksPerMinute" operation="perc_add" level="1" value=".10"/>
+					<passive_effect name="AttacksPerMinute" operation="perc_add" level="2" value=".16"/>
+					<passive_effect name="AttacksPerMinute" operation="perc_add" level="3" value=".20"/>
+					<passive_effect name="AttacksPerMinute" operation="perc_add" level="4" value=".23"/>
+					<passive_effect name="AttacksPerMinute" operation="perc_add" level="5" value=".25"/>
+
+					<effect_description level="1" desc_key="AttackSpeedRank1Desc" long_desc_key="AttackSpeedRank1LongDesc"/>
+					<effect_description level="2" desc_key="AttackSpeedRank2Desc" long_desc_key="AttackSpeedRank2LongDesc"/>
+					<effect_description level="3" desc_key="AttackSpeedRank3Desc" long_desc_key="AttackSpeedRank3LongDesc"/>
+					<effect_description level="4" desc_key="AttackSpeedRank4Desc" long_desc_key="AttackSpeedRank4LongDesc"/>
+					<effect_description level="5" desc_key="AttackSpeedRank5Desc" long_desc_key="AttackSpeedRank5LongDesc"/>
+			</effect_group>
+		</perk>
+
+		<perk name="perkMD" parent="attPrestige" name_key="MeleeDamageName" desc_key="MeleeDamageDesc" icon="cp_md">
+			<effect_group>
+				<requirement name="ItemHasTags" tags="melee"/>
+					<passive_effect name="EntityDamage" operation="perc_add" level="1" value=".10"/>
+					<passive_effect name="EntityDamage" operation="perc_add" level="2" value=".16"/>
+					<passive_effect name="EntityDamage" operation="perc_add" level="3" value=".20"/>
+					<passive_effect name="EntityDamage" operation="perc_add" level="4" value=".23"/>
+					<passive_effect name="EntityDamage" operation="perc_add" level="5" value=".25"/>
+
+					<passive_effect name="BlockDamage" operation="perc_add" level="1" value=".10"/>
+					<passive_effect name="BlockDamage" operation="perc_add" level="2" value=".16"/>
+					<passive_effect name="BlockDamage" operation="perc_add" level="3" value=".20"/>
+					<passive_effect name="BlockDamage" operation="perc_add" level="4" value=".23"/>
+					<passive_effect name="BlockDamage" operation="perc_add" level="5" value=".25"/>
+
+					<effect_description level="1" desc_key="MeleeDamageRank1Desc" long_desc_key="MeleeDamageRank1LongDesc"/>
+					<effect_description level="2" desc_key="MeleeDamageRank2Desc" long_desc_key="MeleeDamageRank2LongDesc"/>
+					<effect_description level="3" desc_key="MeleeDamageRank3Desc" long_desc_key="MeleeDamageRank3LongDesc"/>
+					<effect_description level="4" desc_key="MeleeDamageRank4Desc" long_desc_key="MeleeDamageRank4LongDesc"/>
+					<effect_description level="5" desc_key="MeleeDamageRank5Desc" long_desc_key="MeleeDamageRank5LongDesc"/>
+			</effect_group>
+		</perk>
+
+		<perk name="perkRWRange" parent="attPrestige" name_key="WeaponRangeName" desc_key="WeaponRangeDesc" icon="cp_rwrange">
+			<effect_group>
+				<requirement name="ItemHasTags" tags="ranged"/>
+					<passive_effect name="MaxRange" operation="perc_add" level="1" value=".10"/>/>
+					<passive_effect name="MaxRange" operation="perc_add" level="2" value=".16"/>/>
+					<passive_effect name="MaxRange" operation="perc_add" level="3" value=".20"/>/>
+					<passive_effect name="MaxRange" operation="perc_add" level="4" value=".23"/>/>
+					<passive_effect name="MaxRange" operation="perc_add" level="5" value=".25"/>/>
+
+					<passive_effect name="DamageFalloffRange" operation="perc_add" level="1" value=".10"/>
+					<passive_effect name="DamageFalloffRange" operation="perc_add" level="2" value=".16"/>
+					<passive_effect name="DamageFalloffRange" operation="perc_add" level="3" value=".20"/>
+					<passive_effect name="DamageFalloffRange" operation="perc_add" level="4" value=".23"/>
+					<passive_effect name="DamageFalloffRange" operation="perc_add" level="5" value=".25"/>
+
+				<requirement name="ItemHasTags" tags="perkJavelinMaster,perkArchery"/>
+					<passive_effect name="ProjectileVelocity" operation="perc_add" level="1" value=".10"/>
+					<passive_effect name="ProjectileVelocity" operation="perc_add" level="2" value=".16"/>
+					<passive_effect name="ProjectileVelocity" operation="perc_add" level="3" value=".20"/>
+					<passive_effect name="ProjectileVelocity" operation="perc_add" level="4" value=".23"/>
+					<passive_effect name="ProjectileVelocity" operation="perc_add" level="5" value=".25"/>
+
+					<effect_description level="1" desc_key="WeaponRangeRank1Desc" long_desc_key="WeaponRangeRank1LongDesc"/>
+					<effect_description level="2" desc_key="WeaponRangeRank2Desc" long_desc_key="WeaponRangeRank2LongDesc"/>
+					<effect_description level="3" desc_key="WeaponRangeRank3Desc" long_desc_key="WeaponRangeRank3LongDesc"/>
+					<effect_description level="4" desc_key="WeaponRangeRank4Desc" long_desc_key="WeaponRangeRank4LongDesc"/>
+					<effect_description level="5" desc_key="WeaponRangeRank5Desc" long_desc_key="WeaponRangeRank5LongDesc"/>
+			</effect_group>
+		</perk>
+
+		<perk name="perkRPM" parent="attPrestige" name_key="FireRateName" desc_key="FireRateDesc" icon="cp_rpm">
+			<effect_group>
+				<requirement name="ItemHasTags" tags="ranged"/>
+					<passive_effect name="RoundsPerMinute" operation="perc_add" level="1" value=".10"/>
+					<passive_effect name="RoundsPerMinute" operation="perc_add" level="2" value=".16"/>
+					<passive_effect name="RoundsPerMinute" operation="perc_add" level="3" value=".20"/>
+					<passive_effect name="RoundsPerMinute" operation="perc_add" level="4" value=".23"/>
+					<passive_effect name="RoundsPerMinute" operation="perc_add" level="5" value=".25"/>
+
+					<effect_description level="1" desc_key="FireRateRank1Desc" long_desc_key="FireRateRank1LongDesc"/>
+					<effect_description level="2" desc_key="FireRateRank2Desc" long_desc_key="FireRateRank2LongDesc"/>
+					<effect_description level="3" desc_key="FireRateRank3Desc" long_desc_key="FireRateRank3LongDesc"/>
+					<effect_description level="4" desc_key="FireRateRank4Desc" long_desc_key="FireRateRank4LongDesc"/>
+					<effect_description level="5" desc_key="FireRateRank5Desc" long_desc_key="FireRateRank5LongDesc"/>
+			</effect_group>
+		</perk>
+
+		<perk name="perkWH" parent="attPrestige" name_key="WeaponHandlingName" desc_key="WeaponHandlingDesc" icon="cp_wh">
+			<effect_group>
+				<requirement name="ItemHasTags" tags="ranged"/>
+					<passive_effect name="WeaponHandling" operation="perc_add" level="1" value=".10"/>
+					<passive_effect name="WeaponHandling" operation="perc_add" level="2" value=".16"/>
+					<passive_effect name="WeaponHandling" operation="perc_add" level="3" value=".20"/>
+					<passive_effect name="WeaponHandling" operation="perc_add" level="4" value=".23"/>
+					<passive_effect name="WeaponHandling" operation="perc_add" level="5" value=".25"/>
+
+					<effect_description level="1" desc_key="WeaponHandlingRank1Desc" long_desc_key="WeaponHandlingRank1LongDesc"/>
+					<effect_description level="2" desc_key="WeaponHandlingRank2Desc" long_desc_key="WeaponHandlingRank2LongDesc"/>
+					<effect_description level="3" desc_key="WeaponHandlingRank3Desc" long_desc_key="WeaponHandlingRank3LongDesc"/>
+					<effect_description level="4" desc_key="WeaponHandlingRank4Desc" long_desc_key="WeaponHandlingRank4LongDesc"/>
+					<effect_description level="5" desc_key="WeaponHandlingRank5Desc" long_desc_key="WeaponHandlingRank5LongDesc"/>
+			</effect_group>
+		</perk>
+
+		<perk name="perkLargeMag" parent="attPrestige" name_key="LargerMagazinesName" desc_key="LargerMagazinesDesc" icon="cp_largemag">
+			<effect_group>
+				<requirement name="ItemHasTags" tags="ranged"/>
+					<passive_effect name="MagazineSize" operation="perc_add" level="1" value=".10"/>
+					<passive_effect name="MagazineSize" operation="perc_add" level="2" value=".16"/>
+					<passive_effect name="MagazineSize" operation="perc_add" level="3" value=".20"/>
+					<passive_effect name="MagazineSize" operation="perc_add" level="4" value=".23"/>
+					<passive_effect name="MagazineSize" operation="perc_add" level="5" value=".25"/>
+
+					<effect_description level="1" desc_key="LargerMagazinesRank1Desc" long_desc_key="LargerMagazinesRank1LongDesc"/>
+					<effect_description level="2" desc_key="LargerMagazinesRank2Desc" long_desc_key="LargerMagazinesRank2LongDesc"/>
+					<effect_description level="3" desc_key="LargerMagazinesRank3Desc" long_desc_key="LargerMagazinesRank3LongDesc"/>
+					<effect_description level="4" desc_key="LargerMagazinesRank4Desc" long_desc_key="LargerMagazinesRank4LongDesc"/>
+					<effect_description level="5" desc_key="LargerMagazinesRank5Desc" long_desc_key="LargerMagazinesRank5LongDesc"/>
+			</effect_group>
+		</perk>
+
+		<perk name="perkRSM" parent="attPrestige" name_key="ReloadSpeedName" desc_key="ReloadSpeedDesc"  icon="cp_rsm">
+			<effect_group>
+				<requirement name="ItemHasTags" tags="ranged"/>
+					<passive_effect name="ReloadSpeedMultiplier" operation="perc_add" level="1" value=".10"/>
+					<passive_effect name="ReloadSpeedMultiplier" operation="perc_add" level="2" value=".16"/>
+					<passive_effect name="ReloadSpeedMultiplier" operation="perc_add" level="3" value=".20"/>
+					<passive_effect name="ReloadSpeedMultiplier" operation="perc_add" level="4" value=".23"/>
+					<passive_effect name="ReloadSpeedMultiplier" operation="perc_add" level="5" value=".25"/>
+
+					<effect_description level="1" desc_key="ReloadSpeedRank1Desc" long_desc_key="ReloadSpeedRank1LongDesc"/>
+					<effect_description level="2" desc_key="ReloadSpeedRank2Desc" long_desc_key="ReloadSpeedRank2LongDesc"/>
+					<effect_description level="3" desc_key="ReloadSpeedRank3Desc" long_desc_key="ReloadSpeedRank3LongDesc"/>
+					<effect_description level="4" desc_key="ReloadSpeedRank4Desc" long_desc_key="ReloadSpeedRank4LongDesc"/>
+					<effect_description level="5" desc_key="ReloadSpeedRank5Desc" long_desc_key="ReloadSpeedRank5LongDesc"/>
+			</effect_group>
+		</perk>
+
+		<perk name="perkRD" parent="attPrestige" name_key="RangedDamageName" desc_key="RangedDamageDesc" icon="cp_rd">
+			<effect_group>
+				<requirement name="ItemHasTags" tags="ranged"/>
+					<passive_effect name="EntityDamage" operation="perc_add" level="1" value=".10"/>
+					<passive_effect name="EntityDamage" operation="perc_add" level="2" value=".16"/>
+					<passive_effect name="EntityDamage" operation="perc_add" level="3" value=".20"/>
+					<passive_effect name="EntityDamage" operation="perc_add" level="4" value=".23"/>
+					<passive_effect name="EntityDamage" operation="perc_add" level="5" value=".25"/>
+
+					<passive_effect name="BlockDamage" operation="perc_add" level="1" value=".10"/>
+					<passive_effect name="BlockDamage" operation="perc_add" level="2" value=".16"/>
+					<passive_effect name="BlockDamage" operation="perc_add" level="3" value=".20"/>
+					<passive_effect name="BlockDamage" operation="perc_add" level="4" value=".23"/>
+					<passive_effect name="BlockDamage" operation="perc_add" level="5" value=".25"/>
+
+					<effect_description level="1" desc_key="RangedDamageRank1Desc" long_desc_key="RangedDamageRank1LongDesc"/>
+					<effect_description level="2" desc_key="RangedDamageRank2Desc" long_desc_key="RangedDamageRank2LongDesc"/>
+					<effect_description level="3" desc_key="RangedDamageRank3Desc" long_desc_key="RangedDamageRank3LongDesc"/>
+					<effect_description level="4" desc_key="RangedDamageRank4Desc" long_desc_key="RangedDamageRank4LongDesc"/>
+					<effect_description level="5" desc_key="RangedDamageRank5Desc" long_desc_key="RangedDamageRank5LongDesc"/>
+			</effect_group>
+		</perk>
+
+		<perk name="perkMaxHP" max_level="10" parent="attPrestige" name_key="MaximumHealthName" desc_key="MaximumHealthDesc" icon="cp_maxHP">
+			<effect_group>
+
+				<passive_effect name="HealthMax" operation="base_add" value="6,30" level="1,5"/>
+				<passive_effect name="HealthMax" operation="base_add" value="34,50" level="6,10"/>
+
+				<effect_description level="1" desc_key="MaximumHealthRank1Desc" long_desc_key="MaximumHealthRank1LongDesc"/>
+				<effect_description level="2" desc_key="MaximumHealthRank2Desc" long_desc_key="MaximumHealthRank2LongDesc"/>
+				<effect_description level="3" desc_key="MaximumHealthRank3Desc" long_desc_key="MaximumHealthRank3LongDesc"/>
+				<effect_description level="4" desc_key="MaximumHealthRank4Desc" long_desc_key="MaximumHealthRank4LongDesc"/>
+				<effect_description level="5" desc_key="MaximumHealthRank5Desc" long_desc_key="MaximumHealthRank5LongDesc"/>
+				<effect_description level="6" desc_key="MaximumHealthRank6Desc" long_desc_key="MaximumHealthRank6LongDesc"/>
+				<effect_description level="7" desc_key="MaximumHealthRank7Desc" long_desc_key="MaximumHealthRank7LongDesc"/>
+				<effect_description level="8" desc_key="MaximumHealthRank8Desc" long_desc_key="MaximumHealthRank8LongDesc"/>
+				<effect_description level="9" desc_key="MaximumHealthRank9Desc" long_desc_key="MaximumHealthRank9LongDesc"/>
+				<effect_description level="10" desc_key="MaximumHealthRank10Desc" long_desc_key="MaximumHealthRank10LongDesc"/>
+
+			</effect_group>
+		</perk>
+
+		<perk name="perkMaxSta" max_level="10" parent="attPrestige" name_key="MaximumStaminaName" desc_key="MaximumStaminaDesc" icon="cp_maxsta">
+			<effect_group>
+				<passive_effect name="StaminaMax" operation="base_add" value="6,30" level="1,5"/>
+				<passive_effect name="StaminaMax" operation="base_add" value="34,50" level="6,10"/>
+
+				<effect_description level="1" desc_key="MaximumStaminaRank1Desc" long_desc_key="MaximumStaminaRank1LongDesc"/>
+				<effect_description level="2" desc_key="MaximumStaminaRank2Desc" long_desc_key="MaximumStaminaRank2LongDesc"/>
+				<effect_description level="3" desc_key="MaximumStaminaRank3Desc" long_desc_key="MaximumStaminaRank3LongDesc"/>
+				<effect_description level="4" desc_key="MaximumStaminaRank4Desc" long_desc_key="MaximumStaminaRank4LongDesc"/>
+				<effect_description level="5" desc_key="MaximumStaminaRank5Desc" long_desc_key="MaximumStaminaRank5LongDesc"/>
+				<effect_description level="6" desc_key="MaximumStaminaRank6Desc" long_desc_key="MaximumStaminaRank6LongDesc"/>
+				<effect_description level="7" desc_key="MaximumStaminaRank7Desc" long_desc_key="MaximumStaminaRank7LongDesc"/>
+				<effect_description level="8" desc_key="MaximumStaminaRank8Desc" long_desc_key="MaximumStaminaRank8LongDesc"/>
+				<effect_description level="9" desc_key="MaximumStaminaRank9Desc" long_desc_key="MaximumStaminaRank9LongDesc"/>
+				<effect_description level="10" desc_key="MaximumStaminaRank10Desc" long_desc_key="MaximumStaminaRank10LongDesc"/>
+			</effect_group>
+		</perk>
+
+		<perk name="perkDmgRes" max_level="10" parent="attPrestige" name_key="DamageResistanceName" desc_key="DamageResistanceDesc" icon="cp_dmgres">
+			<effect_group>
+				<passive_effect name="HealthLoss" operation="perc_subtract" level="1,5" value=".024,.12"/>
+				<passive_effect name="HealthLoss" operation="perc_subtract" level="6,10" value=".136,.2"/>
+
+				<effect_description level="1" desc_key="DamageResistanceRank1Desc" long_desc_key="DamageResistanceRank1LongDesc"/>
+				<effect_description level="2" desc_key="DamageResistanceRank2Desc" long_desc_key="DamageResistanceRank2LongDesc"/>
+				<effect_description level="3" desc_key="DamageResistanceRank3Desc" long_desc_key="DamageResistanceRank3LongDesc"/>
+				<effect_description level="4" desc_key="DamageResistanceRank4Desc" long_desc_key="DamageResistanceRank4LongDesc"/>
+				<effect_description level="5" desc_key="DamageResistanceRank5Desc" long_desc_key="DamageResistanceRank5LongDesc"/>
+				<effect_description level="6" desc_key="DamageResistanceRank6Desc" long_desc_key="DamageResistanceRank6LongDesc"/>
+				<effect_description level="7" desc_key="DamageResistanceRank7Desc" long_desc_key="DamageResistanceRank7LongDesc"/>
+				<effect_description level="8" desc_key="DamageResistanceRank8Desc" long_desc_key="DamageResistanceRank8LongDesc"/>
+				<effect_description level="9" desc_key="DamageResistanceRank9Desc" long_desc_key="DamageResistanceRank9LongDesc"/>
+				<effect_description level="10" desc_key="DamageResistanceRank10Desc" long_desc_key="DamageResistanceRank10LongDesc"/>
+
+			</effect_group>
+		</perk>
+
+		<perk name="perkStaLoss" max_level="10" parent="attPrestige" name_key="VigorName" desc_key="VigorDesc" icon="cp_staloss">
+			<effect_group>
+				<requirement name="ItemHasTags" tags="melee"/>
+				<passive_effect name="StaminaLoss" operation="perc_add" level="1,5" value="-.03,-.15"/>
+				<passive_effect name="StaminaLoss" operation="perc_add" level="6,10" value="-.17,-.25"/>
+
+				<effect_description level="1" desc_key="VigorRank1Desc" long_desc_key="VigorRank1LongDesc"/>
+				<effect_description level="2" desc_key="VigorRank2Desc" long_desc_key="VigorRank2LongDesc"/>
+				<effect_description level="3" desc_key="VigorRank3Desc" long_desc_key="VigorRank3LongDesc"/>
+				<effect_description level="4" desc_key="VigorRank4Desc" long_desc_key="VigorRank4LongDesc"/>
+				<effect_description level="5" desc_key="VigorRank5Desc" long_desc_key="VigorRank5LongDesc"/>
+				<effect_description level="6" desc_key="VigorRank6Desc" long_desc_key="VigorRank6LongDesc"/>
+				<effect_description level="7" desc_key="VigorRank7Desc" long_desc_key="VigorRank7LongDesc"/>
+				<effect_description level="8" desc_key="VigorRank8Desc" long_desc_key="VigorRank8LongDesc"/>
+				<effect_description level="9" desc_key="VigorRank9Desc" long_desc_key="VigorRank9LongDesc"/>
+				<effect_description level="10" desc_key="VigorRank10Desc" long_desc_key="VigorRank10LongDesc"/>
+			</effect_group>
+		</perk>
+
+		<perk name="perkStaRegen" max_level="10" parent="attPrestige" name_key="ConstancyName" desc_key="ConstancyDesc" icon="cp_staregen">
+			<effect_group>
+				<passive_effect name="StaminaChangeOT" operation="perc_add" level="1,5" value=".03,.15"/>
+				<passive_effect name="StaminaChangeOT" operation="perc_add" level="6,10" value=".17,.25"/>
+
+				<effect_description level="1" desc_key="ConstancyRank1Desc" long_desc_key="ConstancyRank1LongDesc"/>
+				<effect_description level="2" desc_key="ConstancyRank2Desc" long_desc_key="ConstancyRank2LongDesc"/>
+				<effect_description level="3" desc_key="ConstancyRank3Desc" long_desc_key="ConstancyRank3LongDesc"/>
+				<effect_description level="4" desc_key="ConstancyRank4Desc" long_desc_key="ConstancyRank4LongDesc"/>
+				<effect_description level="5" desc_key="ConstancyRank5Desc" long_desc_key="ConstancyRank5LongDesc"/>
+				<effect_description level="6" desc_key="ConstancyRank6Desc" long_desc_key="ConstancyRank6LongDesc"/>
+				<effect_description level="7" desc_key="ConstancyRank7Desc" long_desc_key="ConstancyRank7LongDesc"/>
+				<effect_description level="8" desc_key="ConstancyRank8Desc" long_desc_key="ConstancyRank8LongDesc"/>
+				<effect_description level="9" desc_key="ConstancyRank9Desc" long_desc_key="ConstancyRank9LongDesc"/>
+				<effect_description level="10" desc_key="ConstancyRank10Desc" long_desc_key="ConstancyRank10LongDesc"/>
+			</effect_group>
+		</perk>
+
+		<perk name="perkRecuperate" max_level="10" parent="attPrestige" name_key="RecuperateName" desc_key="RecuperateDesc" icon="cp_Recuperate">
+			<effect_group>
+				<passive_effect name="HealthChangeOT" operation="base_add" level="1,5" value=".03,.15"/>
+				<passive_effect name="HealthChangeOT" operation="base_add" level="6,10" value=".17,.25"/>
+
+				<effect_description level="1" desc_key="RecuperateRank1Desc" long_desc_key="RecuperateRank1LongDesc"/>
+				<effect_description level="2" desc_key="RecuperateRank2Desc" long_desc_key="RecuperateRank2LongDesc"/>
+				<effect_description level="3" desc_key="RecuperateRank3Desc" long_desc_key="RecuperateRank3LongDesc"/>
+				<effect_description level="4" desc_key="RecuperateRank4Desc" long_desc_key="RecuperateRank4LongDesc"/>
+				<effect_description level="5" desc_key="RecuperateRank5Desc" long_desc_key="RecuperateRank5LongDesc"/>
+				<effect_description level="6" desc_key="RecuperateRank6Desc" long_desc_key="RecuperateRank6LongDesc"/>
+				<effect_description level="7" desc_key="RecuperateRank7Desc" long_desc_key="RecuperateRank7LongDesc"/>
+				<effect_description level="8" desc_key="RecuperateRank8Desc" long_desc_key="RecuperateRank8LongDesc"/>
+				<effect_description level="9" desc_key="RecuperateRank9Desc" long_desc_key="RecuperateRank9LongDesc"/>
+				<effect_description level="10" desc_key="RecuperateRank10Desc" long_desc_key="RecuperateRank10LongDesc"/>
+			</effect_group>
+		</perk>
+
+		<perk name="perkSuperiorMetabolism" max_level="10" parent="attPrestige" name_key="SuperiorMetabolismName" desc_key="SuperiorMetabolismDesc" icon="cp_superiormetabolism">
+			<effect_group>
+
+				<passive_effect name="WaterLossPerHealthPointGained" operation="perc_subtract" level="1,5" value="0.03,0.15"/>
+				<passive_effect name="WaterLossPerHealthPointGained" operation="perc_subtract" level="6,10" value="0.17,0.25"/>
+
+				<passive_effect name="WaterLossPerStaminaPointGained" operation="perc_subtract" level="1,5" value="0.03,0.15"/>
+				<passive_effect name="WaterLossPerStaminaPointGained" operation="perc_subtract" level="6,10" value="0.17,0.25"/>
+
+				<passive_effect name="FoodLossPerStaminaPointGained" operation="perc_subtract" level="1,5" value="0.03,0.15"/>
+				<passive_effect name="FoodLossPerStaminaPointGained" operation="perc_subtract" level="6,10" value="0.17,0.25"/>
+
+				<effect_description level="1" desc_key="SuperiorMetabolismRank1Desc" long_desc_key="SuperiorMetabolismRank1LongDesc"/>
+				<effect_description level="2" desc_key="SuperiorMetabolismRank2Desc" long_desc_key="SuperiorMetabolismRank2LongDesc"/>
+				<effect_description level="3" desc_key="SuperiorMetabolismRank3Desc" long_desc_key="SuperiorMetabolismRank3LongDesc"/>
+				<effect_description level="4" desc_key="SuperiorMetabolismRank4Desc" long_desc_key="SuperiorMetabolismRank4LongDesc"/>
+				<effect_description level="5" desc_key="SuperiorMetabolismRank5Desc" long_desc_key="SuperiorMetabolismRank5LongDesc"/>
+				<effect_description level="6" desc_key="SuperiorMetabolismRank6Desc" long_desc_key="SuperiorMetabolismRank6LongDesc"/>
+				<effect_description level="7" desc_key="SuperiorMetabolismRank7Desc" long_desc_key="SuperiorMetabolismRank7LongDesc"/>
+				<effect_description level="8" desc_key="SuperiorMetabolismRank8Desc" long_desc_key="SuperiorMetabolismRank8LongDesc"/>
+				<effect_description level="9" desc_key="SuperiorMetabolismRank9Desc" long_desc_key="SuperiorMetabolismRank9LongDesc"/>
+				<effect_description level="10" desc_key="SuperiorMetabolismRank10Desc" long_desc_key="SuperiorMetabolismRank10LongDesc"/>
+			</effect_group>
+		</perk>
+
+		<perk name="perkMobility" max_level="10" parent="attPrestige" name_key="MobilityName" desc_key="MobilityDesc" icon="cp_mobility">
+			<effect_group>
+				<passive_effect name="Mobility" operation="perc_add" value=".04,.2" level="1,5"/>
+				<passive_effect name="Mobility" operation="perc_add" value=".22,.3" level="6,10"/>
+
+				<effect_description level="1" desc_key="MobilityRank1Desc" long_desc_key="MobilityRank1LongDesc"/>
+				<effect_description level="2" desc_key="MobilityRank2Desc" long_desc_key="MobilityRank2LongDesc"/>
+				<effect_description level="3" desc_key="MobilityRank3Desc" long_desc_key="MobilityRank3LongDesc"/>
+				<effect_description level="4" desc_key="MobilityRank4Desc" long_desc_key="MobilityRank4LongDesc"/>
+				<effect_description level="5" desc_key="MobilityRank5Desc" long_desc_key="MobilityRank5LongDesc"/>
+				<effect_description level="6" desc_key="MobilityRank6Desc" long_desc_key="MobilityRank6LongDesc"/>
+				<effect_description level="7" desc_key="MobilityRank7Desc" long_desc_key="MobilityRank7LongDesc"/>
+				<effect_description level="8" desc_key="MobilityRank8Desc" long_desc_key="MobilityRank8LongDesc"/>
+				<effect_description level="9" desc_key="MobilityRank9Desc" long_desc_key="MobilityRank9LongDesc"/>
+				<effect_description level="10" desc_key="MobilityRank10Desc" long_desc_key="MobilityRank10LongDesc"/>
+			</effect_group>
+		</perk>
+
+		<perk name="perkMiningMastery" max_level="10" parent="attPrestige" name_key="MiningMasteryName" desc_key="MiningMasteryDesc" icon="cp_miningmastery">
+			<effect_group>
+				<passive_effect name="HarvestCount" operation="perc_add" level="1,5" value=".06,.3" tags="oreWoodHarvest"/>
+				<passive_effect name="HarvestCount" operation="perc_add" level="6,10" value=".34,.5" tags="oreWoodHarvest"/>
+
+				<passive_effect name="BlockDamage" operation="perc_add" value=".1,.1" level="5,9"/>
+				<passive_effect name="BlockDamage" operation="perc_add" value=".2" level="10"/>
+
+				<effect_description level="1" desc_key="MiningMasteryRank1Desc" long_desc_key="MiningMasteryRank1LongDesc"/>
+				<effect_description level="2" desc_key="MiningMasteryRank2Desc" long_desc_key="MiningMasteryRank2LongDesc"/>
+				<effect_description level="3" desc_key="MiningMasteryRank3Desc" long_desc_key="MiningMasteryRank3LongDesc"/>
+				<effect_description level="4" desc_key="MiningMasteryRank4Desc" long_desc_key="MiningMasteryRank4LongDesc"/>
+				<effect_description level="5" desc_key="MiningMasteryRank5Desc" long_desc_key="MiningMasteryRank5LongDesc"/>
+				<effect_description level="6" desc_key="MiningMasteryRank6Desc" long_desc_key="MiningMasteryRank6LongDesc"/>
+				<effect_description level="7" desc_key="MiningMasteryRank7Desc" long_desc_key="MiningMasteryRank7LongDesc"/>
+				<effect_description level="8" desc_key="MiningMasteryRank8Desc" long_desc_key="MiningMasteryRank8LongDesc"/>
+				<effect_description level="9" desc_key="MiningMasteryRank9Desc" long_desc_key="MiningMasteryRank9LongDesc"/>
+				<effect_description level="10" desc_key="MiningMasteryRank10Desc" long_desc_key="MiningMasteryRank10LongDesc"/>
+			</effect_group>
+		</perk>
+
+		<perk name="perkToolMastery" max_level="10" parent="attPrestige" name_key="ToolMasteryName" desc_key="ToolMasteryDesc" icon="cp_toolmastery">
+			<effect_group>
+				<requirement name="ItemHasTags" tags="perkMiner69r,turretMelee"/>
+
+				<passive_effect name="BlockDamage" operation="perc_add" value=".12,.6" level="1,5"/>
+				<passive_effect name="BlockDamage" operation="perc_add" value=".68,1" level="6,10"/>
+
+				<passive_effect name="AttacksPerMinute" operation="perc_add" level="1,5" value=".06,.3"/>
+				<passive_effect name="AttacksPerMinute" operation="perc_add" level="6,10" value=".34,.5"/>
+
+				<passive_effect name="FallingBlockDamage" operation="perc_add" level="5,9" value="-.15,-.15" />
+				<passive_effect name="FallingBlockDamage" operation="perc_add" level="10" value="-.3" />
+
+				<effect_description level="1" desc_key="ToolMasteryRank1Desc" long_desc_key="ToolMasteryRank1LongDesc"/>
+				<effect_description level="2" desc_key="ToolMasteryRank2Desc" long_desc_key="ToolMasteryRank2LongDesc"/>
+				<effect_description level="3" desc_key="ToolMasteryRank3Desc" long_desc_key="ToolMasteryRank3LongDesc"/>
+				<effect_description level="4" desc_key="ToolMasteryRank4Desc" long_desc_key="ToolMasteryRank4LongDesc"/>
+				<effect_description level="5" desc_key="ToolMasteryRank5Desc" long_desc_key="ToolMasteryRank5LongDesc"/>
+				<effect_description level="6" desc_key="ToolMasteryRank6Desc" long_desc_key="ToolMasteryRank6LongDesc"/>
+				<effect_description level="7" desc_key="ToolMasteryRank7Desc" long_desc_key="ToolMasteryRank7LongDesc"/>
+				<effect_description level="8" desc_key="ToolMasteryRank8Desc" long_desc_key="ToolMasteryRank8LongDesc"/>
+				<effect_description level="9" desc_key="ToolMasteryRank9Desc" long_desc_key="ToolMasteryRank9LongDesc"/>
+				<effect_description level="10" desc_key="ToolMasteryRank10Desc" long_desc_key="ToolMasteryRank10LongDesc"/>
+			</effect_group>
+		</perk>
+
+		<perk name="perkClubMastery" max_level="10" parent="attPrestige" name_key="ClubMasteryName" desc_key="ClubMasteryDesc" icon="cp_clubmastery">
+			<effect_group>
+				<requirement name="ItemHasTags" tags="perkPummelPete"/>
+				<passive_effect name="AttacksPerMinute" operation="perc_add" level="1,5" value=".06,.3"/>
+				<passive_effect name="AttacksPerMinute" operation="perc_add" level="6,10" value=".34,.5"/>
+			
+				<passive_effect name="EntityDamage" operation="perc_add" level="1,5" value=".06,.3"/>
+				<passive_effect name="EntityDamage" operation="perc_add" level="6,10" value=".34,.5"/>
+
+				<passive_effect name="EntityDamage" operation="perc_add" level="5,9" value=".15,.15" tags="running"/>
+				<passive_effect name="EntityDamage" operation="perc_add" level="10" value=".3" tags="running"/>
+
+				<effect_description level="1" desc_key="ClubMasteryRank1Desc" long_desc_key="ClubMasteryRank1LongDesc"/>
+				<effect_description level="2" desc_key="ClubMasteryRank2Desc" long_desc_key="ClubMasteryRank2LongDesc"/>
+				<effect_description level="3" desc_key="ClubMasteryRank3Desc" long_desc_key="ClubMasteryRank3LongDesc"/>
+				<effect_description level="4" desc_key="ClubMasteryRank4Desc" long_desc_key="ClubMasteryRank4LongDesc"/>
+				<effect_description level="5" desc_key="ClubMasteryRank5Desc" long_desc_key="ClubMasteryRank5LongDesc"/>
+				<effect_description level="6" desc_key="ClubMasteryRank6Desc" long_desc_key="ClubMasteryRank6LongDesc"/>
+				<effect_description level="7" desc_key="ClubMasteryRank7Desc" long_desc_key="ClubMasteryRank7LongDesc"/>
+				<effect_description level="8" desc_key="ClubMasteryRank8Desc" long_desc_key="ClubMasteryRank8LongDesc"/>
+				<effect_description level="9" desc_key="ClubMasteryRank9Desc" long_desc_key="ClubMasteryRank9LongDesc"/>
+				<effect_description level="10" desc_key="ClubMasteryRank10Desc" long_desc_key="ClubMasteryRank10LongDesc"/>
+			</effect_group>
+		</perk>
+
+		<perk name="perkSledgeMastery" max_level="10" parent="attPrestige" name_key="SledgeMasteryName" desc_key="SledgeMasteryDesc" icon="cp_sledgemastery">
+			<effect_group>
+				<requirement name="ItemHasTags" tags="perkSkullCrusher"/>
+				<passive_effect name="AttacksPerMinute" operation="perc_add" level="1,5" value=".06,.3"/>
+				<passive_effect name="AttacksPerMinute" operation="perc_add" level="6,10" value=".34,.5"/>
+			
+				<passive_effect name="EntityDamage" operation="perc_add" level="1,5" value=".06,.3"/>
+				<passive_effect name="EntityDamage" operation="perc_add" level="6,10" value=".34,.5"/>
+			
+				<passive_effect name="BlockDamage" operation="perc_add" value=".24,1.2" level="1,5"/>
+				<passive_effect name="BlockDamage" operation="perc_add" value="1.36,2" level="6,10"/>
+
+				<effect_description level="1" desc_key="SledgeMasteryRank1Desc" long_desc_key="SledgeMasteryRank1LongDesc"/>
+				<effect_description level="2" desc_key="SledgeMasteryRank2Desc" long_desc_key="SledgeMasteryRank2LongDesc"/>
+				<effect_description level="3" desc_key="SledgeMasteryRank3Desc" long_desc_key="SledgeMasteryRank3LongDesc"/>
+				<effect_description level="4" desc_key="SledgeMasteryRank4Desc" long_desc_key="SledgeMasteryRank4LongDesc"/>
+				<effect_description level="5" desc_key="SledgeMasteryRank5Desc" long_desc_key="SledgeMasteryRank5LongDesc"/>
+				<effect_description level="6" desc_key="SledgeMasteryRank6Desc" long_desc_key="SledgeMasteryRank6LongDesc"/>
+				<effect_description level="7" desc_key="SledgeMasteryRank7Desc" long_desc_key="SledgeMasteryRank7LongDesc"/>
+				<effect_description level="8" desc_key="SledgeMasteryRank8Desc" long_desc_key="SledgeMasteryRank8LongDesc"/>
+				<effect_description level="9" desc_key="SledgeMasteryRank9Desc" long_desc_key="SledgeMasteryRank9LongDesc"/>
+				<effect_description level="10" desc_key="SledgeMasteryRank10Desc" long_desc_key="SledgeMasteryRank10LongDesc"/>
+			</effect_group>
+		</perk>
+
+		<perk name="perkBrawlMastery" max_level="10" parent="attPrestige" name_key="BrawlingMasteryName" desc_key="BrawlingMasteryDesc" icon="cp_brawlmastery">
+		
+
+			<effect_group>
+				<requirement name="ItemHasTags" tags="perkBrawler"/>
+				<passive_effect name="AttacksPerMinute" operation="perc_add" level="1,5" value=".06,.3"/>
+				<passive_effect name="AttacksPerMinute" operation="perc_add" level="6,10" value=".34,.5"/>
+			
+				<passive_effect name="EntityDamage" operation="perc_add" level="1,5" value=".06,.3"/>
+				<passive_effect name="EntityDamage" operation="perc_add" level="6,10" value=".34,.5"/>
+
+				<passive_effect name="RunSpeed" operation="perc_add" level="5,9" value=".1,.1"/>
+				<passive_effect name="RunSpeed" operation="perc_add" level="10" value=".2"/>
+				<passive_effect name="WalkSpeed" operation="perc_add" level="5,9" value=".1,.1"/>
+				<passive_effect name="WalkSpeed" operation="perc_add" level="10" value=".2"/>
+
+				<effect_description level="1" desc_key="BrawlingMasteryRank1Desc" long_desc_key="BrawlingMasteryRank1LongDesc"/>
+				<effect_description level="2" desc_key="BrawlingMasteryRank2Desc" long_desc_key="BrawlingMasteryRank2LongDesc"/>
+				<effect_description level="3" desc_key="BrawlingMasteryRank3Desc" long_desc_key="BrawlingMasteryRank3LongDesc"/>
+				<effect_description level="4" desc_key="BrawlingMasteryRank4Desc" long_desc_key="BrawlingMasteryRank4LongDesc"/>
+				<effect_description level="5" desc_key="BrawlingMasteryRank5Desc" long_desc_key="BrawlingMasteryRank5LongDesc"/>
+				<effect_description level="6" desc_key="BrawlingMasteryRank6Desc" long_desc_key="BrawlingMasteryRank6LongDesc"/>
+				<effect_description level="7" desc_key="BrawlingMasteryRank7Desc" long_desc_key="BrawlingMasteryRank7LongDesc"/>
+				<effect_description level="8" desc_key="BrawlingMasteryRank8Desc" long_desc_key="BrawlingMasteryRank8LongDesc"/>
+				<effect_description level="9" desc_key="BrawlingMasteryRank9Desc" long_desc_key="BrawlingMasteryRank9LongDesc"/>
+				<effect_description level="10" desc_key="BrawlingMasteryRank10Desc" long_desc_key="BrawlingMasteryRank10LongDesc"/>
+			</effect_group>
+		</perk>
+
+		<perk name="perkBladeMastery" max_level="10" parent="attPrestige" name_key="BladeMasteryName" desc_key="BladeMasteryDesc" icon="cp_blademastery">
+		
+
+			<effect_group>
+				<requirement name="ItemHasTags" tags="perkDeepCuts"/>
+				<passive_effect name="AttacksPerMinute" operation="perc_add" level="1,5" value=".06,.3"/>
+				<passive_effect name="AttacksPerMinute" operation="perc_add" level="6,10" value=".34,.5"/>
+			
+				<passive_effect name="EntityDamage" operation="perc_add" level="1,5" value=".06,.3"/>
+				<passive_effect name="EntityDamage" operation="perc_add" level="6,10" value=".34,.5"/>
+			
+			<!--max bleeding stacks managed in buffs.xml -->
+			
+				<effect_description level="1" desc_key="BladeMasteryRank1Desc" long_desc_key="BladeMasteryRank1LongDesc"/>
+				<effect_description level="2" desc_key="BladeMasteryRank2Desc" long_desc_key="BladeMasteryRank2LongDesc"/>
+				<effect_description level="3" desc_key="BladeMasteryRank3Desc" long_desc_key="BladeMasteryRank3LongDesc"/>
+				<effect_description level="4" desc_key="BladeMasteryRank4Desc" long_desc_key="BladeMasteryRank4LongDesc"/>
+				<effect_description level="5" desc_key="BladeMasteryRank5Desc" long_desc_key="BladeMasteryRank5LongDesc"/>
+				<effect_description level="6" desc_key="BladeMasteryRank6Desc" long_desc_key="BladeMasteryRank6LongDesc"/>
+				<effect_description level="7" desc_key="BladeMasteryRank7Desc" long_desc_key="BladeMasteryRank7LongDesc"/>
+				<effect_description level="8" desc_key="BladeMasteryRank8Desc" long_desc_key="BladeMasteryRank8LongDesc"/>
+				<effect_description level="9" desc_key="BladeMasteryRank9Desc" long_desc_key="BladeMasteryRank9LongDesc"/>
+				<effect_description level="10" desc_key="BladeMasteryRank10Desc" long_desc_key="BladeMasteryRank10LongDesc"/>
+			</effect_group>
+		</perk>
+
+		<perk name="perkBatonMastery" max_level="10" parent="attPrestige" name_key="BatonMasteryName" desc_key="BatonMasteryDesc" icon="cp_batonmastery">
+		
+
+			<effect_group>
+				<requirement name="ItemHasTags" tags="perkElectrocutioner"/>
+				<passive_effect name="AttacksPerMinute" operation="perc_add" level="1,5" value=".06,.3"/>
+				<passive_effect name="AttacksPerMinute" operation="perc_add" level="6,10" value=".34,.5"/>
+			
+				<passive_effect name="EntityDamage" operation="perc_add" level="1,5" value=".06,.3"/>
+				<passive_effect name="EntityDamage" operation="perc_add" level="6,10" value=".34,.5"/>
+			
+				<effect_description level="1" desc_key="BatonMasteryRank1Desc" long_desc_key="BatonMasteryRank1LongDesc"/>
+				<effect_description level="2" desc_key="BatonMasteryRank2Desc" long_desc_key="BatonMasteryRank2LongDesc"/>
+				<effect_description level="3" desc_key="BatonMasteryRank3Desc" long_desc_key="BatonMasteryRank3LongDesc"/>
+				<effect_description level="4" desc_key="BatonMasteryRank4Desc" long_desc_key="BatonMasteryRank4LongDesc"/>
+				<effect_description level="5" desc_key="BatonMasteryRank5Desc" long_desc_key="BatonMasteryRank5LongDesc"/>
+				<effect_description level="6" desc_key="BatonMasteryRank6Desc" long_desc_key="BatonMasteryRank6LongDesc"/>
+				<effect_description level="7" desc_key="BatonMasteryRank7Desc" long_desc_key="BatonMasteryRank7LongDesc"/>
+				<effect_description level="8" desc_key="BatonMasteryRank8Desc" long_desc_key="BatonMasteryRank8LongDesc"/>
+				<effect_description level="9" desc_key="BatonMasteryRank9Desc" long_desc_key="BatonMasteryRank9LongDesc"/>
+				<effect_description level="10" desc_key="BatonMasteryRank10Desc" long_desc_key="BatonMasteryRank10LongDesc"/>
+			</effect_group>
+
+			<effect_group>
+				<triggered_effect trigger="onSelfSecondaryActionRayHit" action="AddBuff" target="other" buff="buffInjuryKnockdown01">
+						<requirement name="ProgressionLevel" progression_name="perkBatonMastery" operation="Equals" value="5"/>
+						<requirement name="RandomRoll" seed_type="Random" min_max="0,100" operation="LTE" value="15"/>
+				</triggered_effect>
+
+				<triggered_effect trigger="onSelfSecondaryActionRayHit" action="AddBuff" target="other" buff="buffInjuryKnockdown01">
+						<requirement name="ProgressionLevel" progression_name="perkBatonMastery" operation="GTE" value="10"/>
+						<requirement name="RandomRoll" seed_type="Random" min_max="0,100" operation="LTE" value="30"/>
+				</triggered_effect>
+			</effect_group>
+		</perk>
+
+		<perk name="perkSpearMastery" max_level="10" parent="attPrestige" name_key="SpearMasteryName" desc_key="SpearMasteryDesc" icon="cp_spearmastery">
+		
+
+			<effect_group>
+				<requirement name="ItemHasTags" tags="perkJavelinMaster"/>
+				<passive_effect name="AttacksPerMinute" operation="perc_add" level="1,5" value=".06,.3"/>
+				<passive_effect name="AttacksPerMinute" operation="perc_add" level="6,10" value=".34,.5"/>
+
+				<passive_effect name="EntityDamage" operation="perc_add" level="1,5" value=".06,.3"/>
+				<passive_effect name="EntityDamage" operation="perc_add" level="6,10" value=".34,.5"/>
+
+				<passive_effect name="ProjectileVelocity" operation="perc_add" level="1,5" value=".06,.3"/>
+				<passive_effect name="ProjectileVelocity" operation="perc_add" level="6,10" value=".34,.5"/>
+
+				<passive_effect name="EntityDamage" operation="perc_add" level="5,9" value=".25,.25" tags="secondary"/>
+				<passive_effect name="EntityDamage" operation="perc_add" level="10" value=".5" tags="secondary"/>
+
+				<effect_description level="1" desc_key="SpearMasteryRank1Desc" long_desc_key="SpearMasteryRank1LongDesc"/>
+				<effect_description level="2" desc_key="SpearMasteryRank2Desc" long_desc_key="SpearMasteryRank2LongDesc"/>
+				<effect_description level="3" desc_key="SpearMasteryRank3Desc" long_desc_key="SpearMasteryRank3LongDesc"/>
+				<effect_description level="4" desc_key="SpearMasteryRank4Desc" long_desc_key="SpearMasteryRank4LongDesc"/>
+				<effect_description level="5" desc_key="SpearMasteryRank5Desc" long_desc_key="SpearMasteryRank5LongDesc"/>
+				<effect_description level="6" desc_key="SpearMasteryRank6Desc" long_desc_key="SpearMasteryRank6LongDesc"/>
+				<effect_description level="7" desc_key="SpearMasteryRank7Desc" long_desc_key="SpearMasteryRank7LongDesc"/>
+				<effect_description level="8" desc_key="SpearMasteryRank8Desc" long_desc_key="SpearMasteryRank8LongDesc"/>
+				<effect_description level="9" desc_key="SpearMasteryRank9Desc" long_desc_key="SpearMasteryRank9LongDesc"/>
+				<effect_description level="10" desc_key="SpearMasteryRank10Desc" long_desc_key="SpearMasteryRank10LongDesc"/>
+			</effect_group>
+		</perk>
+
+		<perk name="perkXPBonus" max_level="10" parent="attPrestige" name_key="ExtraExperienceName" desc_key="ExtraExperienceDesc" icon="cp_xpbonus">
+			<effect_group>
+				<passive_effect name="PlayerExpGain" operation="perc_add" value=".12,.6 " level="1,5"/>
+				<passive_effect name="PlayerExpGain" operation="perc_add" value=".68,1 " level="6,10"/>
+
+				<effect_description level="1" desc_key="ExtraExperienceRank1Desc" long_desc_key="ExtraExperienceRank1LongDesc"/>
+				<effect_description level="2" desc_key="ExtraExperienceRank2Desc" long_desc_key="ExtraExperienceRank2LongDesc"/>
+				<effect_description level="3" desc_key="ExtraExperienceRank3Desc" long_desc_key="ExtraExperienceRank3LongDesc"/>
+				<effect_description level="4" desc_key="ExtraExperienceRank4Desc" long_desc_key="ExtraExperienceRank4LongDesc"/>
+				<effect_description level="5" desc_key="ExtraExperienceRank5Desc" long_desc_key="ExtraExperienceRank5LongDesc"/>
+				<effect_description level="6" desc_key="ExtraExperienceRank6Desc" long_desc_key="ExtraExperienceRank6LongDesc"/>
+				<effect_description level="7" desc_key="ExtraExperienceRank7Desc" long_desc_key="ExtraExperienceRank7LongDesc"/>
+				<effect_description level="8" desc_key="ExtraExperienceRank8Desc" long_desc_key="ExtraExperienceRank8LongDesc"/>
+				<effect_description level="9" desc_key="ExtraExperienceRank9Desc" long_desc_key="ExtraExperienceRank9LongDesc"/>
+				<effect_description level="10" desc_key="ExtraExperienceRank10Desc" long_desc_key="ExtraExperienceRank10LongDesc"/>
+			</effect_group>
+		</perk>
+
+		<perk name="perkCraftSpeed" max_level="10" parent="attPrestige" name_key="CraftingSpeedName" desc_key="CraftingSpeedDesc" icon="cp_craftspeed">
+			<effect_group>
+    		<passive_effect name="CraftingTime" operation="perc_add" level="1,5" value="-.08,-.4"/>
+    		<passive_effect name="CraftingTime" operation="perc_add" level="6,10" value="-.46,-.7"/>
+			<passive_effect name="CraftingTier" operation="base_add" level="10" value="1"/>
+
+				<effect_description level="1" desc_key="CraftingSpeedRank1Desc" long_desc_key="CraftingSpeedRank1LongDesc"/>
+				<effect_description level="2" desc_key="CraftingSpeedRank2Desc" long_desc_key="CraftingSpeedRank2LongDesc"/>
+				<effect_description level="3" desc_key="CraftingSpeedRank3Desc" long_desc_key="CraftingSpeedRank3LongDesc"/>
+				<effect_description level="4" desc_key="CraftingSpeedRank4Desc" long_desc_key="CraftingSpeedRank4LongDesc"/>
+				<effect_description level="5" desc_key="CraftingSpeedRank5Desc" long_desc_key="CraftingSpeedRank5LongDesc"/>
+				<effect_description level="6" desc_key="CraftingSpeedRank6Desc" long_desc_key="CraftingSpeedRank6LongDesc"/>
+				<effect_description level="7" desc_key="CraftingSpeedRank7Desc" long_desc_key="CraftingSpeedRank7LongDesc"/>
+				<effect_description level="8" desc_key="CraftingSpeedRank8Desc" long_desc_key="CraftingSpeedRank8LongDesc"/>
+				<effect_description level="9" desc_key="CraftingSpeedRank9Desc" long_desc_key="CraftingSpeedRank9LongDesc"/>
+				<effect_description level="10" desc_key="CraftingSpeedRank10Desc" long_desc_key="CraftingSpeedRank10LongDesc"/>
+			</effect_group>
+		</perk>
+
+		<perk name="perkRascal" max_level="10" parent="attPrestige" name_key="RascalName" desc_key="RascalDesc" icon="cp_rascal">
+			<effect_group>
+
+			<passive_effect name="BarteringBuying" operation="base_add" level="1,5" value=".02,.1"/>
+			<passive_effect name="BarteringBuying" operation="base_add" level="6,10" value=".11,.15"/>
+			<passive_effect name="BarteringSelling" operation="base_add" level="1,5" value=".02,.1"/>
+			<passive_effect name="BarteringSelling" operation="base_add" level="6,10" value=".11,.15"/>
+			<passive_effect name="SecretStash" operation="base_add" level="1,5" value="600,3000"/>
+			<passive_effect name="SecretStash" operation="base_add" level="6,10" value="3400,5000"/>
+
+			<effect_description level="1" desc_key="RascalRank1Desc" long_desc_key="RascalRank1LongDesc"/>
+			<effect_description level="2" desc_key="RascalRank2Desc" long_desc_key="RascalRank2LongDesc"/>
+			<effect_description level="3" desc_key="RascalRank3Desc" long_desc_key="RascalRank3LongDesc"/>
+			<effect_description level="4" desc_key="RascalRank4Desc" long_desc_key="RascalRank4LongDesc"/>
+			<effect_description level="5" desc_key="RascalRank5Desc" long_desc_key="RascalRank5LongDesc"/>
+			<effect_description level="6" desc_key="RascalRank6Desc" long_desc_key="RascalRank6LongDesc"/>
+			<effect_description level="7" desc_key="RascalRank7Desc" long_desc_key="RascalRank7LongDesc"/>
+			<effect_description level="8" desc_key="RascalRank8Desc" long_desc_key="RascalRank8LongDesc"/>
+			<effect_description level="9" desc_key="RascalRank9Desc" long_desc_key="RascalRank9LongDesc"/>
+			<effect_description level="10" desc_key="RascalRank10Desc" long_desc_key="RascalRank10LongDesc"/>
+			</effect_group>
+		</perk>
+
+		<perk name="perkFoodEngineering" max_level="10" parent="attPrestige" name_key="FoodEngineeringName" desc_key="FoodEngineeringDesc" icon="cp_foodengineering">
+			<effect_group>
+			<passive_effect name="CraftingTier" operation="base_add" level="1,5" value="1,6" tags="perkMasterChef"/><!-- fake crafting perk that is used to scale resources -->
+			<passive_effect name="CraftingTier" operation="base_add" level="6,10" value="7,10" tags="perkMasterChef"/>
+
+			<passive_effect name="HarvestCount" operation="perc_add" level="5,9" value="1,1" tags="cropHarvest,wildCropsHarvest"/>
+			<passive_effect name="HarvestCount" operation="perc_add" level="10" value="2" tags="cropHarvest,wildCropsHarvest"/>
+
+				<effect_description level="1" desc_key="FoodEngineeringRank1Desc" long_desc_key="FoodEngineeringRank1LongDesc"/>
+				<effect_description level="2" desc_key="FoodEngineeringRank2Desc" long_desc_key="FoodEngineeringRank2LongDesc"/>
+				<effect_description level="3" desc_key="FoodEngineeringRank3Desc" long_desc_key="FoodEngineeringRank3LongDesc"/>
+				<effect_description level="4" desc_key="FoodEngineeringRank4Desc" long_desc_key="FoodEngineeringRank4LongDesc"/>
+				<effect_description level="5" desc_key="FoodEngineeringRank5Desc" long_desc_key="FoodEngineeringRank5LongDesc"/>
+				<effect_description level="6" desc_key="FoodEngineeringRank6Desc" long_desc_key="FoodEngineeringRank6LongDesc"/>
+				<effect_description level="7" desc_key="FoodEngineeringRank7Desc" long_desc_key="FoodEngineeringRank7LongDesc"/>
+				<effect_description level="8" desc_key="FoodEngineeringRank8Desc" long_desc_key="FoodEngineeringRank8LongDesc"/>
+				<effect_description level="9" desc_key="FoodEngineeringRank9Desc" long_desc_key="FoodEngineeringRank9LongDesc"/>
+				<effect_description level="10" desc_key="FoodEngineeringRank10Desc" long_desc_key="FoodEngineeringRank10LongDesc"/>
+			</effect_group>
+		</perk>
+
+
+		<perk name="perkRevered" max_level="10" parent="attPrestige" name_key="ReveredName" desc_key="ReveredDesc" icon="cp_revered">
+			<effect_group>
+				<passive_effect name="QuestBonusItemReward" operation="perc_add" level="1,5" value=".2,1"/>
+				<passive_effect name="QuestBonusItemReward" operation="perc_add" level="6,10" value="1.1,1.5"/>	
+				<passive_effect name="PlayerExpGain" operation="perc_add" level="1,5" value=".2,1" tags="Quest"/>
+				<passive_effect name="PlayerExpGain" operation="perc_add" level="6,10" value="1.1,1.5" tags="Quest"/>
+				
+				<passive_effect name="QuestRewardChoiceCount" operation="base_add" level="10" value="1"/>
+
+				<effect_description level="1" desc_key="ReveredRank1Desc" long_desc_key="ReveredRank1LongDesc"/>
+				<effect_description level="2" desc_key="ReveredRank2Desc" long_desc_key="ReveredRank2LongDesc"/>
+				<effect_description level="3" desc_key="ReveredRank3Desc" long_desc_key="ReveredRank3LongDesc"/>
+				<effect_description level="4" desc_key="ReveredRank4Desc" long_desc_key="ReveredRank4LongDesc"/>
+				<effect_description level="5" desc_key="ReveredRank5Desc" long_desc_key="ReveredRank5LongDesc"/>
+				<effect_description level="6" desc_key="ReveredRank6Desc" long_desc_key="ReveredRank6LongDesc"/>
+				<effect_description level="7" desc_key="ReveredRank7Desc" long_desc_key="ReveredRank7LongDesc"/>
+				<effect_description level="8" desc_key="ReveredRank8Desc" long_desc_key="ReveredRank8LongDesc"/>
+				<effect_description level="9" desc_key="ReveredRank9Desc" long_desc_key="ReveredRank9LongDesc"/>
+				<effect_description level="10" desc_key="ReveredRank10Desc" long_desc_key="ReveredRank10LongDesc"/>
+			</effect_group>
+		</perk>
+
+		<perk name="perkSalvager" max_level="10" parent="attPrestige" name_key="SalvagerName" desc_key="SalvagerDesc" icon="cp_salvager">
+			<effect_group>
+				<requirement name="ItemHasTags" tags="perkSalvageOperations"/>
+
+				<passive_effect name="BlockDamage" operation="perc_add" value=".06,.3" level="1,5"/>
+				<passive_effect name="BlockDamage" operation="perc_add" value=".34,.5" level="6,10"/>
+
+				<passive_effect name="HarvestCount" operation="perc_add" level="1,5" value=".06,.3" tags="salvageHarvest"/>
+				<passive_effect name="HarvestCount" operation="perc_add" level="6,10" value=".34,.5" tags="salvageHarvest"/>
+
+				<passive_effect name="AttacksPerMinute" operation="perc_add" level="1,5" value=".06,.3"/>
+				<passive_effect name="AttacksPerMinute" operation="perc_add" level="6,10" value=".34,.5"/>
+
+				<effect_description level="1" desc_key="SalvagerRank1Desc" long_desc_key="SalvagerRank1LongDesc"/>
+				<effect_description level="2" desc_key="SalvagerRank2Desc" long_desc_key="SalvagerRank2LongDesc"/>
+				<effect_description level="3" desc_key="SalvagerRank3Desc" long_desc_key="SalvagerRank3LongDesc"/>
+				<effect_description level="4" desc_key="SalvagerRank4Desc" long_desc_key="SalvagerRank4LongDesc"/>
+				<effect_description level="5" desc_key="SalvagerRank5Desc" long_desc_key="SalvagerRank5LongDesc"/>
+				<effect_description level="6" desc_key="SalvagerRank6Desc" long_desc_key="SalvagerRank6LongDesc"/>
+				<effect_description level="7" desc_key="SalvagerRank7Desc" long_desc_key="SalvagerRank7LongDesc"/>
+				<effect_description level="8" desc_key="SalvagerRank8Desc" long_desc_key="SalvagerRank8LongDesc"/>
+				<effect_description level="9" desc_key="SalvagerRank9Desc" long_desc_key="SalvagerRank9LongDesc"/>
+				<effect_description level="10" desc_key="SalvagerRank10Desc" long_desc_key="SalvagerRank10LongDesc"/>
+			</effect_group>
+		</perk>
+
+		<perk name="perkExplosiveMastery" max_level="10" parent="attPrestige" name_key="ExplosivesMasteryName" desc_key="ExplosivesMasteryDesc" icon="cp_explosivemastery">
+			<effect_group>
+				<requirement name="ItemHasTags" tags="perkDemolitionsExpert"/>
+
+				<passive_effect name="BlockDamage" operation="perc_add" level="1,5" value=".06,.3"/>
+				<passive_effect name="BlockDamage" operation="perc_add" level="6,10" value=".34,.5"/>
+
+				<passive_effect name="EntityDamage" operation="perc_add" level="1,5" value=".06,.3"/>
+				<passive_effect name="EntityDamage" operation="perc_add" level="6,10" value=".34,.5"/>
+
+				<passive_effect name="WeaponHandling" operation="perc_add" level="1,5" value=".06,.3"/>
+				<passive_effect name="WeaponHandling" operation="perc_add" level="6,10" value=".34,.5"/>
+
+				<passive_effect name="ReloadSpeedMultiplier" operation="perc_add" level="1,5" value=".06,.3"/>
+				<passive_effect name="ReloadSpeedMultiplier" operation="perc_add" level="6,10" value=".34,.5"/>
+
+				<passive_effect name="DismemberChance" operation="base_add" level="5,9" value=".1,.1"/>
+				<passive_effect name="DismemberChance" operation="base_add" level="10" value=".2"/>
+
+				<effect_description level="1" desc_key="ExplosivesMasteryRank1Desc" long_desc_key="ExplosivesMasteryRank1LongDesc"/>
+				<effect_description level="2" desc_key="ExplosivesMasteryRank2Desc" long_desc_key="ExplosivesMasteryRank2LongDesc"/>
+				<effect_description level="3" desc_key="ExplosivesMasteryRank3Desc" long_desc_key="ExplosivesMasteryRank3LongDesc"/>
+				<effect_description level="4" desc_key="ExplosivesMasteryRank4Desc" long_desc_key="ExplosivesMasteryRank4LongDesc"/>
+				<effect_description level="5" desc_key="ExplosivesMasteryRank5Desc" long_desc_key="ExplosivesMasteryRank5LongDesc"/>
+				<effect_description level="6" desc_key="ExplosivesMasteryRank6Desc" long_desc_key="ExplosivesMasteryRank6LongDesc"/>
+				<effect_description level="7" desc_key="ExplosivesMasteryRank7Desc" long_desc_key="ExplosivesMasteryRank7LongDesc"/>
+				<effect_description level="8" desc_key="ExplosivesMasteryRank8Desc" long_desc_key="ExplosivesMasteryRank8LongDesc"/>
+				<effect_description level="9" desc_key="ExplosivesMasteryRank9Desc" long_desc_key="ExplosivesMasteryRank9LongDesc"/>
+				<effect_description level="10" desc_key="ExplosivesMasteryRank10Desc" long_desc_key="ExplosivesMasteryRank10LongDesc"/>
+			</effect_group>
+		</perk>
+
+		<perk name="perkTurretMastery" max_level="10" parent="attPrestige" name_key="TurretMasteryName" desc_key="TurretMasteryDesc" icon="cp_turretmastery">
+			<effect_group>
+				<passive_effect name="MagazineSize" operation="base_add" level="1,5" value="24,120" tags="turretRanged"/>
+				<passive_effect name="MagazineSize" operation="base_add" level="6,10" value="136,200" tags="turretRanged"/>
+				<passive_effect name="RoundsPerMinute" operation="perc_add" level="1,5" value=".12,.6" tags="turretRanged, turretMelee"/>
+				<passive_effect name="RoundsPerMinute" operation="perc_add" level="6,10" value=".6,1" tags="turretRanged, turretMelee"/>
+
+				<passive_effect name="JunkTurretActiveRange" operation="base_add" level="1,5" value="6,6"/>
+				<passive_effect name="JunkTurretActiveRange" operation="base_add" level="6,10" value="12,12"/>
+				<passive_effect name="JunkTurretActiveCount" operation="base_add" level="10" value="1"/>
+
+				<effect_description level="1" desc_key="TurretMasteryRank1Desc" long_desc_key="TurretMasteryRank1LongDesc"/>
+				<effect_description level="2" desc_key="TurretMasteryRank2Desc" long_desc_key="TurretMasteryRank2LongDesc"/>
+				<effect_description level="3" desc_key="TurretMasteryRank3Desc" long_desc_key="TurretMasteryRank3LongDesc"/>
+				<effect_description level="4" desc_key="TurretMasteryRank4Desc" long_desc_key="TurretMasteryRank4LongDesc"/>
+				<effect_description level="5" desc_key="TurretMasteryRank5Desc" long_desc_key="TurretMasteryRank5LongDesc"/>
+				<effect_description level="6" desc_key="TurretMasteryRank6Desc" long_desc_key="TurretMasteryRank6LongDesc"/>
+				<effect_description level="7" desc_key="TurretMasteryRank7Desc" long_desc_key="TurretMasteryRank7LongDesc"/>
+				<effect_description level="8" desc_key="TurretMasteryRank8Desc" long_desc_key="TurretMasteryRank8LongDesc"/>
+				<effect_description level="9" desc_key="TurretMasteryRank9Desc" long_desc_key="TurretMasteryRank9LongDesc"/>
+				<effect_description level="10" desc_key="TurretMasteryRank10Desc" long_desc_key="TurretMasteryRank10LongDesc"/>
+			</effect_group>
+		</perk>
+
+		<perk name="perkBowMastery" max_level="10" parent="attPrestige" name_key="BowMasteryName" desc_key="BowMasteryDesc" icon="cp_bowmastery">
+			<effect_group>
+				<requirement name="ItemHasTags" tags="bowDrawPenalty"/>
+					<passive_effect name="RoundsPerMinute" operation="perc_add" level="1,5" value=".06,.3"/>
+					<passive_effect name="RoundsPerMinute" operation="perc_add" level="6,10" value=".34,.5"/>
+			</effect_group>
+			<effect_group>
+				<requirement name="ItemHasTags" tags="perkArchery"/>
+
+				<passive_effect name="RoundsPerMinute" operation="perc_add" level="1,5" value=".06,.3"/>
+				<passive_effect name="RoundsPerMinute" operation="perc_add" level="6,10" value=".34,.5"/>
+			
+				<passive_effect name="EntityDamage" operation="perc_add" level="1,5" value=".06,.3"/>
+				<passive_effect name="EntityDamage" operation="perc_add" level="6,10" value=".34,.5"/>
+
+				<passive_effect name="WeaponHandling" operation="perc_add" level="1,5" value=".06,.3"/>
+				<passive_effect name="WeaponHandling" operation="perc_add" level="6,10" value=".34,.5"/>
+
+				<passive_effect name="ReloadSpeedMultiplier" operation="perc_add" level="1,5" value=".06,.3"/>
+				<passive_effect name="ReloadSpeedMultiplier" operation="perc_add" level="6,10" value=".34,.5"/>
+			
+				<passive_effect name="MagazineSize" operation="base_add" level="5,9" value="1,1"/>
+				<passive_effect name="MagazineSize" operation="base_add" level="10" value="2"/>
+
+				<effect_description level="1" desc_key="BowMasteryRank1Desc" long_desc_key="BowMasteryRank1LongDesc"/>
+				<effect_description level="2" desc_key="BowMasteryRank2Desc" long_desc_key="BowMasteryRank2LongDesc"/>
+				<effect_description level="3" desc_key="BowMasteryRank3Desc" long_desc_key="BowMasteryRank3LongDesc"/>
+				<effect_description level="4" desc_key="BowMasteryRank4Desc" long_desc_key="BowMasteryRank4LongDesc"/>
+				<effect_description level="5" desc_key="BowMasteryRank5Desc" long_desc_key="BowMasteryRank5LongDesc"/>
+				<effect_description level="6" desc_key="BowMasteryRank6Desc" long_desc_key="BowMasteryRank6LongDesc"/>
+				<effect_description level="7" desc_key="BowMasteryRank7Desc" long_desc_key="BowMasteryRank7LongDesc"/>
+				<effect_description level="8" desc_key="BowMasteryRank8Desc" long_desc_key="BowMasteryRank8LongDesc"/>
+				<effect_description level="9" desc_key="BowMasteryRank9Desc" long_desc_key="BowMasteryRank9LongDesc"/>
+				<effect_description level="10" desc_key="BowMasteryRank10Desc" long_desc_key="BowMasteryRank10LongDesc"/>
+			</effect_group>
+		</perk>
+
+		<perk name="perkRifleMastery" max_level="10" parent="attPrestige" name_key="RifleMasteryName" desc_key="RifleMasteryDesc" icon="cp_riflemastery">
+			<effect_group>
+				<requirement name="ItemHasTags" tags="perkDeadEye"/>
+				<passive_effect name="RoundsPerMinute" operation="perc_add" level="1,5" value=".06,.3"/>
+				<passive_effect name="RoundsPerMinute" operation="perc_add" level="6,10" value=".34,.5"/>
+			
+				<passive_effect name="EntityDamage" operation="perc_add" level="1,5" value=".06,.3"/>
+				<passive_effect name="EntityDamage" operation="perc_add" level="6,10" value=".34,.5"/>
+
+				<passive_effect name="WeaponHandling" operation="perc_add" level="1,5" value=".06,.3"/>
+				<passive_effect name="WeaponHandling" operation="perc_add" level="6,10" value=".34,.5"/>
+
+				<passive_effect name="ReloadSpeedMultiplier" operation="perc_add" level="1,5" value=".06,.3"/>
+				<passive_effect name="ReloadSpeedMultiplier" operation="perc_add" level="6,10" value=".34,.5"/>
+
+				<passive_effect name="TargetArmor" operation="perc_add" level="5,9" value="-.2,-.2"/>
+				<passive_effect name="TargetArmor" operation="perc_add" level="10" value="-.4"/>
+
+				<effect_description level="1" desc_key="RifleMasteryRank1Desc" long_desc_key="RifleMasteryRank1LongDesc"/>
+				<effect_description level="2" desc_key="RifleMasteryRank2Desc" long_desc_key="RifleMasteryRank2LongDesc"/>
+				<effect_description level="3" desc_key="RifleMasteryRank3Desc" long_desc_key="RifleMasteryRank3LongDesc"/>
+				<effect_description level="4" desc_key="RifleMasteryRank4Desc" long_desc_key="RifleMasteryRank4LongDesc"/>
+				<effect_description level="5" desc_key="RifleMasteryRank5Desc" long_desc_key="RifleMasteryRank5LongDesc"/>
+				<effect_description level="6" desc_key="RifleMasteryRank6Desc" long_desc_key="RifleMasteryRank6LongDesc"/>
+				<effect_description level="7" desc_key="RifleMasteryRank7Desc" long_desc_key="RifleMasteryRank7LongDesc"/>
+				<effect_description level="8" desc_key="RifleMasteryRank8Desc" long_desc_key="RifleMasteryRank8LongDesc"/>
+				<effect_description level="9" desc_key="RifleMasteryRank9Desc" long_desc_key="RifleMasteryRank9LongDesc"/>
+				<effect_description level="10" desc_key="RifleMasteryRank10Desc" long_desc_key="RifleMasteryRank10LongDesc"/>
+			</effect_group>
+		</perk>
+
+		<perk name="perkMGMastery" max_level="10" parent="attPrestige" name_key="MGMasteryName" desc_key="MGMasteryDesc" icon="cp_mgmastery">
+			<effect_group>
+				<requirement name="ItemHasTags" tags="perkMachineGunner"/>
+				<passive_effect name="RoundsPerMinute" operation="perc_add" level="1,5" value=".06,.3"/>
+				<passive_effect name="RoundsPerMinute" operation="perc_add" level="6,10" value=".34,.5"/>
+			
+				<passive_effect name="EntityDamage" operation="perc_add" level="1,5" value=".06,.3"/>
+				<passive_effect name="EntityDamage" operation="perc_add" level="6,10" value=".34,.5"/>
+
+				<passive_effect name="WeaponHandling" operation="perc_add" level="1,5" value=".06,.3"/>
+				<passive_effect name="WeaponHandling" operation="perc_add" level="6,10" value=".34,.5"/>
+
+				<passive_effect name="ReloadSpeedMultiplier" operation="perc_add" level="1,5" value=".06,.3"/>
+				<passive_effect name="ReloadSpeedMultiplier" operation="perc_add" level="6,10" value=".34,.5"/>
+
+				<passive_effect name="MagazineSize" operation="perc_add" level="1,5" value=".06,.3"/>
+				<passive_effect name="MagazineSize" operation="perc_add" level="6,10" value=".34,.5"/>
+
+				<passive_effect name="DegradationPerUse" operation="perc_add" level="5,9" value="-.125,-.125"/>
+				<passive_effect name="DegradationPerUse" operation="perc_add" level="10" value="-.25"/>
+
+				<effect_description level="1" desc_key="MGMasteryRank1Desc" long_desc_key="MGMasteryRank1LongDesc"/>
+				<effect_description level="2" desc_key="MGMasteryRank2Desc" long_desc_key="MGMasteryRank2LongDesc"/>
+				<effect_description level="3" desc_key="MGMasteryRank3Desc" long_desc_key="MGMasteryRank3LongDesc"/>
+				<effect_description level="4" desc_key="MGMasteryRank4Desc" long_desc_key="MGMasteryRank4LongDesc"/>
+				<effect_description level="5" desc_key="MGMasteryRank5Desc" long_desc_key="MGMasteryRank5LongDesc"/>
+				<effect_description level="6" desc_key="MGMasteryRank6Desc" long_desc_key="MGMasteryRank6LongDesc"/>
+				<effect_description level="7" desc_key="MGMasteryRank7Desc" long_desc_key="MGMasteryRank7LongDesc"/>
+				<effect_description level="8" desc_key="MGMasteryRank8Desc" long_desc_key="MGMasteryRank8LongDesc"/>
+				<effect_description level="9" desc_key="MGMasteryRank9Desc" long_desc_key="MGMasteryRank9LongDesc"/>
+				<effect_description level="10" desc_key="MGMasteryRank10Desc" long_desc_key="MGMasteryRank10LongDesc"/>
+			</effect_group>
+		</perk>
+
+		<perk name="perkSidearmMastery" max_level="10" parent="attPrestige" name_key="SidearmMasteryName" desc_key="SidearmMasteryDesc" icon="cp_sidearmmastery">
+			<effect_group>
+				<requirement name="ItemHasTags" tags="perkGunslinger"/>
+				<passive_effect name="RoundsPerMinute" operation="perc_add" level="1,5" value=".06,.3"/>
+				<passive_effect name="RoundsPerMinute" operation="perc_add" level="6,10" value=".34,.5"/>
+			
+				<passive_effect name="EntityDamage" operation="perc_add" level="1,5" value=".06,.30"/>
+				<passive_effect name="EntityDamage" operation="perc_add" level="6,10" value=".34,.5"/>
+
+				<passive_effect name="WeaponHandling" operation="perc_add" level="1,5" value=".06,.3"/>
+				<passive_effect name="WeaponHandling" operation="perc_add" level="6,10" value=".34,.5"/>
+
+				<passive_effect name="ReloadSpeedMultiplier" operation="perc_add" level="1,5" value=".06,.3"/>
+				<passive_effect name="ReloadSpeedMultiplier" operation="perc_add" level="6,10" value=".34,.5"/>
+
+				<passive_effect name="MagazineSize" operation="perc_add" level="1,5" value=".06,.3"/>
+				<passive_effect name="MagazineSize" operation="perc_add" level="6,10" value=".34,.5"/>
+
+				<passive_effect name="IncrementalSpreadMultiplier" operation="perc_add" level="5,9" value="-.125,-.125"/>
+				<passive_effect name="IncrementalSpreadMultiplier" operation="perc_add" level="10" value="-.25"/>
+
+				<effect_description level="1" desc_key="SidearmMasteryRank1Desc" long_desc_key="SidearmMasteryRank1LongDesc"/>
+				<effect_description level="2" desc_key="SidearmMasteryRank2Desc" long_desc_key="SidearmMasteryRank2LongDesc"/>
+				<effect_description level="3" desc_key="SidearmMasteryRank3Desc" long_desc_key="SidearmMasteryRank3LongDesc"/>
+				<effect_description level="4" desc_key="SidearmMasteryRank4Desc" long_desc_key="SidearmMasteryRank4LongDesc"/>
+				<effect_description level="5" desc_key="SidearmMasteryRank5Desc" long_desc_key="SidearmMasteryRank5LongDesc"/>
+				<effect_description level="6" desc_key="SidearmMasteryRank6Desc" long_desc_key="SidearmMasteryRank6LongDesc"/>
+				<effect_description level="7" desc_key="SidearmMasteryRank7Desc" long_desc_key="SidearmMasteryRank7LongDesc"/>
+				<effect_description level="8" desc_key="SidearmMasteryRank8Desc" long_desc_key="SidearmMasteryRank8LongDesc"/>
+				<effect_description level="9" desc_key="SidearmMasteryRank9Desc" long_desc_key="SidearmMasteryRank9LongDesc"/>
+				<effect_description level="10" desc_key="SidearmMasteryRank10Desc" long_desc_key="SidearmMasteryRank10LongDesc"/>
+			</effect_group>
+		</perk>
+
+		<perk name="perkShotgunMastery" max_level="10" parent="attPrestige" name_key="ShotgunMasteryName" desc_key="ShotgunMasteryDesc" icon="cp_shotgunmastery">
+			<effect_group>
+				<requirement name="ItemHasTags" tags="perkBoomstick"/>
+				<passive_effect name="RoundsPerMinute" operation="perc_add" level="1,5" value=".06,.3"/>
+				<passive_effect name="RoundsPerMinute" operation="perc_add" level="6,10" value=".34,.5"/>
+			
+				<passive_effect name="EntityDamage" operation="perc_add" level="1,5" value=".06,.3"/>
+				<passive_effect name="EntityDamage" operation="perc_add" level="6,10" value=".34,.5"/>
+
+				<passive_effect name="WeaponHandling" operation="perc_add" level="1,5" value=".06,.3"/>
+				<passive_effect name="WeaponHandling" operation="perc_add" level="6,10" value=".34,.5"/>
+
+				<passive_effect name="ReloadSpeedMultiplier" operation="perc_add" level="1,5" value=".06,.3"/>
+				<passive_effect name="ReloadSpeedMultiplier" operation="perc_add" level="6,10" value=".34,.5"/>
+			
+				<passive_effect name="MagazineSize" operation="perc_add" level="1,5" value=".06,.3"/>
+				<passive_effect name="MagazineSize" operation="perc_add" level="6,10" value=".34,.5"/>
+
+				<passive_effect name="DamageFalloffRange" operation="base_add" level="5,9" value="2,2"/>
+				<passive_effect name="DamageFalloffRange" operation="base_add" level="10" value="4"/>
+		
+				<effect_description level="1" desc_key="ShotgunMasteryRank1Desc" long_desc_key="ShotgunMasteryRank1LongDesc"/>
+				<effect_description level="2" desc_key="ShotgunMasteryRank2Desc" long_desc_key="ShotgunMasteryRank2LongDesc"/>
+				<effect_description level="3" desc_key="ShotgunMasteryRank3Desc" long_desc_key="ShotgunMasteryRank3LongDesc"/>
+				<effect_description level="4" desc_key="ShotgunMasteryRank4Desc" long_desc_key="ShotgunMasteryRank4LongDesc"/>
+				<effect_description level="5" desc_key="ShotgunMasteryRank5Desc" long_desc_key="ShotgunMasteryRank5LongDesc"/>
+				<effect_description level="6" desc_key="ShotgunMasteryRank6Desc" long_desc_key="ShotgunMasteryRank6LongDesc"/>
+				<effect_description level="7" desc_key="ShotgunMasteryRank7Desc" long_desc_key="ShotgunMasteryRank7LongDesc"/>
+				<effect_description level="8" desc_key="ShotgunMasteryRank8Desc" long_desc_key="ShotgunMasteryRank8LongDesc"/>
+				<effect_description level="9" desc_key="ShotgunMasteryRank9Desc" long_desc_key="ShotgunMasteryRank9LongDesc"/>
+				<effect_description level="10" desc_key="ShotgunMasteryRank10Desc" long_desc_key="ShotgunMasteryRank10LongDesc"/>
+			</effect_group>
+		</perk>
+
+		<perk name="perkLooter" max_level="10" parent="attPrestige" name_key="HiddenTreasuresName" desc_key="HiddenTreasuresDesc" icon="cp_looter">
+			<effect_group>
+				<passive_effect name="LootGamestage" operation="perc_add" level="1,5" value=".03,.15"/>
+				<passive_effect name="LootGamestage" operation="perc_add" level="6,10" value=".16,.2"/>
+			
+				<passive_effect name="ScavengingTime" operation="perc_subtract" level="1,5" value=".03,.15"/>
+				<passive_effect name="ScavengingTime" operation="perc_subtract" level="6,10" value=".16,.2"/>
+
+				<passive_effect name="LootQuantity" operation="perc_add" level="5,9" value=".1,.1" tags="buriedTreasure"/>
+				<passive_effect name="LootQuantity" operation="perc_add" level="10" value=".2" tags="buriedTreasure"/>
+
+				<passive_effect name="PlayerExpGain" operation="perc_add" level="1,5" value=".12,.6" tags="Looting"/>
+				<passive_effect name="PlayerExpGain" operation="perc_add" level="6,10" value=".68,1" tags="Looting"/>
+
+				<effect_description level="1" desc_key="HiddenTreasuresRank1Desc" long_desc_key="HiddenTreasuresRank1LongDesc"/>
+				<effect_description level="2" desc_key="HiddenTreasuresRank2Desc" long_desc_key="HiddenTreasuresRank2LongDesc"/>
+				<effect_description level="3" desc_key="HiddenTreasuresRank3Desc" long_desc_key="HiddenTreasuresRank3LongDesc"/>
+				<effect_description level="4" desc_key="HiddenTreasuresRank4Desc" long_desc_key="HiddenTreasuresRank4LongDesc"/>
+				<effect_description level="5" desc_key="HiddenTreasuresRank5Desc" long_desc_key="HiddenTreasuresRank5LongDesc"/>
+				<effect_description level="6" desc_key="HiddenTreasuresRank6Desc" long_desc_key="HiddenTreasuresRank6LongDesc"/>
+				<effect_description level="7" desc_key="HiddenTreasuresRank7Desc" long_desc_key="HiddenTreasuresRank7LongDesc"/>
+				<effect_description level="8" desc_key="HiddenTreasuresRank8Desc" long_desc_key="HiddenTreasuresRank8LongDesc"/>
+				<effect_description level="9" desc_key="HiddenTreasuresRank9Desc" long_desc_key="HiddenTreasuresRank9LongDesc"/>
+				<effect_description level="10" desc_key="HiddenTreasuresRank10Desc" long_desc_key="HiddenTreasuresRank10LongDesc"/>
+			</effect_group>
+		</perk>
+
+		<perk name="perkDismember" max_level="10" parent="attPrestige" name_key="DismembermentName" desc_key="DismembermentDesc" icon="cp_dismemberment">
+			<effect_group>
+				<passive_effect name="DismemberChance" operation="base_add" level="1,5" value=".03,.15"/>
+				<passive_effect name="DismemberChance" operation="base_add" level="6,10" value=".16,.2"/>
+
+				<effect_description level="1" desc_key="DismembermentRank1Desc" long_desc_key="DismembermentRank1LongDesc"/>
+				<effect_description level="2" desc_key="DismembermentRank2Desc" long_desc_key="DismembermentRank2LongDesc"/>
+				<effect_description level="3" desc_key="DismembermentRank3Desc" long_desc_key="DismembermentRank3LongDesc"/>
+				<effect_description level="4" desc_key="DismembermentRank4Desc" long_desc_key="DismembermentRank4LongDesc"/>
+				<effect_description level="5" desc_key="DismembermentRank5Desc" long_desc_key="DismembermentRank5LongDesc"/>
+				<effect_description level="6" desc_key="DismembermentRank6Desc" long_desc_key="DismembermentRank6LongDesc"/>
+				<effect_description level="7" desc_key="DismembermentRank7Desc" long_desc_key="DismembermentRank7LongDesc"/>
+				<effect_description level="8" desc_key="DismembermentRank8Desc" long_desc_key="DismembermentRank8LongDesc"/>
+				<effect_description level="9" desc_key="DismembermentRank9Desc" long_desc_key="DismembermentRank9LongDesc"/>
+				<effect_description level="10" desc_key="DismembermentRank10Desc" long_desc_key="DismembermentRank10LongDesc"/>
+			</effect_group>
+		</perk>
+
+		<perk name="perkSneakDMG" max_level="10" parent="attPrestige" name_key="SneakDamageName" desc_key="SneakDamageDesc" long_desc_key="perkSneakDMGLongDesc" icon="cp_sneakdmg">
+			<effect_group>
+				<requirement name="CVarCompare" cvar="_crouching" operation="Equals" value="1"/>
+				<requirement name="CVarCompare" cvar="_notAlerted" operation="GT" value="0" target="other"/>
+					<passive_effect name="DamageBonus" operation="base_add" level="1,5" value=".4,2"/> <!--For UI-->
+					<passive_effect name="DamageBonus" operation="base_add" level="6,10" value="2.2,3"/>
+
+					<passive_effect name="EntityDamage" operation="perc_add" level="1,5" value=".4,2"/>
+					<passive_effect name="EntityDamage" operation="perc_add" level="6,10" value="2.2,3"/>
+
+				<effect_description level="1" desc_key="SneakDamageRank1Desc" long_desc_key="SneakDamageRank1LongDesc"/>
+				<effect_description level="2" desc_key="SneakDamageRank2Desc" long_desc_key="SneakDamageRank2LongDesc"/>
+				<effect_description level="3" desc_key="SneakDamageRank3Desc" long_desc_key="SneakDamageRank3LongDesc"/>
+				<effect_description level="4" desc_key="SneakDamageRank4Desc" long_desc_key="SneakDamageRank4LongDesc"/>
+				<effect_description level="5" desc_key="SneakDamageRank5Desc" long_desc_key="SneakDamageRank5LongDesc"/>
+				<effect_description level="6" desc_key="SneakDamageRank6Desc" long_desc_key="SneakDamageRank6LongDesc"/>
+				<effect_description level="7" desc_key="SneakDamageRank7Desc" long_desc_key="SneakDamageRank7LongDesc"/>
+				<effect_description level="8" desc_key="SneakDamageRank8Desc" long_desc_key="SneakDamageRank8LongDesc"/>
+				<effect_description level="9" desc_key="SneakDamageRank9Desc" long_desc_key="SneakDamageRank9LongDesc"/>
+				<effect_description level="10" desc_key="SneakDamageRank10Desc" long_desc_key="SneakDamageRank10LongDesc"/>
+			</effect_group>
+		</perk>
+
+		<perk name="perkStealth" max_level="10" parent="attPrestige" name_key="StealthName" desc_key="StealthDesc" icon="cp_stealth">
+			<effect_group>		
+				<requirement name="CVarCompare" cvar="_crouching" operation="Equals" value="1"/>
+
+				<passive_effect name="LightMultiplier" operation="perc_add" level="1,5" value="-.04,-.2">
+					<requirement name="CVarCompare" cvar="_lightlevel" operation="LTE" value="50"/>
+				</passive_effect>
+				<passive_effect name="LightMultiplier" operation="perc_add" level="6,10" value="-.22,-.3">
+					<requirement name="CVarCompare" cvar="_lightlevel" operation="LTE" value="50"/>
+				</passive_effect>
+			
+				<passive_effect name="NoiseMultiplier" operation="perc_add" level="1,5" value="-.04,-.2"/>
+				<passive_effect name="NoiseMultiplier" operation="perc_add" level="6,10" value="-.22,-.3"/>
+
+				<passive_effect name="LockPickTime" operation="perc_subtract" level="1,5" value=".03,.15"/>
+				<passive_effect name="LockPickTime" operation="perc_subtract" level="6,10" value=".16,.2"/>
+				<passive_effect name="LockPickBreakChance" operation="perc_subtract" level="1,5" value=".03,.15"/>
+				<passive_effect name="LockPickBreakChance" operation="perc_subtract" level="6,10" value=".16,.2"/>
+
+				<effect_description level="1" desc_key="StealthDamageRank1Desc" long_desc_key="StealthDamageRank1LongDesc"/>
+				<effect_description level="2" desc_key="StealthDamageRank2Desc" long_desc_key="StealthDamageRank2LongDesc"/>
+				<effect_description level="3" desc_key="StealthDamageRank3Desc" long_desc_key="StealthDamageRank3LongDesc"/>
+				<effect_description level="4" desc_key="StealthDamageRank4Desc" long_desc_key="StealthDamageRank4LongDesc"/>
+				<effect_description level="5" desc_key="StealthDamageRank5Desc" long_desc_key="StealthDamageRank5LongDesc"/>
+				<effect_description level="6" desc_key="StealthDamageRank6Desc" long_desc_key="StealthDamageRank6LongDesc"/>
+				<effect_description level="7" desc_key="StealthDamageRank7Desc" long_desc_key="StealthDamageRank7LongDesc"/>
+				<effect_description level="8" desc_key="StealthDamageRank8Desc" long_desc_key="StealthDamageRank8LongDesc"/>
+				<effect_description level="9" desc_key="StealthDamageRank9Desc" long_desc_key="StealthDamageRank9LongDesc"/>
+				<effect_description level="10" desc_key="StealthDamageRank10Desc" long_desc_key="StealthDamageRank10LongDesc"/>
+			</effect_group>
+		</perk>
+
+		<perk name="perkSenseMinerals" max_level="10" parent="attPrestige" name_key="SenseMineralsName" desc_key="SenseMineralsDesc" icon="cp_senseminerals">
+
+			<effect_group>
+				<passive_effect name="HarvestCount" operation="base_set" level="1,5" value="1.2,6" tags="senseMineral"/>
+				<passive_effect name="HarvestCount" operation="base_set" level="6,10" value="6.8,10" tags="senseMineral"/>
+		
+				<effect_description level="1" desc_key="SenseMineralsRank1Desc" long_desc_key="SenseMineralsRank1LongDesc"/>
+				<effect_description level="2" desc_key="SenseMineralsRank2Desc" long_desc_key="SenseMineralsRank2LongDesc"/>
+				<effect_description level="3" desc_key="SenseMineralsRank3Desc" long_desc_key="SenseMineralsRank3LongDesc"/>
+				<effect_description level="4" desc_key="SenseMineralsRank4Desc" long_desc_key="SenseMineralsRank4LongDesc"/>
+				<effect_description level="5" desc_key="SenseMineralsRank5Desc" long_desc_key="SenseMineralsRank5LongDesc"/>
+				<effect_description level="6" desc_key="SenseMineralsRank6Desc" long_desc_key="SenseMineralsRank6LongDesc"/>
+				<effect_description level="7" desc_key="SenseMineralsRank7Desc" long_desc_key="SenseMineralsRank7LongDesc"/>
+				<effect_description level="8" desc_key="SenseMineralsRank8Desc" long_desc_key="SenseMineralsRank8LongDesc"/>
+				<effect_description level="9" desc_key="SenseMineralsRank9Desc" long_desc_key="SenseMineralsRank9LongDesc"/>
+				<effect_description level="10" desc_key="SenseMineralsRank10Desc" long_desc_key="SenseMineralsRank10LongDesc"/>
+			</effect_group>
+		</perk>
+
+		<perk name="perkSenseValuables" max_level="10" parent="attPrestige" name_key="SenseValuablesName" desc_key="SenseValuablesDesc" icon="cp_sensevaluables">
+			<effect_group>
+				<passive_effect name="HarvestCount" operation="base_set" level="1,5" value="1.2,6" tags="senseValuables"/>
+				<passive_effect name="HarvestCount" operation="base_set" level="6,10" value="6.8,10" tags="senseValuables"/>
+
+				<effect_description level="1" desc_key="SenseValuablesRank1Desc" long_desc_key="SenseValuablesRank1LongDesc"/>
+				<effect_description level="2" desc_key="SenseValuablesRank2Desc" long_desc_key="SenseValuablesRank2LongDesc"/>
+				<effect_description level="3" desc_key="SenseValuablesRank3Desc" long_desc_key="SenseValuablesRank3LongDesc"/>
+				<effect_description level="4" desc_key="SenseValuablesRank4Desc" long_desc_key="SenseValuablesRank4LongDesc"/>
+				<effect_description level="5" desc_key="SenseValuablesRank5Desc" long_desc_key="SenseValuablesRank5LongDesc"/>
+				<effect_description level="6" desc_key="SenseValuablesRank6Desc" long_desc_key="SenseValuablesRank6LongDesc"/>
+				<effect_description level="7" desc_key="SenseValuablesRank7Desc" long_desc_key="SenseValuablesRank7LongDesc"/>
+				<effect_description level="8" desc_key="SenseValuablesRank8Desc" long_desc_key="SenseValuablesRank8LongDesc"/>
+				<effect_description level="9" desc_key="SenseValuablesRank9Desc" long_desc_key="SenseValuablesRank9LongDesc"/>
+				<effect_description level="10" desc_key="SenseValuablesRank10Desc" long_desc_key="SenseValuablesRank10LongDesc"/>
+			</effect_group>
+		</perk>
+
+		<perk name="perkCorpseExploiting" max_level="10" parent="attPrestige" name_key="CorpseExploitingName" desc_key="CorpseExploitingDesc" icon="cp_corpseexploiting">
+			<effect_group>
+				<passive_effect name="HarvestCount" operation="base_set" level="1,5" value="1.2,6" tags="zombieHarvest"/>
+				<passive_effect name="HarvestCount" operation="base_set" level="6,10" value="6.8,10" tags="zombieHarvest"/>
+
+				<effect_description level="1" desc_key="CorpseExploitingRank1Desc" long_desc_key="CorpseExploitingRank1LongDesc"/>
+				<effect_description level="2" desc_key="CorpseExploitingRank2Desc" long_desc_key="CorpseExploitingRank2LongDesc"/>
+				<effect_description level="3" desc_key="CorpseExploitingRank3Desc" long_desc_key="CorpseExploitingRank3LongDesc"/>
+				<effect_description level="4" desc_key="CorpseExploitingRank4Desc" long_desc_key="CorpseExploitingRank4LongDesc"/>
+				<effect_description level="5" desc_key="CorpseExploitingRank5Desc" long_desc_key="CorpseExploitingRank5LongDesc"/>
+				<effect_description level="6" desc_key="CorpseExploitingRank6Desc" long_desc_key="CorpseExploitingRank6LongDesc"/>
+				<effect_description level="7" desc_key="CorpseExploitingRank7Desc" long_desc_key="CorpseExploitingRank7LongDesc"/>
+				<effect_description level="8" desc_key="CorpseExploitingRank8Desc" long_desc_key="CorpseExploitingRank8LongDesc"/>
+				<effect_description level="9" desc_key="CorpseExploitingRank9Desc" long_desc_key="CorpseExploitingRank9LongDesc"/>
+				<effect_description level="10" desc_key="CorpseExploitingRank10Desc" long_desc_key="CorpseExploitingRank10LongDesc"/>
+			</effect_group>
+		</perk>
+</insertAfter>
+</configs>

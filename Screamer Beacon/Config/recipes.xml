@@ -1,0 +1,13 @@
+<Configs>
+	<append xpath="/recipes" >
+
+		<recipe name="screamerBeacon" count="1" craft_area="workbench" craft_time="20"> 
+			<ingredient name="resourceConcreteMix" count="50"/> 
+			<ingredient name="foodCharredMeat" count="30"/>
+			<ingredient name="ammoGasCan" count="500"/>
+			<ingredient name="resourceMetalPipe" count="20"/>
+			<ingredient name="resourceWoodBundle" count="2"/>
+		</recipe>
+
+	</append>
+</Configs>
