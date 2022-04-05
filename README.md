@@ -16,3 +16,10 @@ Just download this repository and copy the content into:
 **Windows** : (example) G:\SteamLibrary\steamapps\common\7 Days To Die\Mods
 
 If you don't have the folder "Mods", just create it :) 
+
+## DOTO
+
+    * [ ] Ideen für eigenen Mod niederschreiben
+    * [ ] Lootbalancing verbessern
+        * [ ] Muntion in Müllhaufen (ab LootSt. 15)
+        * [ ] Mehr Beutel von Zombies
