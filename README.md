@@ -13,6 +13,6 @@ Tactical Weapons: https://7daystodiemods.com/tactical-weapons/
 
 Just download this repository and copy the content into:
 
-*Windows* : (example) G:\SteamLibrary\steamapps\common\7 Days To Die\Mods
+**Windows** : (example) G:\SteamLibrary\steamapps\common\7 Days To Die\Mods
 
 If you don't have the folder "Mods", just create it :) 
