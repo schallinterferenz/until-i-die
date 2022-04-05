@@ -9,7 +9,7 @@ You have to download them manually and insert them into the 7 Days to Die folder
 
 Tactical Weapons: https://7daystodiemods.com/tactical-weapons/
 
-## Install
+# Install
 
 Just download this repository and copy the content into:
 
