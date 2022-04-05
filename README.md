@@ -17,7 +17,7 @@ Just download this repository and copy the content into:
 
 If you don't have the folder "Mods", just create it :) 
 
-## DOTO
+## TODO
 
     1. Ideen für eigenen Mod niederschreiben
     2. Lootbalancing verbessern
