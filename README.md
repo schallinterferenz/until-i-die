@@ -26,9 +26,9 @@ If you don't have the folder "Mods", just create it :)
         * Besserer Loot
     3. Vehicle mods
     4. PC aufsetzen mit Dedicated Steam Server
-        - Steam auf PC installieren
-        - mit dem ...server Account anmelden
-        - Spiel installieren
-        - Mods installieren
-        - !!!SERVER!!! starten
+        * Steam auf PC installieren
+        * mit dem ...server Account anmelden
+        * Spiel installieren
+        * Mods installieren
+        * !!!SERVER!!! starten
     5. Weniger Zombies ODER NCPs -> Due to FPS
