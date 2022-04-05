@@ -24,3 +24,4 @@ If you don't have the folder "Mods", just create it :)
         * Muntion in Müllhaufen (ab LootSt. 15)
         * Mehr Beutel von Zombies
         * 
+    3. Vehicle mods
