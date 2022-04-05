@@ -1,6 +1,6 @@
 # UNTIL I DIE MOD (Compilation)
 
-First of all we want to say, that every mod, except UNTILiDIE mod/folder, was not created by us. Please contribute to the developers, if possible
+First of all we want to say, that every mod, except UNTILiDIE mod/folder, was not created by us. Please contribute to the developers, if possible!
 
 ## IMPORTANT NOTE / READ THIS!!!
 
