@@ -30,3 +30,4 @@ If you don't have the folder "Mods", just create it :)
         - mit dem ...server Account anmelden
         - Spiel installieren
         - Mods installieren
+        - !!!SERVER!!! starten
