@@ -19,7 +19,7 @@ If you don't have the folder "Mods", just create it :)
 
 ## DOTO
 
-    - [ ] Ideen für eigenen Mod niederschreiben
-    - [ ] Lootbalancing verbessern
+    1. [ ] Ideen für eigenen Mod niederschreiben
+    2. [ ] Lootbalancing verbessern
         * [ ] Muntion in Müllhaufen (ab LootSt. 15)
         * [ ] Mehr Beutel von Zombies
