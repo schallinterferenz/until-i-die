@@ -23,3 +23,4 @@ If you don't have the folder "Mods", just create it :)
     2. Lootbalancing verbessern
         * Muntion in Müllhaufen (ab LootSt. 15)
         * Mehr Beutel von Zombies
+        * 
