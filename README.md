@@ -52,11 +52,11 @@ If you don't have the folder "Mods", just create it :)
          * [x] Spawn balancing
          * [ ] Frequency balancing 
       * [ ] Enemeyhorde balancing
-         * [x] Weapons balancing
+         * [ ] Weapons balancing
          * [ ] Spawn balancing
          * [ ] Frequency balancing
       * [ ] Friendlyhorde balancing
-         * [x] Weapons balancing
+         * [ ] Weapons balancing
          * [ ] Spawn balancing
          * [ ] Frequency balancing       
    * [ ] Zombie spawn balancing
