@@ -29,8 +29,8 @@
 			<property name="SoundAlert" value="Player_Female/player2stamina"/>
 			<property name="SoundAttack" value="Player_Female/player2stamina"/>
 			<property name="SoundSense" value="Player_Female/player2stamina"/>
-                        <property name="ExperienceGain" value="800"/> 
-			<property name="LootDropProb" value="0.2"/> 
+                        <property name="ExperienceGain" value="1200"/> 
+			<property name="LootDropProb" value="0.8"/> 
 			<property name="LootDropEntityClass" value="EntityLootContainerRegular"/>
                          
 		</entity_class>
@@ -59,8 +59,8 @@
 			<property name="SoundAlert" value="Player_Female/player2stamina"/>
 			<property name="SoundAttack" value="Player_Female/player2stamina"/>
 			<property name="SoundSense" value="Player_Female/player2stamina"/>
-                        <property name="ExperienceGain" value="800"/> 
-			<property name="LootDropProb" value="0.2"/> 
+                        <property name="ExperienceGain" value="1200"/> 
+			<property name="LootDropProb" value="0.8"/> 
 			<property name="LootDropEntityClass" value="EntityLootContainerRegular"/>
                          
 		</entity_class>
@@ -89,8 +89,8 @@
 			<property name="SoundAlert" value="Player_Female/player2stamina"/>
 			<property name="SoundAttack" value="Player_Female/player2stamina"/>
 			<property name="SoundSense" value="Player_Female/player2stamina"/>
-                        <property name="ExperienceGain" value="800"/> 
-			<property name="LootDropProb" value="0.2"/> 
+                        <property name="ExperienceGain" value="1200"/> 
+			<property name="LootDropProb" value="0.8"/> 
 			<property name="LootDropEntityClass" value="EntityLootContainerRegular"/>
                          
 		</entity_class>
@@ -119,8 +119,8 @@
 			<property name="SoundAlert" value="Player_Female/player2stamina"/>
 			<property name="SoundAttack" value="Player_Female/player2stamina"/>
 			<property name="SoundSense" value="Player_Female/player2stamina"/>
-                        <property name="ExperienceGain" value="800"/> 
-			<property name="LootDropProb" value="0.2"/> 
+                        <property name="ExperienceGain" value="1200"/> 
+			<property name="LootDropProb" value="0.8"/> 
 			<property name="LootDropEntityClass" value="EntityLootContainerRegular"/>
 		</entity_class>
 
@@ -148,8 +148,8 @@
 			<property name="SoundAlert" value="Player_Female/player2stamina"/>
 			<property name="SoundAttack" value="Player_Female/player2stamina"/>
 			<property name="SoundSense" value="Player_Female/player2stamina"/>
-                        <property name="ExperienceGain" value="800"/> 
-			<property name="LootDropProb" value="0.2"/> 
+                        <property name="ExperienceGain" value="1200"/> 
+			<property name="LootDropProb" value="0.8"/> 
 			<property name="LootDropEntityClass" value="EntityLootContainerRegular"/>
 		 </entity_class>
 
@@ -177,8 +177,8 @@
 			<property name="SoundAlert" value="Player_Female/player2stamina"/>
 			<property name="SoundAttack" value="Player_Female/player2stamina"/>
 			<property name="SoundSense" value="Player_Female/player2stamina"/>
-                        <property name="ExperienceGain" value="800"/> 
-			<property name="LootDropProb" value="0.2"/> 
+                        <property name="ExperienceGain" value="1200"/> 
+			<property name="LootDropProb" value="0.8"/> 
 			<property name="LootDropEntityClass" value="EntityLootContainerRegular"/>
 		 </entity_class>
 
@@ -190,8 +190,8 @@
                          Rusty Redman,Barkley Black Eye,Rober the Bull,Bulletproof Allen,Mad Watkins,Farley Grin,Wallis the Bandit,Cliff Muscles,
                          Squinty Thorne,Sly Bert,Mad Dog" />	
 			<property name="Mesh" value="#@modfolder:Resources/Raiderz.unity3d?RaiderMotoDark"/> 
-                        <property name="ExperienceGain" value="800"/> 
-			<property name="LootDropProb" value="0.2"/> 
+                        <property name="ExperienceGain" value="1200"/> 
+			<property name="LootDropProb" value="0.8"/> 
 			<property name="LootDropEntityClass" value="EntityLootContainerRegular"/>
 		</entity_class>	
 
@@ -203,8 +203,8 @@
                          Rusty Redman,Barkley Black Eye,Rober the Bull,Bulletproof Allen,Mad Watkins,Farley Grin,Wallis the Bandit,Cliff Muscles,
                          Squinty Thorne,Sly Bert,Mad Dog" />	
 			<property name="Mesh" value="#@modfolder:Resources/Raiderz.unity3d?RaiderMotoDark"/> 
-                        <property name="ExperienceGain" value="800"/> 
-			<property name="LootDropProb" value="0.2"/> 
+                        <property name="ExperienceGain" value="1200"/> 
+			<property name="LootDropProb" value="0.8"/> 
 			<property name="LootDropEntityClass" value="EntityLootContainerRegular"/>
 		</entity_class>	
 
@@ -216,8 +216,8 @@
                          Rusty Redman,Barkley Black Eye,Rober the Bull,Bulletproof Allen,Mad Watkins,Farley Grin,Wallis the Bandit,Cliff Muscles,
                          Squinty Thorne,Sly Bert,Mad Dog" />	
 			<property name="Mesh" value="#@modfolder:Resources/Raiderz.unity3d?RaiderMotoDark"/> 
-                        <property name="ExperienceGain" value="800"/> 
-			<property name="LootDropProb" value="0.2"/> 
+                        <property name="ExperienceGain" value="1200"/> 
+			<property name="LootDropProb" value="0.8"/> 
 			<property name="LootDropEntityClass" value="EntityLootContainerRegular"/>
 		</entity_class>	
 
@@ -229,8 +229,8 @@
                          Rusty Redman,Barkley Black Eye,Rober the Bull,Bulletproof Allen,Mad Watkins,Farley Grin,Wallis the Bandit,Cliff Muscles,
                          Squinty Thorne,Sly Bert,Mad Dog" />			
 			<property name="Mesh" value="#@modfolder:Resources/Raiderz.unity3d?RaiderMotoDark"/> 
-                        <property name="ExperienceGain" value="800"/> 
-			<property name="LootDropProb" value="0.2"/> 
+                        <property name="ExperienceGain" value="1200"/> 
+			<property name="LootDropProb" value="0.8"/> 
 			<property name="LootDropEntityClass" value="EntityLootContainerRegular"/>
                          
 		</entity_class>
@@ -243,8 +243,8 @@
                          Rusty Redman,Barkley Black Eye,Rober the Bull,Bulletproof Allen,Mad Watkins,Farley Grin,Wallis the Bandit,Cliff Muscles,
                          Squinty Thorne,Sly Bert,Mad Dog" />			
 			<property name="Mesh" value="#@modfolder:Resources/Raiderz.unity3d?RaiderMotoDark"/> 
-                        <property name="ExperienceGain" value="800"/> 
-			<property name="LootDropProb" value="0.2"/> 
+                        <property name="ExperienceGain" value="1200"/> 
+			<property name="LootDropProb" value="0.8"/> 
 			<property name="LootDropEntityClass" value="EntityLootContainerRegular"/>
                          
 		</entity_class>
@@ -257,8 +257,8 @@
                          Rusty Redman,Barkley Black Eye,Rober the Bull,Bulletproof Allen,Mad Watkins,Farley Grin,Wallis the Bandit,Cliff Muscles,
                          Squinty Thorne,Sly Bert,Mad Dog" />	
 			<property name="Mesh" value="#@modfolder:Resources/Raiderz.unity3d?RaiderSluggerDark"/> 
-                        <property name="ExperienceGain" value="800"/> 
-			<property name="LootDropProb" value="0.2"/> 
+                        <property name="ExperienceGain" value="1200"/> 
+			<property name="LootDropProb" value="0.8"/> 
 			<property name="LootDropEntityClass" value="EntityLootContainerRegular"/>
 		</entity_class>	
 
@@ -270,8 +270,8 @@
                          Rusty Redman,Barkley Black Eye,Rober the Bull,Bulletproof Allen,Mad Watkins,Farley Grin,Wallis the Bandit,Cliff Muscles,
                          Squinty Thorne,Sly Bert,Mad Dog" />	
 			<property name="Mesh" value="#@modfolder:Resources/Raiderz.unity3d?RaiderSluggerDark"/> 
-                        <property name="ExperienceGain" value="800"/> 
-			<property name="LootDropProb" value="0.2"/> 
+                        <property name="ExperienceGain" value="1200"/> 
+			<property name="LootDropProb" value="0.8"/> 
 			<property name="LootDropEntityClass" value="EntityLootContainerRegular"/>
 		</entity_class>	
 
@@ -283,8 +283,8 @@
                          Rusty Redman,Barkley Black Eye,Rober the Bull,Bulletproof Allen,Mad Watkins,Farley Grin,Wallis the Bandit,Cliff Muscles,
                          Squinty Thorne,Sly Bert,Mad Dog" />			
 			<property name="Mesh" value="#@modfolder:Resources/Raiderz.unity3d?RaiderSluggerDark"/> 
-                        <property name="ExperienceGain" value="800"/> 
-			<property name="LootDropProb" value="0.2"/> 
+                        <property name="ExperienceGain" value="1200"/> 
+			<property name="LootDropProb" value="0.8"/> 
 			<property name="LootDropEntityClass" value="EntityLootContainerRegular"/>
                          
 		</entity_class>
@@ -297,8 +297,8 @@
                          Rusty Redman,Barkley Black Eye,Rober the Bull,Bulletproof Allen,Mad Watkins,Farley Grin,Wallis the Bandit,Cliff Muscles,
                          Squinty Thorne,Sly Bert,Mad Dog" />			
 			<property name="Mesh" value="#@modfolder:Resources/Raiderz.unity3d?RaiderSluggerDark"/> 
-                        <property name="ExperienceGain" value="800"/> 
-			<property name="LootDropProb" value="0.2"/> 
+                        <property name="ExperienceGain" value="1200"/> 
+			<property name="LootDropProb" value="0.8"/> 
 			<property name="LootDropEntityClass" value="EntityLootContainerRegular"/>
                          
 		</entity_class>
@@ -311,8 +311,8 @@
                          Rusty Redman,Barkley Black Eye,Rober the Bull,Bulletproof Allen,Mad Watkins,Farley Grin,Wallis the Bandit,Cliff Muscles,
                          Squinty Thorne,Sly Bert,Mad Dog" />
 			<property name="Mesh" value="#@modfolder:Resources/Raiderz.unity3d?RaiderSluggerDark"/> 
-                        <property name="ExperienceGain" value="800"/> 
-			<property name="LootDropProb" value="0.2"/> 
+                        <property name="ExperienceGain" value="1200"/> 
+			<property name="LootDropProb" value="0.8"/> 
 			<property name="LootDropEntityClass" value="EntityLootContainerRegular"/>
 		</entity_class>
 
@@ -324,8 +324,8 @@
                          Rusty Redman,Barkley Black Eye,Rober the Bull,Bulletproof Allen,Mad Watkins,Farley Grin,Wallis the Bandit,Cliff Muscles,
                          Squinty Thorne,Sly Bert,Mad Dog" />	
 			<property name="Mesh" value="#@modfolder:Resources/Raiderz.unity3d?RaiderPestDark"/> 
-                        <property name="ExperienceGain" value="800"/> 
-			<property name="LootDropProb" value="0.2"/> 
+                        <property name="ExperienceGain" value="1200"/> 
+			<property name="LootDropProb" value="0.8"/> 
 			<property name="LootDropEntityClass" value="EntityLootContainerRegular"/>
 		</entity_class>	
 
@@ -337,8 +337,8 @@
                          Rusty Redman,Barkley Black Eye,Rober the Bull,Bulletproof Allen,Mad Watkins,Farley Grin,Wallis the Bandit,Cliff Muscles,
                          Squinty Thorne,Sly Bert,Mad Dog" />	
 			<property name="Mesh" value="#@modfolder:Resources/Raiderz.unity3d?RaiderPestDark"/> 
-                        <property name="ExperienceGain" value="800"/> 
-			<property name="LootDropProb" value="0.2"/> 
+                        <property name="ExperienceGain" value="1200"/> 
+			<property name="LootDropProb" value="0.8"/> 
 			<property name="LootDropEntityClass" value="EntityLootContainerRegular"/>
 		</entity_class>	
 
@@ -350,8 +350,8 @@
                          Rusty Redman,Barkley Black Eye,Rober the Bull,Bulletproof Allen,Mad Watkins,Farley Grin,Wallis the Bandit,Cliff Muscles,
                          Squinty Thorne,Sly Bert,Mad Dog" />	
 			<property name="Mesh" value="#@modfolder:Resources/Raiderz.unity3d?RaiderPestDark"/> 
-                        <property name="ExperienceGain" value="800"/> 
-			<property name="LootDropProb" value="0.2"/> 
+                        <property name="ExperienceGain" value="1200"/> 
+			<property name="LootDropProb" value="0.8"/> 
 			<property name="LootDropEntityClass" value="EntityLootContainerRegular"/>
 		</entity_class>	
 
@@ -363,8 +363,8 @@
                          Rusty Redman,Barkley Black Eye,Rober the Bull,Bulletproof Allen,Mad Watkins,Farley Grin,Wallis the Bandit,Cliff Muscles,
                          Squinty Thorne,Sly Bert,Mad Dog" />			
 			<property name="Mesh" value="#@modfolder:Resources/Raiderz.unity3d?RaiderPestDark"/> 
-                        <property name="ExperienceGain" value="800"/> 
-			<property name="LootDropProb" value="0.2"/> 
+                        <property name="ExperienceGain" value="1200"/> 
+			<property name="LootDropProb" value="0.8"/> 
 			<property name="LootDropEntityClass" value="EntityLootContainerRegular"/>
                          
 		</entity_class>
@@ -377,8 +377,8 @@
                          Rusty Redman,Barkley Black Eye,Rober the Bull,Bulletproof Allen,Mad Watkins,Farley Grin,Wallis the Bandit,Cliff Muscles,
                          Squinty Thorne,Sly Bert,Mad Dog" />			
 			<property name="Mesh" value="#@modfolder:Resources/Raiderz.unity3d?RaiderPestDark"/> 
-                        <property name="ExperienceGain" value="800"/> 
-			<property name="LootDropProb" value="0.2"/> 
+                        <property name="ExperienceGain" value="1200"/> 
+			<property name="LootDropProb" value="0.8"/> 
 			<property name="LootDropEntityClass" value="EntityLootContainerRegular"/>
                          
 		</entity_class>
@@ -391,8 +391,8 @@
                          Rusty Redman,Barkley Black Eye,Rober the Bull,Bulletproof Allen,Mad Watkins,Farley Grin,Wallis the Bandit,Cliff Muscles,
                          Squinty Thorne,Sly Bert,Mad Dog" />			
 			<property name="Mesh" value="#@modfolder:Resources/Raiderz.unity3d?RaiderPestDark"/> 
-                        <property name="ExperienceGain" value="800"/> 
-			<property name="LootDropProb" value="0.2"/> 
+                        <property name="ExperienceGain" value="1200"/> 
+			<property name="LootDropProb" value="0.8"/> 
 			<property name="LootDropEntityClass" value="EntityLootContainerRegular"/>
                          
 		</entity_class>
@@ -405,8 +405,8 @@
                          Rusty Redman,Barkley Black Eye,Rober the Bull,Bulletproof Allen,Mad Watkins,Farley Grin,Wallis the Bandit,Cliff Muscles,
                          Squinty Thorne,Sly Bert,Mad Dog" />			
 			<property name="Mesh" value="#@modfolder:Resources/Raiderz.unity3d?RaiderPestDark"/> 
-                        <property name="ExperienceGain" value="800"/> 
-			<property name="LootDropProb" value="0.2"/> 
+                        <property name="ExperienceGain" value="1200"/> 
+			<property name="LootDropProb" value="0.8"/> 
 			<property name="LootDropEntityClass" value="EntityLootContainerRegular"/>
                          
 		</entity_class>
@@ -419,8 +419,8 @@
                          Rusty Redman,Barkley Black Eye,Rober the Bull,Bulletproof Allen,Mad Watkins,Farley Grin,Wallis the Bandit,Cliff Muscles,
                          Squinty Thorne,Sly Bert,Mad Dog" />			
 			<property name="Mesh" value="#@modfolder:Resources/Raiderz.unity3d?RaiderPestDark"/> 
-                        <property name="ExperienceGain" value="800"/> 
-			<property name="LootDropProb" value="0.2"/> 
+                        <property name="ExperienceGain" value="1200"/> 
+			<property name="LootDropProb" value="0.8"/> 
 			<property name="LootDropEntityClass" value="EntityLootContainerRegular"/>
                          
 		</entity_class>
@@ -433,8 +433,8 @@
                          Rusty Redman,Barkley Black Eye,Rober the Bull,Bulletproof Allen,Mad Watkins,Farley Grin,Wallis the Bandit,Cliff Muscles,
                          Squinty Thorne,Sly Bert,Mad Dog" />	
 			<property name="Mesh" value="#@modfolder:Resources/Raiderz.unity3d?RaiderBeatzDark"/> 
-                        <property name="ExperienceGain" value="800"/> 
-			<property name="LootDropProb" value="0.2"/> 
+                        <property name="ExperienceGain" value="1200"/> 
+			<property name="LootDropProb" value="0.8"/> 
 			<property name="LootDropEntityClass" value="EntityLootContainerRegular"/>
 		</entity_class>	
 
@@ -446,8 +446,8 @@
                          Rusty Redman,Barkley Black Eye,Rober the Bull,Bulletproof Allen,Mad Watkins,Farley Grin,Wallis the Bandit,Cliff Muscles,
                          Squinty Thorne,Sly Bert,Mad Dog" />	
 			<property name="Mesh" value="#@modfolder:Resources/Raiderz.unity3d?RaiderBeatzDark"/> 
-                        <property name="ExperienceGain" value="800"/> 
-			<property name="LootDropProb" value="0.2"/> 
+                        <property name="ExperienceGain" value="1200"/> 
+			<property name="LootDropProb" value="0.8"/> 
 			<property name="LootDropEntityClass" value="EntityLootContainerRegular"/>
 		</entity_class>	
 
@@ -459,8 +459,8 @@
                          Rusty Redman,Barkley Black Eye,Rober the Bull,Bulletproof Allen,Mad Watkins,Farley Grin,Wallis the Bandit,Cliff Muscles,
                          Squinty Thorne,Sly Bert,Mad Dog" />	
 			<property name="Mesh" value="#@modfolder:Resources/Raiderz.unity3d?RaiderBeatzDark"/>
-                        <property name="ExperienceGain" value="800"/> 
-			<property name="LootDropProb" value="0.2"/> 
+                        <property name="ExperienceGain" value="1200"/> 
+			<property name="LootDropProb" value="0.8"/> 
 			<property name="LootDropEntityClass" value="EntityLootContainerRegular"/> 
 		</entity_class>	
 
@@ -472,8 +472,8 @@
                          Rusty Redman,Barkley Black Eye,Rober the Bull,Bulletproof Allen,Mad Watkins,Farley Grin,Wallis the Bandit,Cliff Muscles,
                          Squinty Thorne,Sly Bert,Mad Dog" />			
 			<property name="Mesh" value="#@modfolder:Resources/Raiderz.unity3d?RaiderBeatzDark"/> 
-                        <property name="ExperienceGain" value="800"/> 
-			<property name="LootDropProb" value="0.2"/> 
+                        <property name="ExperienceGain" value="1200"/> 
+			<property name="LootDropProb" value="0.8"/> 
 			<property name="LootDropEntityClass" value="EntityLootContainerRegular"/>
                          
 		</entity_class>
@@ -486,8 +486,8 @@
                          Rusty Redman,Barkley Black Eye,Rober the Bull,Bulletproof Allen,Mad Watkins,Farley Grin,Wallis the Bandit,Cliff Muscles,
                          Squinty Thorne,Sly Bert,Mad Dog" />			
 			<property name="Mesh" value="#@modfolder:Resources/Raiderz.unity3d?RaiderBeatzDark"/> 
-                        <property name="ExperienceGain" value="800"/> 
-			<property name="LootDropProb" value="0.2"/> 
+                        <property name="ExperienceGain" value="1200"/> 
+			<property name="LootDropProb" value="0.8"/> 
 			<property name="LootDropEntityClass" value="EntityLootContainerRegular"/>
                          
 		</entity_class>

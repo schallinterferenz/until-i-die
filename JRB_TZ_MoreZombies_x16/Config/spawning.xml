@@ -13,10 +13,10 @@
 	<remove xpath="/spawning/biome[@name='pine_forest']" />
 	<append xpath="/spawning">
 		<biome name="pine_forest">
-			<spawn maxcount="1" respawndelay="2.2" time="Any" entitygroup="EnemyAnimalsForest" spawnDeadChance="0" /><!-- A/Enemy -->
-			<spawn maxcount="1" respawndelay="1" time="Day" entitygroup="WildGameForest" spawnDeadChance="0" /><!-- A/Game -->
-			<spawn maxcount="16" respawndelay="2.9" time="Day" entitygroup="ZombiesAll" spawnDeadChance="0" /><!-- Z/Day -->
-			<spawn maxcount="8" respawndelay="3.3" time="Night" entitygroup="ZombiesNight" spawnDeadChance="0" /><!-- Z/Night -->
+			<spawn maxcount="1" respawndelay="2" time="Any" entitygroup="EnemyAnimalsForest" spawnDeadChance="0" /><!-- A/Enemy -->
+			<spawn maxcount="3" respawndelay="3" time="Day" entitygroup="WildGameForest" spawnDeadChance="0" /><!-- A/Game -->
+			<spawn maxcount="6" respawndelay="1" time="Day" entitygroup="ZombiesAll" spawnDeadChance="0" /><!-- Z/Day -->
+			<spawn maxcount="12" respawndelay="1" time="Night" entitygroup="ZombiesNight" spawnDeadChance="0" /><!-- Z/Night -->
 		</biome>
 	</append>
 
@@ -26,8 +26,8 @@
 	<append xpath="/spawning">
 		<biome name="burnt_forest">
 			<spawn maxcount="1" respawndelay="2.2" time="Any" entitygroup="EnemyAnimalsBurntForest" spawnDeadChance="0" /><!-- A/Enemy -->
-			<spawn maxcount="16" respawndelay="2.8" time="Day" entitygroup="ZombiesBurntForest" spawnDeadChance="0" /><!-- Z/Day -->
-			<spawn maxcount="8" respawndelay="3.2" time="Night" entitygroup="ZombiesBurntForest" spawnDeadChance="0" /><!-- Z/Night -->
+			<spawn maxcount="7" respawndelay="2.8" time="Day" entitygroup="ZombiesBurntForest" spawnDeadChance="0" /><!-- Z/Day -->
+			<spawn maxcount="13" respawndelay="3.2" time="Night" entitygroup="ZombiesBurntForest" spawnDeadChance="0" /><!-- Z/Night -->
 		</biome>
 	</append>
 	
@@ -37,9 +37,9 @@
 	<append xpath="/spawning">
 		<biome name="desert">
 			<spawn maxcount="1" respawndelay="7" time="Any" entitygroup="EnemyAnimalsDesert" spawnDeadChance="0" /><!-- A/Enemy -->
-			<spawn maxcount="1" respawndelay="1" time="Day" entitygroup="WildGameForest" spawnDeadChance="0" /><!-- A/Game -->
-			<spawn maxcount="16" respawndelay="2.7" time="Day" entitygroup="ZombiesAll" spawnDeadChance="0" /><!-- Z/Day -->
-			<spawn maxcount="8" respawndelay="2.1" time="Night" entitygroup="ZombiesNight" spawnDeadChance="0" /><!-- Z/Night -->
+			<spawn maxcount="2" respawndelay="3" time="Day" entitygroup="WildGameForest" spawnDeadChance="0" /><!-- A/Game -->
+			<spawn maxcount="14" respawndelay="2.7" time="Day" entitygroup="ZombiesAll" spawnDeadChance="0" /><!-- Z/Day -->
+			<spawn maxcount="7" respawndelay="2.1" time="Night" entitygroup="ZombiesNight" spawnDeadChance="0" /><!-- Z/Night -->
 		</biome>
 	</append>
 
@@ -61,8 +61,8 @@
 		<biome name="snow">
 			<spawn maxcount="1" respawndelay="6.2" time="Any" entitygroup="EnemyAnimalsSnow" spawnDeadChance="0" /><!-- A/Enemy -->
 			<spawn maxcount="1" respawndelay="1" time="Day" entitygroup="WildGameForest" spawnDeadChance="0" /><!-- A/Game -->
-			<spawn maxcount="16" respawndelay="2.6" time="Day" entitygroup="SnowZombies" spawnDeadChance="0" /><!-- Z/Day -->
-			<spawn maxcount="8" respawndelay="1.7" time="Night" entitygroup="SnowZombies" spawnDeadChance="0" /><!-- Z/Night -->
+			<spawn maxcount="6" respawndelay="2.6" time="Day" entitygroup="SnowZombies" spawnDeadChance="0" /><!-- Z/Day -->
+			<spawn maxcount="14" respawndelay="1.7" time="Night" entitygroup="SnowZombies" spawnDeadChance="0" /><!-- Z/Night -->
 		</biome>
 	</append>
 	
