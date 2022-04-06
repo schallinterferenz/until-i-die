@@ -24,7 +24,7 @@ If you don't have the folder "Mods", just create it :)
 * [x] Ideen für eigenen Mod niederschreiben
 * [ ] Lootbalancing verbessern
     * [ ] Muntion in Müllhaufen (ab LootSt. 15)
-    * [ ] Mehr Beute von Zombies
+    * [x] Mehr Beute von Zombies
     * [ ] Besserer Loot
 * [ ] Vehicle mods
 * [ ] PC aufsetzen mit Dedicated Steam Server
