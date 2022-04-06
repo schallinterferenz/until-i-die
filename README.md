@@ -41,7 +41,7 @@ If you don't have the folder "Mods", just create it :)
          * [ ] Frequency balancing 
       * [ ] Military balancing
          * [x] Weapon balancing
-         * [ ] Spawn balancing
+         * [x] Spawn balancing
          * [ ] Frequency balancing 
       * [ ] Whiteriver balancing
          * [x] Weapon balancing
