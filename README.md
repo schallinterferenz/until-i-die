@@ -41,19 +41,19 @@ If you don't have the folder "Mods", just create it :)
       * [ ] Bandit balancing
          * [x] Weapon balancing
          * [x] Spawn balancing
-         * [ ] Frequency balancing 
+         * [x] Frequency balancing 
       * [ ] Military balancing
          * [ ] Weapon balancing
          * [x] Spawn balancing
-         * [ ] Frequency balancing 
+         * [x] Frequency balancing 
       * [ ] Whiteriver balancing
          * [ ] Weapon balancing
          * [x] Spawn balancing
-         * [ ] Frequency balancing 
+         * [x] Frequency balancing 
       * [ ] VaultAllHorde balancing
          * [ ] Weapon balancing
          * [x] Spawn balancing
-         * [ ] Frequency balancing 
+         * [x] Frequency balancing 
       * [ ] Enemeyhorde balancing
          * [ ] Weapons balancing
          * [ ] Spawn balancing
@@ -61,15 +61,7 @@ If you don't have the folder "Mods", just create it :)
       * [ ] Friendlyhorde balancing
          * [ ] Weapons balancing
          * [ ] Spawn balancing
-         * [ ] Frequency balancing       
-         * [ ] Enemeyhorde balancing
-         * [ ] Weapons balancing
-         * [ ] Spawn balancing
-         * [ ] Frequency balancing
-      * [ ] Friendlyhorde balancing
-         * [ ] Weapons balancing
-         * [ ] Spawn balancing
-         * [ ] Frequency balancing       
+         * [ ] Frequency balancing            
    * [ ] Zombie spawn balancing
       * [x] Scouts are more Dangerous
       * [x] Wandering hordes increased
