@@ -62,4 +62,18 @@ If you don't have the folder "Mods", just create it :)
          * [ ] Weapons balancing
          * [ ] Spawn balancing
          * [ ] Frequency balancing       
+         * [ ] Enemeyhorde balancing
+         * [ ] Weapons balancing
+         * [ ] Spawn balancing
+         * [ ] Frequency balancing
+      * [ ] Friendlyhorde balancing
+         * [ ] Weapons balancing
+         * [ ] Spawn balancing
+         * [ ] Frequency balancing       
    * [ ] Zombie spawn balancing
+         * [x] Scouts are more Dangerous
+         * [x] Wandering hordes increased
+         * [x] Gamestages for hordes Decreased and size increased 
+         * [x] decreased overall Zombie spawn ((-10%)-(-20%))
+            * [x] decreased zombie spawn at daylight by 50% //daytime is less dangerous than nighttime now
+            * [x] incresed zombie spawn at night by 100% // nighttime is more dangerous than daytime now  
