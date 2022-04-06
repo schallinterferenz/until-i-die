@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<xml>
+	<ModInfo>
+		<Name value="UNTILiDIE" />
+		<Description value="Performs some tweaks to the game" />
+		<Author value="Schallinterferenz Digital Media" />
+		<Version value="r20.rc1" />
+		<Website value="https://schallinterferenz.com" />
+	</ModInfo>
+</xml>
