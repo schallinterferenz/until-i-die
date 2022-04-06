@@ -40,15 +40,15 @@ If you don't have the folder "Mods", just create it :)
          * [x] Spawn balancing
          * [ ] Frequency balancing 
       * [ ] Military balancing
-         * [x] Weapon balancing
+         * [ ] Weapon balancing
          * [x] Spawn balancing
          * [ ] Frequency balancing 
       * [ ] Whiteriver balancing
-         * [x] Weapon balancing
+         * [ ] Weapon balancing
          * [x] Spawn balancing
          * [ ] Frequency balancing 
       * [ ] VaultAllHorde balancing
-         * [x] Weapon balancing
+         * [ ] Weapon balancing
          * [x] Spawn balancing
          * [ ] Frequency balancing 
       * [ ] Enemeyhorde balancing
