@@ -33,10 +33,9 @@ If you don't have the folder "Mods", just create it :)
     * [ ] Spiel installieren
     * [ ] Mods installieren
     * [ ] !!!SERVER!!! starten
-* [ ] Weniger Zombies ODER NPCs um FPS zu erhöhen
-
 --> ES GIBT FPS FIXES FÜR SERVER, BITTE NACHSCHAUEN
 
+* [ ] Weniger Zombies ODER NPCs um FPS zu erhöhen
    * [ ] Npc Spawn balancing
       * [ ] Bandit balancing
          * [x] Weapon balancing
