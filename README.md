@@ -1,11 +1,11 @@
-# UNTIL I DIE MOD (Compilation)
+# UNTIL I DIE MOD (Compilation) for 7 Days To Die
 
 First of all we want to say, that every mod/s, except UNTILiDIE mod/folder, was not created by us. Please contribute to the developers, if possible!
 
 ## IMPORTANT NOTE / READ THIS!!!
 
-Sadly, we could not upload one or several mod, because of a file size restriction. 
-You have to download them manually and insert them into the 7 Days to Die \ Mods folder. 
+Sadly, we could not upload one or several mod/s, due to a file size restriction (File mustn't be over 100MB). 
+You have to download them manually and insert them into the 7 Days to Die/Mods folder. 
 
 **Tactical Weapons** Mod: https://7daystodiemods.com/tactical-weapons/
 
