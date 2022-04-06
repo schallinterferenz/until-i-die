@@ -34,3 +34,8 @@ If you don't have the folder "Mods", just create it :)
     * [ ] Mods installieren
     * [ ] !!!SERVER!!! starten
 * [ ] Weniger Zombies ODER NPCs um FPS zu erhöhen
+   * [ ] Npc Spawn balancing
+      * [ ] Bandit balancing
+      * [ ] Military balancing
+      * [ ] Whiteriver balancing
+   * [ ] Zombie spawn balancing
