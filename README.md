@@ -21,7 +21,7 @@ If you don't have the folder "Mods", just create it :)
 
 ## TODO
 
-* [ ] Ideen für eigenen Mod niederschreiben
+* [x] Ideen für eigenen Mod niederschreiben
 * [ ] Lootbalancing verbessern
     * [ ] Muntion in Müllhaufen (ab LootSt. 15)
     * [ ] Mehr Beute von Zombies
