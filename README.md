@@ -21,16 +21,16 @@ If you don't have the folder "Mods", just create it :)
 
 ## TODO
 
-    1. Ideen für eigenen Mod niederschreiben
-    2. Lootbalancing verbessern
-        * Muntion in Müllhaufen (ab LootSt. 15)
-        * Mehr Beute von Zombies
-        * Besserer Loot
-    3. Vehicle mods
-    4. PC aufsetzen mit Dedicated Steam Server
-        * Steam auf PC installieren
-        * mit dem "SirGamingServer" Steam Account anmelden
-        * Spiel installieren
-        * Mods installieren
-        * !!!SERVER!!! starten
-    5. Weniger Zombies ODER NPCs um FPS zu erhöhen
+1. Ideen für eigenen Mod niederschreiben
+2. Lootbalancing verbessern
+    * Muntion in Müllhaufen (ab LootSt. 15)
+    * Mehr Beute von Zombies
+    * Besserer Loot
+3. Vehicle mods
+4. PC aufsetzen mit Dedicated Steam Server
+    * Steam auf PC installieren
+    * mit dem "SirGamingServer" Steam Account anmelden
+    * Spiel installieren
+    * Mods installieren
+    * !!!SERVER!!! starten
+5. Weniger Zombies ODER NPCs um FPS zu erhöhen
