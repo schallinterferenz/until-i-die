@@ -47,8 +47,16 @@ If you don't have the folder "Mods", just create it :)
          * [x] Weapon balancing
          * [ ] Spawn balancing
          * [ ] Frequency balancing 
-      * [ ] Npc VaultAllHorde
+      * [ ] VaultAllHorde balancing
          * [x] Weapon balancing
+         * [x] Spawn balancing
+         * [ ] Frequency balancing 
+      * [ ] Enemeyhorde balancing
+         * [x] Weapons balancing
          * [ ] Spawn balancing
-         * [ ] Frequency balancing     
+         * [ ] Frequency balancing
+      * [ ] Friendlyhorde balancing
+         * [x] Weapons balancing
+         * [ ] Spawn balancing
+         * [ ] Frequency balancing       
    * [ ] Zombie spawn balancing
