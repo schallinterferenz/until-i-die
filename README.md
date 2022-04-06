@@ -12,10 +12,10 @@ Tactical Weapons: https://7daystodiemods.com/tactical-weapons/
 # Install
 
 Just download this repository and copy the content into:
-
 **Windows** : (example) G:\SteamLibrary\steamapps\common\7 Days To Die\Mods
-
 If you don't have the folder "Mods", just create it :) 
+
+Start the GameLauncher and deactivate Easy Anti Cheat (EAC). If you don't, the Mods will not be loaded!!
 
 ## TODO
 
