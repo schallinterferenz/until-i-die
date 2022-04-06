@@ -71,9 +71,9 @@ If you don't have the folder "Mods", just create it :)
          * [ ] Spawn balancing
          * [ ] Frequency balancing       
    * [ ] Zombie spawn balancing
-         * [ ] Scouts are more Dangerous
-         * [ ] Wandering hordes increased
-         * [ ] Gamestages for hordes Decreased and size increased 
-         * [ ] decreased overall Zombie spawn ((-10%)-(-20%))
-            * [ ] decreased zombie spawn at daylight by 50% //daytime is less dangerous than nighttime now
-            * [ ] incresed zombie spawn at night by 100% // nighttime is more dangerous than daytime now  
+      * [ ] Scouts are more Dangerous
+      * [ ] Wandering hordes increased
+      * [ ] Gamestages for hordes Decreased and size increased 
+      * [ ] decreased overall Zombie spawn ((-10%)-(-20%))
+         * [ ] decreased zombie spawn at daylight by 50% //daytime is less dangerous than nighttime now
+         * [ ] incresed zombie spawn at night by 100% // nighttime is more dangerous than daytime now  
