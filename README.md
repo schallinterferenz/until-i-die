@@ -17,7 +17,7 @@ Just download this repository and copy the content into:
 
 If you don't have the folder "Mods", just create it :) 
 
-Start the GameLauncher and deactivate Easy Anti Cheat (EAC). If you don't, the Mods will not be loaded!!
+**Start the GameLauncher and deactivate Easy Anti Cheat (EAC). If you don't, the Mods will not be loaded!!**
 
 ## TODO
 
