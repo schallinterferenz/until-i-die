@@ -39,7 +39,7 @@ If you don't have the folder "Mods", just create it :)
 * [ ] Weniger Zombies ODER NPCs um FPS zu erhöhen
    * [ ] Npc Spawn balancing
       * [ ] Bandit balancing
-         * [x] Weapon balancing
+         * [ ] Weapon balancing
          * [x] Spawn balancing
          * [x] Frequency balancing 
       * [ ] Military balancing
