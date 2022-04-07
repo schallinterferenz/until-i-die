@@ -68,4 +68,4 @@ If you don't have the folder "Mods", just create it :)
       * [x] Gamestages for hordes Decreased and size increased 
       * [x] decreased overall Zombie spawn ((-10%)-(-20%))
          * [x] decreased zombie spawn at daylight by 50% //daytime is less dangerous than nighttime now
-         * [ ] incresed zombie spawn at night by 100% // nighttime is more dangerous than daytime now  
+         * [x] incresed zombie spawn at night by 100% // nighttime is more dangerous than daytime now  
