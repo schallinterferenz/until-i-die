@@ -5,9 +5,9 @@
 	<removeattribute xpath="/hordes//gs/@countDecPerPostGS"/>
 	
 	<!-- Balance hordes so two don't spawn at the same time by adjusting min/max gamestages. -->
-	<setattribute xpath="/hordes/horde[@type='wandering']/hordegroup[@name='Zombies']/gs[1]" name="max">15</setattribute>
-	<setattribute xpath="/hordes/horde[@type='wandering']/hordegroup[@name='Zombies']/gs[2]" name="max">1000</setattribute>
+	<setattribute xpath="/hordes/horde[@type='wandering']/hordegroup[@name='Zombies']/gs[1]" name="max">4</setattribute>
+	<setattribute xpath="/hordes/horde[@type='wandering']/hordegroup[@name='Zombies']/gs[2]" name="max">250</setattribute>
 	
-	<setattribute xpath="/hordes/horde[@type='scout']/hordegroup[@name='Zombies']/gs[1]" name="max">1000</setattribute>
-	<setattribute xpath="/hordes/horde[@type='scout']/hordegroup[@name='Zombies']/gs[2]" name="max">1000</setattribute>
+	<setattribute xpath="/hordes/horde[@type='scout']/hordegroup[@name='Zombies']/gs[1]" name="max">250</setattribute>
+	<setattribute xpath="/hordes/horde[@type='scout']/hordegroup[@name='Zombies']/gs[2]" name="max">250</setattribute>
 </ih_randomhordes>
