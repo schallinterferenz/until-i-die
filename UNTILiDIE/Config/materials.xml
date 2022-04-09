@@ -1,3 +1,4 @@
 <config>
-  <set xpath="/materials/material[@name='MmetalGarageDoor5x3x1']/property[@name='MaxDamage']/@value">17000</set>
+  <set xpath="/materials/material[@id='MmetalGarageDoor5x3x1']/property[@name='MaxDamage']/@value">20000</set>
+  <set xpath="/materials/material[@id='MmetalGarageDoor5x3x1']/property[@name='Hardness']/@value">2</set>
 </config>
