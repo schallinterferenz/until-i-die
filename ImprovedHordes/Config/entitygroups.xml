@@ -12,15 +12,15 @@
 			<entity name="zombieDarleneFeral"/>
 			<entity name="zombieMarleneFeral"/>
 			<entity name="zombieSkateboarderFeral"/>
-			<entity name="zombieBikerFeral" prob="0.3"/>
-			<entity name="zombiePartyGirlFeral" prob="0.3"/>
-			<entity name="zombieUtilityWorkerFeral" prob="0.3"/>
-			<entity name="zombieJanitorFeral" prob="0.2"/>
-			<entity name="zombieNurseFeral" prob="0.3"/>
-			<entity name="zombieLabFeral" prob="0.3"/>
+			<entity name="zombieBikerFeral" prob="0.19"/>
+			<entity name="zombiePartyGirlFeral" prob="0.19"/>
+			<entity name="zombieUtilityWorkerFeral" prob="0.19"/>
+			<entity name="zombieJanitorFeral" prob="0.09"/>
+			<entity name="zombieNurseFeral" prob="0.19"/>
+			<entity name="zombieLabFeral" prob="0.19"/>
 			<entity name="zombieSteveCrawlerFeral"/>
-			<entity name="zombieFatHawaiianFeral" prob="0.3"/>
-			<entity name="zombieFemaleFatFeral" prob="0.3"/>
+			<entity name="zombieFatHawaiianFeral" prob="0.19"/>
+			<entity name="zombieFemaleFatFeral" prob="0.19"/>
 		</entitygroup>
 		
 		<entitygroup name="IHZombiesAllRadiated">
@@ -35,14 +35,14 @@
 			<entity name="zombieDarleneRadiated"/>
 			<entity name="zombieMarleneRadiated"/>
 			<entity name="zombieSkateboarderRadiated"/>
-			<entity name="zombieBikerRadiated" prob="0.3"/>
-			<entity name="zombiePartyGirlRadiated" prob="0.3"/>
-			<entity name="zombieUtilityWorkerRadiated" prob="0.3"/>
-			<entity name="zombieJanitorRadiated" prob="0.2"/>
-			<entity name="zombieNurseRadiated" prob="0.3"/>
-			<entity name="zombieLabRadiated" prob="0.3"/>
-			<entity name="zombieFatHawaiianRadiated" prob="0.3"/>
-			<entity name="zombieFemaleFatRadiated" prob="0.3"/>
+			<entity name="zombieBikerRadiated" prob="0.19"/>
+			<entity name="zombiePartyGirlRadiated" prob="0.19"/>
+			<entity name="zombieUtilityWorkerRadiated" prob="0.19"/>
+			<entity name="zombieJanitorRadiated" prob="0.09"/>
+			<entity name="zombieNurseRadiated" prob="0.19"/>
+			<entity name="zombieLabRadiated" prob="0.19"/>
+			<entity name="zombieFatHawaiianRadiated" prob="0.19"/>
+			<entity name="zombieFemaleFatRadiated" prob="0.19"/>
 		</entitygroup>
 		
 		<entitygroup name="IHZombiesAllFeralNight">
