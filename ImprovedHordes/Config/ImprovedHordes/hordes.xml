@@ -90,7 +90,7 @@
 			<horde type="wandering_enemy"/>
 		</merge>
 		
-		<groups></groups>
+		<groups>
 			<group name="Screamer">
 				<gs min="10" max="75">
 					<entity name="zombieScreamer" minCount="1" maxCount="1"/>
