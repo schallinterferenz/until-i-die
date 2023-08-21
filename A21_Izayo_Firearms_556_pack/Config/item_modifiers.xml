@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<addnew>
+	
+			<!--	FORGRIP 	-->
+	<append xpath="/item_modifiers/item_modifier[@name='modGunForegrip']">
+	
+		<item_property_overrides name="IZYgunT1assaultrifleBattleCarbineFNLcal">
+			<property name="Meshfile" value="#@modfolder:Resources/FNNcal.unity3d?FNNcal_grip.Prefab"/>
+		</item_property_overrides>
+		
+		<item_property_overrides name="IZYgunT3assaultrifleTacticalCarbineSOCmk1">
+			<property name="Meshfile" value="#@modfolder:Resources/SOCmk1.unity3d?SOCmk1_grip.Prefab"/>
+		</item_property_overrides>
+		
+	</append>
+
+		<!--	MAGAZINE-EXT 	-->
+		
+	<append xpath="/item_modifiers/item_modifier[@name='modGunMagazineExtender']">
+		<item_property_overrides name="IZYgunT1assaultrifleTacticalCarbineCAR15">
+			<property name="Meshfile" value="#@modfolder:Resources/CAR15XM177.unity3d?CAR15XM177_magazine.Prefab"/>
+		</item_property_overrides>
+	</append>
+	
+		<!--	RET-STOCK 	-->
+		
+	<append xpath="/item_modifiers/item_modifier[@name='modGunRetractingStock']">
+
+	</append>
+	
+		<!--	REFLEXSIGHT 	-->
+		
+	<append xpath="/item_modifiers/item_modifier[@name='modGunReflexSight']">
+	
+		<item_property_overrides name="IZYgunT1assaultrifleTacticalCarbineCAR15">
+			<property name="ScopeCameraOffset" value="-.001,-.041,-.03"/>
+		</item_property_overrides>
+		
+		<item_property_overrides name="IZYgunT2assaultrifleTacticalCarbineM4C">
+			<property name="Meshfile" value="#@modfolder:Resources/M4Cs.unity3d?M4Cs_reflex.Prefab"/>
+			<property name="ScopeCameraOffset" value="-.0005,-.0148,.001"/>
+		</item_property_overrides>
+		
+		<item_property_overrides name="IZYgunT3assaultrifleTacticalCarbineSOCmk1">
+			<property name="ScopeCameraOffset" value="-.00002,-.0265,-.04"/>
+		</item_property_overrides>
+		
+		<item_property_overrides name="IZYgunT4assaultrifleTacticalCarbineG36cA1">
+			<property name="Meshfile" value="#@modfolder:Resources/g36cA1.unity3d?g36cA1_reflex.Prefab"/>
+			<property name="ScopeCameraOffset" value="-.0022,-.0355,.34"/>
+				<property name="zoomTriggerEffectTriggerPullDualsense" value="PistolZoom"/>
+				<property name="zoomTriggerEffectTriggerPullXbox" value="PistolZoom"/>
+		</item_property_overrides>
+		
+		<item_property_overrides name="IZYgunT2assaultrifleBattleCarbineHK33">
+			<property name="ScopeCameraOffset" value="0,-.0201,0"/>	
+		</item_property_overrides>
+		
+		<item_property_overrides name="IZYgunT1assaultrifleBattleCarbineFNLcal">
+			<property name="ScopeCameraOffset" value="-.0002,-.00685,.3"/>
+            <property name="zoomTriggerEffectTriggerPullDualsense" value="PistolZoom"/>
+            <property name="zoomTriggerEffectTriggerPullXbox" value="PistolZoom"/>
+		</item_property_overrides>
+		
+		<item_property_overrides name="IZYgunT3assaultrifleBattleCarbineAKWa2">
+			<property name="ScopeCameraOffset" value="0,-.024,.22"/>
+            <property name="zoomTriggerEffectTriggerPullDualsense" value="PistolZoom"/>
+            <property name="zoomTriggerEffectTriggerPullXbox" value="PistolZoom"/>
+		</item_property_overrides>
+		
+		<item_property_overrides name="IZYgunT4assaultrifleBattleCarbineScarLight">
+			<property name="Meshfile" value="#@modfolder:Resources/ScarLight.unity3d?ScarLight_reflex.Prefab"/>
+			<property name="ScopeCameraOffset" value="0,-.0392,.017"/>
+		</item_property_overrides>
+		
+	</append>
+	
+		<!--	X2SCOPE		-->
+		
+	<append xpath="/item_modifiers/item_modifier[@name='modGunScopeSmall']">
+		<item_property_overrides name="*">
+			<property name="CrosshairOnAim" value="true"/>
+			<property name="Zoom_overlay" value="@:Other/Items/Weapons/HUD/sniper_zoom_overlay.tga"/>
+			<property name="Zoom_max_out" value="40"/>
+			<property name="Zoom_max_in" value="40"/>
+		</item_property_overrides>
+
+		<item_property_overrides name="IZYgunT1assaultrifleTacticalCarbineCAR15">
+			<property name="Zoom_overlay" value="#@modfolder:Resources/blankXD.tga"/>
+			<property name="Zoom_max_out" value="35"/>
+			<property name="Zoom_max_in" value="35"/>
+			<property name="ScopeCameraOffset" value="-.001,-.0441,-.04"/>
+		</item_property_overrides>
+		
+		<item_property_overrides name="IZYgunT2assaultrifleTacticalCarbineM4C">
+			<property name="Zoom_overlay" value="#@modfolder:Resources/blankXD.tga"/>
+			<property name="Meshfile" value="#@modfolder:Resources/M4Cs.unity3d?M4Cs_scope.Prefab"/>
+			<property name="Zoom_max_out" value="35"/>
+			<property name="Zoom_max_in" value="35"/>
+			<property name="ScopeCameraOffset" value="-.0005,-.0148,-.015"/>
+		</item_property_overrides>
+		
+		<item_property_overrides name="IZYgunT3assaultrifleTacticalCarbineSOCmk1">
+			<property name="Zoom_overlay" value="#@modfolder:Resources/blankXD.tga"/>
+			<property name="Zoom_max_out" value="35"/>
+			<property name="Zoom_max_in" value="35"/>
+			<property name="ScopeCameraOffset" value="-.00002,-.02,-.04"/>
+		</item_property_overrides>
+		
+		<item_property_overrides name="IZYgunT4assaultrifleTacticalCarbineG36cA1">
+			<property name="Meshfile" value="#@modfolder:Resources/g36cA1.unity3d?g36cA1_scope.Prefab"/>
+			<property name="Zoom_overlay" value="#@modfolder:Resources/blankXD.tga"/>
+			<property name="ScopeCameraOffset" value="-.0022,-.037,.3"/>
+			<property name="Zoom_max_out" value="35"/>
+			<property name="Zoom_max_in" value="35"/>
+			<property name="zoomTriggerEffectTriggerPullDualsense" value="PistolZoom"/>
+            <property name="zoomTriggerEffectTriggerPullXbox" value="PistolZoom"/>
+			
+		</item_property_overrides>
+		
+		<item_property_overrides name="IZYgunT1assaultrifleBattleCarbineFNLcal">
+			<property name="Zoom_max_out" value="35"/>
+			<property name="Zoom_max_in" value="35"/>
+			<property name="ScopeCameraOffset" value="-.0002,.00105,.21"/>
+			<property name="Zoom_overlay" value="#@modfolder:Resources/blankXD.tga"/>
+            <property name="zoomTriggerEffectTriggerPullDualsense" value="PistolZoom"/>
+            <property name="zoomTriggerEffectTriggerPullXbox" value="PistolZoom"/>
+		</item_property_overrides>
+		
+		<item_property_overrides name="IZYgunT2assaultrifleBattleCarbineHK33">
+			<property name="ScopeCameraOffset" value="0,-.0181,-.05"/>	
+			<property name="Zoom_overlay" value="#@modfolder:Resources/blankXD.tga"/>
+			<property name="Zoom_max_out" value="35"/>
+			<property name="Zoom_max_in" value="35"/>
+		</item_property_overrides>
+		
+		<item_property_overrides name="IZYgunT3assaultrifleBattleCarbineAKWa2">
+			<property name="ScopeCameraOffset" value="0,-.0285,.22"/>
+			<property name="Zoom_overlay" value="#@modfolder:Resources/blankXD.tga"/>
+			<property name="Zoom_max_out" value="35"/>
+			<property name="Zoom_max_in" value="35"/>
+            <property name="zoomTriggerEffectTriggerPullDualsense" value="PistolZoom"/>
+            <property name="zoomTriggerEffectTriggerPullXbox" value="PistolZoom"/>
+		</item_property_overrides>
+		
+		<item_property_overrides name="IZYgunT4assaultrifleBattleCarbineScarLight">
+			<property name="Zoom_max_out" value="35"/>
+			<property name="Zoom_max_in" value="35"/>
+			<property name="Zoom_overlay" value="#@modfolder:Resources/blankXD.tga"/>
+			<property name="Meshfile" value="#@modfolder:Resources/ScarLight.unity3d?ScarLight_scope.Prefab"/>
+			<property name="ScopeCameraOffset" value="-.00001,-.039,.018"/>
+		</item_property_overrides>
+	
+	</append>
+	
+			<!--	Silencer 	-->
+	
+	<append xpath="/item_modifiers/item_modifier[@name='modGunSoundSuppressorSilencer']">
+
+		<item_property_overrides name="IZYgunT1assaultrifleTacticalCarbineCAR15">
+			<property name="Sound_start" value="556light_silen_fire_01"/>
+			<property name="Sound_loop" value="556light_silen_fire_01"/>
+			<property name="Sound_end" value="556light_silen_end_01"/>
+		</item_property_overrides>
+		
+		<item_property_overrides name="IZYgunT2assaultrifleTacticalCarbineM4C">
+			<property name="Particles_muzzle_fire" value=""/>
+			<property name="Particles_muzzle_fire_fpv" value=""/>
+			<property name="Sound_start" value="556light_silen_fire_01"/>
+			<property name="Sound_loop" value="556light_silen_fire_01"/>
+			<property name="Sound_end" value="556light_silen_end_01"/>
+		</item_property_overrides>
+		
+		<item_property_overrides name="IZYgunT3assaultrifleTacticalCarbineSOCmk1">
+			<property name="Sound_start" value="556light_silen_fire_01"/>
+			<property name="Sound_loop" value="556light_silen_fire_01"/>
+			<property name="Sound_end" value="556light_silen_end_01"/>
+		</item_property_overrides>
+		
+		<item_property_overrides name="IZYgunT4assaultrifleTacticalCarbineG36cA1">
+			<property name="Sound_start" value="556light_silen_fire_01"/>
+			<property name="Sound_loop" value="556light_silen_fire_01"/>
+			<property name="Sound_end" value="556light_silen_end_01"/>
+		</item_property_overrides>
+		
+		<item_property_overrides name="IZYgunT1assaultrifleBattleCarbineFNLcal">
+			<property name="Sound_start" value="556heavy_silen_fire_01"/>
+			<property name="Sound_loop" value="556heavy_silen_fire_01"/>
+			<property name="Sound_end" value="556heavy_silen_end_01"/>
+		</item_property_overrides>
+		
+		<item_property_overrides name="IZYgunT2assaultrifleBattleCarbineHK33">
+			<property name="Sound_start" value="556heavy_silen_fire_01"/>
+			<property name="Sound_loop" value="556heavy_silen_fire_01"/>
+			<property name="Sound_end" value="556heavy_silen_end_01"/>
+		</item_property_overrides>
+		
+		<item_property_overrides name="IZYgunT3assaultrifleBattleCarbineAKWa2">
+			<property name="Sound_start" value="556heavy_silen_fire_01"/>
+			<property name="Sound_loop" value="556heavy_silen_fire_01"/>
+			<property name="Sound_end" value="556heavy_silen_end_01"/>
+		</item_property_overrides>
+		
+		<item_property_overrides name="IZYgunT4assaultrifleBattleCarbineScarLight">
+			<property name="Sound_start" value="556heavy_silen_fire_01"/>
+			<property name="Sound_loop" value="556heavy_silen_fire_01"/>
+			<property name="Sound_end" value="556heavy_silen_end_01"/>
+		</item_property_overrides>
+
+	</append>
+	
+</addnew>

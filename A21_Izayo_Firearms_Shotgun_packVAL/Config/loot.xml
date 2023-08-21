@@ -1,0 +1,108 @@
+<configs>
+
+<!-- Creates new weapon groups for shotguns  -->
+	<insertAfter xpath="//lootgroup[@name='groupWeaponsT3_Boomstick']">
+	<lootgroup name="groupWeaponsT1_Boomstick_IZYDouble" count="all" loot_quality_template="QLTemplateT1">
+		<item name="IZYgunT1shotgunDoublebarrellong"/>
+	</lootgroup>
+
+	<lootgroup name="groupWeaponsT1_Boomstick_IZYBolt" count="all" loot_quality_template="QLTemplateT1">
+		<item name="IZYgunT1shotgunBoltactionShotgun"/>
+	</lootgroup>
+
+	<lootgroup name="groupWeaponsT1_Boomstick_IZY1887" count="all" loot_quality_template="QLTemplateT1">
+		<item name="IZYgunT1shotgunModel1887"/>
+	</lootgroup>
+
+	<lootgroup name="groupWeaponsT2_Boomstick_IZYM31" count="all" loot_quality_template="QLTemplateT2">
+		<item name="IZYgunT2shotgunM31hunter"/>
+	</lootgroup>
+
+	<lootgroup name="groupWeaponsT2_Boomstick_IZYM1897" count="all" loot_quality_template="QLTemplateT2">
+		<item name="IZYgunT2shotgunM1897"/>
+	</lootgroup>
+	
+	<lootgroup name="groupWeaponsT2_Boomstick_IZYM870" count="all" loot_quality_template="QLTemplateT2">
+		<item name="IZYgunT2shotgunM870Police"/>
+	</lootgroup>
+	
+	<lootgroup name="groupWeaponsT3_Boomstick_IZYM4" count="all" loot_quality_template="QLTemplateT3">
+		<item name="IZYgunT3shotgunM4terminator"/>
+	</lootgroup>
+
+	<lootgroup name="groupWeaponsT3_Boomstick_IZYM12G" count="all" loot_quality_template="QLTemplateT3">
+		<item name="IZYgunT3shotgunXM12G"/>
+	</lootgroup>
+
+	<lootgroup name="groupWeaponsT3_Boomstick_IZYM590" count="all" loot_quality_template="QLTemplateT3">
+		<item name="IZYgunT3shotgunM590S"/>
+	</lootgroup>
+	
+	<lootgroup name="groupWeaponsT3_Boomstick_IZY12g" count="all" loot_quality_template="QLTemplateT3">
+		<item name="IZYgunT4shotgunSaika12g"/>
+	</lootgroup>
+
+	<lootgroup name="groupWeaponsT3_Boomstick_IZYHexa" count="all" loot_quality_template="QLTemplateT3">
+		<item name="IZYgunT4shotgunHEXAGun"/>
+	</lootgroup>
+	
+	<lootgroup name="groupWeaponsT3_Boomstick_IZYSPAS" count="all" loot_quality_template="QLTemplateT3">
+		<item name="IZYgunT4shotgunSPAS12"/>
+	</lootgroup>
+
+	</insertAfter>
+
+<!-- Adding new weapon groups to loot groups  -->
+
+	<append xpath="//lootgroup[@name='groupWeaponsT1_Ranged']">	
+		<item group="groupWeaponsT1_Boomstick_IZYDouble"/>
+		<item group="groupWeaponsT1_Boomstick_IZYBolt"/>
+		<item group="groupWeaponsT1_Boomstick_IZY1887"/>	
+	</append>
+
+	<append xpath="//lootgroup[@name='groupWeaponsT2_Ranged']">	
+		<item group="groupWeaponsT2_Boomstick_IZYM31"/>
+		<item group="groupWeaponsT2_Boomstick_IZYM1897"/>
+		<item group="groupWeaponsT2_Boomstick_IZYM870"/>	
+	</append>
+
+	<append xpath="//lootgroup[@name='groupWeaponsT3_Ranged']">	
+		<item group="groupWeaponsT3_Boomstick_IZYM4"/>
+		<item group="groupWeaponsT3_Boomstick_IZYM12G"/>
+		<item group="groupWeaponsT3_Boomstick_IZYM590"/>	
+	<!-- ooooo TIER4 ooooo  -->		
+		<item group="groupWeaponsT3_Boomstick_IZY12g" prob="0.2"/>
+		<item group="groupWeaponsT3_Boomstick_IZYHexa" prob="0.2"/>
+		<item group="groupWeaponsT3_Boomstick_IZYSPAS" prob="0.2"/>		
+	</append>
+
+<!-- OOO QUEST_Reward OOO  -->
+
+	<append xpath="//lootgroup[@name='groupQuestAmmo']">	
+		<item name="ammoShotgunShellTokenShot" count="70" loot_prob_template="QuestT1Prob"/>
+		<item name="ammoShotgunShellFlechette" count="60" loot_prob_template="QuestT2Prob"/>
+		<item name="ammoShotgunSuperpenetratorslug" count="45" loot_prob_template="QuestT3Prob"/>
+	</append>
+	
+	<append xpath="//lootgroup[@name='groupQuestWeaponsRangedT1']">	
+		<item name="IZYgunT1shotgunDoublebarrellong"/>
+		<item name="IZYgunT1shotgunBoltactionShotgun"/>
+		<item name="IZYgunT1shotgunModel1887"/>
+	</append>
+	
+	<append xpath="//lootgroup[@name='groupQuestWeaponsRangedT2']">	
+		<item name="IZYgunT2shotgunM31hunter"/>
+		<item name="IZYgunT2shotgunM1897"/>
+		<item name="IZYgunT2shotgunM870Police"/>
+	</append>
+	
+	<append xpath="//lootgroup[@name='groupQuestWeaponsRangedT3']">	
+		<item name="IZYgunT3shotgunM4terminator"/>
+		<item name="IZYgunT3shotgunXM12G"/>
+		<item name="IZYgunT3shotgunM590S"/>
+		<item name="IZYgunT4shotgunSaika12g" prob="0.2"/>
+		<item name="IZYgunT4shotgunHEXAGun" prob="0.2"/>
+		<item name="IZYgunT4shotgunSPAS12" prob="0.2"/>
+	</append>
+
+</configs>

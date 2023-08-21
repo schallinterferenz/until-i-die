@@ -1,0 +1,19 @@
+Key,File,Type,UsedInMainMenu,NoTranslate,english,Context / Alternate Text,german,latam,french,italian,japanese,koreana,polish,brazilian,russian,turkish,schinese,tchinese,spanish
+
+RaiderGBDAxe,entityclasses,Entity,,,Black Ops Officer,,,,,,,,,,,,,
+RaiderGBDKnife,entityclasses,Entity,,,Black Ops Officer,,,,,,,,,,,,,
+RaiderGBDPistol,entityclasses,Entity,,,Black Ops Officer,,,,,,,,,,,,,
+RaiderGBDTRifle,entityclasses,Entity,,,Black Ops Officer,,,,,,,,,,,,,
+RaiderGBDM60,entityclasses,Entity,,,Black Ops Officer,,,,,,,,,,,,,
+
+RaiderGDAxe,entityclasses,Entity,,,Black Ops,,,,,,,,,,,,,
+RaiderGDKnife,entityclasses,Entity,,,Black Ops,,,,,,,,,,,,,
+RaiderGDPistol,entityclasses,Entity,,,Black Ops,,,,,,,,,,,,,
+RaiderGDTRifle,entityclasses,Entity,,,Black Ops,,,,,,,,,,,,,
+RaiderGDM60,entityclasses,Entity,,,Black Ops,,,,,,,,,,,,,
+
+RaiderGHDAxe,entityclasses,Entity,,,Black Ops,,,,,,,,,,,,,
+RaiderGHDKnife,entityclasses,Entity,,,Black Ops,,,,,,,,,,,,,
+RaiderGHDPistol,entityclasses,Entity,,,Black Ops,,,,,,,,,,,,,
+RaiderGHDTRifle,entityclasses,Entity,,,Black Ops,,,,,,,,,,,,,
+RaiderGHDM60,entityclasses,Entity,,,Black Ops,,,,,,,,,,,,,

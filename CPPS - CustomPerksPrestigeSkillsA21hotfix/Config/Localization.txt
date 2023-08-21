@@ -1,0 +1,1029 @@
+﻿Key,Source,Context,Changes,English,japanese,german
+attprestige,progression,Attribute,New,Prestige Perks,プレステージ,Prestige-Talente
+attPrestigeNeme,progression,Attribute,New,Prestige Skills,プレステージスキル,Prestige Skills
+attPrestigeDesc,progression,Attribute,New,Spend some of that redundant skill points on some neat extra effects!,余分なスキルポイントをきちんとした追加効果に使いましょう!,Investiere deine überschüssigen Talentpunkte in ein paar ordentliche Boni.
+PrestigeBase,progression,Attribute,New,Unlock Prestige,プレステージ開放, Prestige freischalten
+PrestigeLongDesc,progression,Attribute,New,You've unlocked the prestige skills and now got full access to a bunch of new skillsets. Congrats!,プレステージスキルがアンロックされ、新しいスキルセットを仕様できるようになりました。おめでとうございます。,Du hast die Prestige Skills freigeschaltet und hast nun Zugang zu einer Menge neuer Fähigkeiten. Glückwunsch!
+
+Physical,progression,skills,New,Physical,身体能力,Physisch
+Mental,progression,skills,New,Mental,精神力,Mental
+MeleeMasteries,progression,skills,New,Melee Masteries,近接マスター,Nahkampfmeisterschaften
+RangedMasteries,progression,skills,New,Ranged Masteries,遠距離マスター,Fernkampfmeisterschaften
+Luck,progression,skills,New,Luck,幸運,Glück
+
+PhysicalDesc,progression,skills,New,Perks to increase some of your physical stats!,強さ、忍耐系,Talente zur Erhöhung physischer Eigenschaften!
+MentalDesc,progression,skills,New,Perks to increase some of your mental stats!,知覚、知能系,Talente zur Erhöhung mentaler Eigenschaften!
+MeleeMasteriesDesc,progression,skills,New,Perks for melee masteries!,ツールを含む近接系,Talente zur Beherrschung des Nahkampfes!
+RangedMasteriesDesc,progression,skills,New,Perks for ranged masteries!,爆発物を含む遠距離系,Talente zur Beherrschung des Fernkampfes!
+LuckDesc,progression,skills,New,Perks to increase your luck in different ways!,素早さ、知覚、幸運系,Talente, die auf verschiedene Weisen dein Glück erhöhen!
+
+AcrobaticsName,progression,Attribute,New,Acrobatics,アクロバティック, Akrobatik
+AcrobaticsDesc,progression,Attribute,New,You're pretty agile and learned how to avoid injuries from falling uncontrolled.,不意に落下しても怪我をしないようにする方法を学びました。,"Du bist ziemlich gelenkig und hast gelernt, Verletzungen durch unkontrollierte Stürze zu vermeiden."
+AcrobaticsRank1Desc,progression,Attribute,New,+1m Safe Fall Distance,落下可能距離+1m,+1m sichere Falldistanz
+AcrobaticsRank2Desc,progression,Attribute,New,+2m Safe Fall Distance,落下可能距離+2m,+2m sichere Falldistanz
+AcrobaticsRank3Desc,progression,Attribute,New,+3m Safe Fall Distance,落下可能距離+3m,+3m sichere Falldistanz
+AcrobaticsRank4Desc,progression,Attribute,New,+4m Safe Fall Distance,落下可能距離+4m,+4m sichere Falldistanz
+AcrobaticsRank5Desc,progression,Attribute,New,+5m Safe Fall Distance,落下可能距離+5m,+5m sichere Falldistanz
+AcrobaticsRank1LongDesc,progression,Attribute,New,Increase your safe fall distance by 1m.,安全な落下距離を1m延長します。,Erhöht die sichere Distanz beim Fallen um 1m.
+AcrobaticsRank2LongDesc,progression,Attribute,New,Increase your safe fall distance by 2m.,安全な落下距離を2m延長します。,Erhöht die sichere Distanz beim Fallen um 2m.
+AcrobaticsRank3LongDesc,progression,Attribute,New,Increase your safe fall distance by 3m.,安全な落下距離を3m延長します。,Erhöht die sichere Distanz beim Fallen um 3m.
+AcrobaticsRank4LongDesc,progression,Attribute,New,Increase your safe fall distance by 4m.,安全な落下距離を4m延長します。,Erhöht die sichere Distanz beim Fallen um 4m.
+AcrobaticsRank5LongDesc,progression,Attribute,New,Increase your safe fall distance by 5m.,安全な落下距離を5m延長します。,Erhöht die sichere Distanz beim Fallen um 5m.
+
+HeatSynergyName,progression,skills,New,Heat Synergy,熱気耐性,Hitzesynergie
+HeatSynergyDesc,progression,skills,New,You've lived in the desert for a long time thus heat has less effects on you.,長い間砂漠ですごしたため、暑さに対して耐性を獲得した。,Du hast lange Zeit in der Wüste verbracht und wirst durch Hitze weniger beeinflusst.
+HeatSynergyRank1Desc,progression,skills,New,+5 Heat Resistance,熱気耐性+5,Hitzeresistenz +5
+HeatSynergyRank2Desc,progression,skills,New,+9 Heat Resistance,熱気耐性+9,Hitzeresistenz +9
+HeatSynergyRank3Desc,progression,skills,New,+12 Heat Resistance,熱気耐性+12,Hitzeresistenz +12
+HeatSynergyRank4Desc,progression,skills,New,+14 Heat Resistance,熱気耐性+14,Hitzeresistenz +14
+HeatSynergyRank5Desc,progression,skills,New,+15 Heat Resistance,熱気耐性+15,Hitzeresistenz +15
+HeatSynergyRank1LongDesc,progression,skills,New,Increase your resistance against heat by 5,あなたの熱気耐性を5増加させます。,Erhöht deine Resistenz gegen Hitze um 5.
+HeatSynergyRank2LongDesc,progression,skills,New,Increase your resistance against heat by 9,あなたの熱気耐性を9増加させます。,Erhöht deine Resistenz gegen Hitze um 9.
+HeatSynergyRank3LongDesc,progression,skills,New,Increase your resistance against heat by 12,あなたの熱気耐性を12増加させます。,Erhöht deine Resistenz gegen Hitze um 12.
+HeatSynergyRank4LongDesc,progression,skills,New,Increase your resistance against heat by 14,あなたの熱気耐性を14増加させます。,Erhöht deine Resistenz gegen Hitze um 14.
+HeatSynergyRank5LongDesc,progression,skills,New,Increase your resistance against heat by 15,あなたの熱気耐性を15増加させます。,Erhöht deine Resistenz gegen Hitze um 15.
+
+ColdSynergyName,progression,skills,New,Cold Synergy,冷気耐性,Kältesynergie
+ColdSynergyDesc,progression,skills,New,"You've lived in the frosty mountains for a long time thus cold has less effects on you.",長い間雪の降る山岳ですごしたため、寒さに対して耐性を獲得した。,Du hast lange Zeit in eisigen Gebirgen verbracht und wirst durch Kälte weniger beeinflusst.
+ColdSynergyRank1Desc,progression,skills,New,+5 Cold Resistance,冷気耐性+5,Kälteresistenz +5
+ColdSynergyRank2Desc,progression,skills,New,+9 Cold Resistance,冷気耐性+9,Kälteresistenz +9
+ColdSynergyRank3Desc,progression,skills,New,+12 Cold Resistance,冷気耐性+12,Kälteresistenz +12
+ColdSynergyRank4Desc,progression,skills,New,+14 Cold Resistance,冷気耐性+14,Kälteresistenz +14
+ColdSynergyRank5Desc,progression,skills,New,+15 Cold Resistance,冷気耐性+15,Kälteresistenz +15
+ColdSynergyRank1LongDesc,progression,skills,New,Increase your resistance against cold by 5,あなたの冷気耐性を5増加させます。,Erhöht deine Resistenz gegen Kälte um 5.
+ColdSynergyRank2LongDesc,progression,skills,New,Increase your resistance against cold by 9,あなたの冷気耐性を9増加させます。,Erhöht deine Resistenz gegen Kälte um 9.
+ColdSynergyRank3LongDesc,progression,skills,New,Increase your resistance against cold by 12,あなたの冷気耐性を12増加させます。,Erhöht deine Resistenz gegen Kälte um 12.
+ColdSynergyRank4LongDesc,progression,skills,New,Increase your resistance against cold by 14,あなたの冷気耐性を14増加させます。,Erhöht deine Resistenz gegen Kälte um 14.
+ColdSynergyRank5LongDesc,progression,skills,New,Increase your resistance against cold by 15,あなたの冷気耐性を15増加させます。,Erhöht deine Resistenz gegen Kälte um 15.
+
+HealingArtsName,progression,Attribute,New,Healing Arts,治療技術,Heilkunst
+HealingArtsDesc,progression,Attribute,New,You've learned how to properly treat wounds and increase the effectivity of your attempts. (additive bonus),傷を適切に治療する方法を学び、回復効果を高めました。(加算になります),"Du hast gelernt, Wunden fachgerecht zu behandeln. Dadurch steigt effektivität deiner Heilungsversuche. (Additiver Bonus)"
+HealingArtsRank1Desc,progression,Attribute,New,+25% Medical Healing,回復量+25%,+25% Heilung durch Erste-Hilfe
+HealingArtsRank2Desc,progression,Attribute,New,+45% Medical Healing,回復量+45%,+45% Heilung durch Erste-Hilfe
+HealingArtsRank3Desc,progression,Attribute,New,+60% Medical Healing,回復量+60%,+60% Heilung durch Erste-Hilfe
+HealingArtsRank4Desc,progression,Attribute,New,+70% Medical Healing,回復量+70%,+70% Heilung durch Erste-Hilfe
+HealingArtsRank5Desc,progression,Attribute,New,+75% Medical Healing,回復量+75%,+75% Heilung durch Erste-Hilfe
+HealingArtsRank1LongDesc,progression,Attribute,New,Increase the healing efficiency of medical items by 25%.,医療品使用時の回復量を25%上昇させます。,Erhöhe die Effektivität medizinischer Gegenstände um 25%.
+HealingArtsRank2LongDesc,progression,Attribute,New,Increase the healing efficiency of medical items by 45%.,医療品使用時の回復量を45%上昇させます。,Erhöhe die Effektivität medizinischer Gegenstände um 45%.
+HealingArtsRank3LongDesc,progression,Attribute,New,Increase the healing efficiency of medical items by 60%.,医療品使用時の回復量を60%上昇させます。,Erhöhe die Effektivität medizinischer Gegenstände um 60%.
+HealingArtsRank4LongDesc,progression,Attribute,New,Increase the healing efficiency of medical items by 70%.,医療品使用時の回復量を70%上昇させます。,Erhöhe die Effektivität medizinischer Gegenstände um 70%.
+HealingArtsRank5LongDesc,progression,Attribute,New,Increase the healing efficiency of medical items by 75%.,医療品使用時の回復量を75%上昇させます。,Erhöhe die Effektivität medizinischer Gegenstände um 75%.
+
+ArmorSpecialistName,progression,skills,New,Armor Specialist,アーマースペシャリスト,Rüstungsspezialist
+ArmorSpecialistDesc,progression,skills,New,"Your armor feels like a second skin and thus is even more durable now. Once warn enough you'll nullify all damage to armor! (In addition to the corresponding armor perk, the last rank will nullify all damage to armor).",あなたはアーマー取り扱いに熟達したことで、低い損耗で防御できるようになりました。(対応するアーマーパークと共に、最終ランクを取得すると耐久が減らなくなります),"Deine Rüstung fühlt sich wie eine zweite Haut an und ist dadurch deutlich beständiger. (Zusammen mit dem zugehörigen Rüstungstalent, nimmt deine Rüstung auf Rang 5 keinen Schaden mehr.)"
+ArmorSpecialistRank1Desc,progression,skills,New,"-12% Armor Wearout",防具損耗率-12%,-12% Verschleiß von Rüstung
+ArmorSpecialistRank2Desc,progression,skills,New,"-20% Armor Wearout",防具損耗率-20%,-20% Verschleiß von Rüstung
+ArmorSpecialistRank3Desc,progression,skills,New,"-26% Armor Wearout",防具損耗率-26%,-26% Verschleiß von Rüstung
+ArmorSpecialistRank4Desc,progression,skills,New,"-31% Armor Wearout",防具損耗率-31%,-31% Verschleiß von Rüstung
+ArmorSpecialistRank5Desc,progression,skills,New,"-34% Armor Wearout",防具損耗率-34%,-34% Verschleiß von Rüstung
+ArmorSpecialistRank1LongDesc,progression,skills,New,"Decrease the wearout of your armor by an additional 12%",防具の消耗率を12%減らします。,Verringere den Verschleiß deiner Rüstung um weitere 12%.
+ArmorSpecialistRank2LongDesc,progression,skills,New,"Decrease the wearout of your armor by an additional 20%",防具の消耗率を20%減らします。,Verringere den Verschleiß deiner Rüstung um weitere 20%.
+ArmorSpecialistRank3LongDesc,progression,skills,New,"Decrease the wearout of your armor by an additional 26%",防具の消耗率を26%減らします。,Verringere den Verschleiß deiner Rüstung um weitere 26%.
+ArmorSpecialistRank4LongDesc,progression,skills,New,"Decrease the wearout of your armor by an additional 31%",防具の消耗率を31%減らします。,Verringere den Verschleiß deiner Rüstung um weitere 31%.
+ArmorSpecialistRank5LongDesc,progression,skills,New,"Decrease the wearout of your armor by an additional 34%",防具の消耗率を34%減らします。,Verringere den Verschleiß deiner Rüstung um weitere 34%.
+
+WeaponSpecialistName,progression,skills,New,Weapon Specialist,ウェポンスペシャリスト,Waffenspezialist
+WeaponSpecialistDesc,progression,skills,New,"You have become more proficient at maintaining weapons. As a result they are more durable.",あなたは武器の取り扱いに熟達したことで、低い損耗で攻撃できるようになりました。,"Du hast gelernt, deine Waffen anständig zu warten. Dadurch verschleißen sie nun deutlich langsamer."
+WeaponSpecialistRank1Desc,progression,skills,New,"-20% Weapon Wearout",武器損耗率-20%,-20% Verschleiß von Waffen
+WeaponSpecialistRank2Desc,progression,skills,New,"-31% Weapon Wearout",武器損耗率-31%,-31% Verschleiß von Waffen
+WeaponSpecialistRank3Desc,progression,skills,New,"-39% Weapon Wearout",武器損耗率-39%,-39% Verschleiß von Waffen
+WeaponSpecialistRank4Desc,progression,skills,New,"-45% Weapon Wearout",武器損耗率-45%,-45% Verschleiß von Waffen
+WeaponSpecialistRank5Desc,progression,skills,New,"-50% Weapon Wearout",武器損耗率-50%,-50% Verschleiß von Waffen
+WeaponSpecialistRank1LongDesc,progression,skills,New,"Decrease the wearout of your weapon by an additional 20%",武器の消耗率を20%減らします。,Verringere den Verschleiß deiner Waffen um weitere 20%.
+WeaponSpecialistRank2LongDesc,progression,skills,New,"Decrease the wearout of your weapon by an additional 31%",武器の消耗率を31%減らします。,Verringere den Verschleiß deiner Waffen um weitere 31%.
+WeaponSpecialistRank3LongDesc,progression,skills,New,"Decrease the wearout of your weapon by an additional 39%",武器の消耗率を39%減らします。,Verringere den Verschleiß deiner Waffen um weitere 39%.
+WeaponSpecialistRank4LongDesc,progression,skills,New,"Decrease the wearout of your weapon by an additional 45%",武器の消耗率を45%減らします。,Verringere den Verschleiß deiner Waffen um weitere 45%.
+WeaponSpecialistRank5LongDesc,progression,skills,New,"Decrease the wearout of your weapon by an additional 50%",武器の消耗率を50%減らします。,Verringere den Verschleiß deiner Waffen um weitere 50%.
+
+AttackSpeedName,progression,skills,New,Attack Speed,攻撃速度,Schlaghagel
+AttackSpeedDesc,progression,skills,New,All those blows you've dealt evolved into a daily routine. Now you're able to attack even faster.,今までの打撃が日課になっている。今ではさらに速く攻撃できるようになった。,"All die ausgeteilten Hiebe sind für dich zu einer täglichen Routine geworden. Du kannst jetzt noch schneller angreifen."
+AttackSpeedRank1Desc,progression,skills,New,+10% Melee Haste,攻撃速度+10%,+10% Nahkampftempo
+AttackSpeedRank2Desc,progression,skills,New,+16% Melee Haste,攻撃速度+16%,+16% Nahkampftempo
+AttackSpeedRank3Desc,progression,skills,New,+20% Melee Haste,攻撃速度+20%,+20% Nahkampftempo
+AttackSpeedRank4Desc,progression,skills,New,+23% Melee Haste,攻撃速度+23%,+23% Nahkampftempo
+AttackSpeedRank5Desc,progression,skills,New,+25% Melee Haste,攻撃速度+25%,+25% Nahkampftempo
+AttackSpeedRank1LongDesc,progression,skills,New,Increase your Attack Speed with melee tools and weapons by 10%,あなたの攻撃速度を10%増加させます。,Erhöhe dein Angriffstempo mit allen Waffen und Werkzeugen im Nahkampf um 10%.
+AttackSpeedRank2LongDesc,progression,skills,New,Increase your Attack Speed with melee tools and weapons by 16%,あなたの攻撃速度を16%増加させます。,Erhöhe dein Angriffstempo mit allen Waffen und Werkzeugen im Nahkampf um 16%.
+AttackSpeedRank3LongDesc,progression,skills,New,Increase your Attack Speed with melee tools and weapons by 20%,あなたの攻撃速度を20%増加させます。,Erhöhe dein Angriffstempo mit allen Waffen und Werkzeugen im Nahkampf um 20%.
+AttackSpeedRank4LongDesc,progression,skills,New,Increase your Attack Speed with melee tools and weapons by 23%,あなたの攻撃速度を23%増加させます。,Erhöhe dein Angriffstempo mit allen Waffen und Werkzeugen im Nahkampf um 23%.
+AttackSpeedRank5LongDesc,progression,skills,New,Increase your Attack Speed with melee tools and weapons by 25%,あなたの攻撃速度を25%増加させます。,Erhöhe dein Angriffstempo mit allen Waffen und Werkzeugen im Nahkampf um 25%.
+
+MeleeDamageName,progression,skills,New,Melee Damage,近接ダメージ,Nahkampfschaden
+MeleeDamageDesc,progression,skills,New,Deal more melee damage.,より多くの近接ダメージを与える。,Verursache mehr Schaden im Nahkampf.
+MeleeDamageRank1Desc,progression,skills,New,+10% Melee Damage,近接攻撃力+10%,+10% Nahkampfschaden
+MeleeDamageRank2Desc,progression,skills,New,+16% Melee Damage,近接攻撃力+16%,+16% Nahkampfschaden
+MeleeDamageRank3Desc,progression,skills,New,+20% Melee Damage,近接攻撃力+20%,+20% Nahkampfschaden
+MeleeDamageRank4Desc,progression,skills,New,+23% Melee Damage,近接攻撃力+23%,+23% Nahkampfschaden
+MeleeDamageRank5Desc,progression,skills,New,+25% Melee Damage,近接攻撃力+25%,+25% Nahkampfschaden
+MeleeDamageRank1LongDesc,progression,skills,New,Increase your Melee Damage by 10%,あなたの近接攻撃力を10%増加させます。,Erhöhe deinen Nahkampfschaden um 10%.
+MeleeDamageRank2LongDesc,progression,skills,New,Increase your Melee Damage by 16%,あなたの近接攻撃力を16%増加させます。,Erhöhe deinen Nahkampfschaden um 16%.
+MeleeDamageRank3LongDesc,progression,skills,New,Increase your Melee Damage by 20%,あなたの近接攻撃力を20%増加させます。,Erhöhe deinen Nahkampfschaden um 20%.
+MeleeDamageRank4LongDesc,progression,skills,New,Increase your Melee Damage by 23%,あなたの近接攻撃力を23%増加させます。,Erhöhe deinen Nahkampfschaden um 23%.
+MeleeDamageRank5LongDesc,progression,skills,New,Increase your Melee Damage by 25%,あなたの近接攻撃力を25%増加させます。,Erhöhe deinen Nahkampfschaden um 25%.
+
+WeaponRangeName,progression,skills,New,Weapon Range,ウェポンレンジ,Waffenreichweite
+WeaponRangeDesc,progression,skills,New,Increase the effective shot range of all ranged weapons.,すべての射撃武器の有効射程距離を拡張します。,Erhöhe die effektive Reichweite deiner Fernkampfwaffen.
+WeaponRangeRank1Desc,progression,skills,New,+10% Range,射程距離+10%,+10% Reichweite
+WeaponRangeRank2Desc,progression,skills,New,+16% Range,射程距離+16%,+16% Reichweite
+WeaponRangeRank3Desc,progression,skills,New,+20% Range,射程距離+20%,+20% Reichweite
+WeaponRangeRank4Desc,progression,skills,New,+23% Range,射程距離+23%,+23% Reichweite
+WeaponRangeRank5Desc,progression,skills,New,+25% Range,射程距離+25%,+25% Reichweite
+WeaponRangeRank1LongDesc,progression,skills,New,Shoot 10% farther before the damage of your weapons starts to fall off.,武器の射程距離を10%延長させます。,"Du kannst 10% weiter schießen, bevor sich der Schaden deiner Waffen verringert."
+WeaponRangeRank2LongDesc,progression,skills,New,Shoot 16% farther before the damage of your weapons starts to fall off.,武器の射程距離を16%延長させます。,"Du kannst 16% weiter schießen, bevor sich der Schaden deiner Waffen verringert."
+WeaponRangeRank3LongDesc,progression,skills,New,Shoot 20% farther before the damage of your weapons starts to fall off.,武器の射程距離を20%延長させます。,"Du kannst 20% weiter schießen, bevor sich der Schaden deiner Waffen verringert."
+WeaponRangeRank4LongDesc,progression,skills,New,Shoot 23% farther before the damage of your weapons starts to fall off.,武器の射程距離を23%延長させます。,"Du kannst 23% weiter schießen, bevor sich der Schaden deiner Waffen verringert."
+WeaponRangeRank5LongDesc,progression,skills,New,Shoot 25% farther before the damage of your weapons starts to fall off.,武器の射程距離を25%延長させます。,"Du kannst 25% weiter schießen, bevor sich der Schaden deiner Waffen verringert."
+
+FireRateName,progression,skills,New,Fire Rate,ファイアレート,Feuerrate
+FireRateDesc,progression,skills,New,Increase your fire rate.,すべての射撃武器の連射速度を上昇させます。,Erhöhe deine Feuerrate
+FireRateRank1Desc,progression,skills,New,+10% Fire Rate,連射速度+10%,+10% Feuerrate
+FireRateRank2Desc,progression,skills,New,+16% Fire Rate,連射速度+16%,+16% Feuerrate
+FireRateRank3Desc,progression,skills,New,+20% Fire Rate,連射速度+20%,+20% Feuerrate
+FireRateRank4Desc,progression,skills,New,+23% Fire Rate,連射速度+23%,+23% Feuerrate
+FireRateRank5Desc,progression,skills,New,+25% Fire Rate,連射速度+25%,+25% Feuerrate
+FireRateRank1LongDesc,progression,skills,New,Increase your Fire Rate by 10%,武器の連射速度を10%上昇させます。, Erhöhe deine Feuerrate um 10%.
+FireRateRank2LongDesc,progression,skills,New,Increase your Fire Rate by 16%,武器の連射速度を16%上昇させます。, Erhöhe deine Feuerrate um 16%.
+FireRateRank3LongDesc,progression,skills,New,Increase your Fire Rate by 20%,武器の連射速度を20%上昇させます。, Erhöhe deine Feuerrate um 20%.
+FireRateRank4LongDesc,progression,skills,New,Increase your Fire Rate by 23%,武器の連射速度を23%上昇させます。, Erhöhe deine Feuerrate um 23%.
+FireRateRank5LongDesc,progression,skills,New,Increase your Fire Rate by 25%,武器の連射速度を25%上昇させます。, Erhöhe deine Feuerrate um 25%.
+
+WeaponHandlingName,progression,skills,New,Weapon Handling,武器操作,Waffenkunde
+WeaponHandlingDesc,progression,skills,New,Increase your weapon handling,すべての射撃武器の取り回しを上昇させます。,Verbessere deinen Umgang mit Waffen.
+WeaponHandlingRank1Desc,progression,skills,New,+10% Weapon Handling,取り回し+10%,+10% Waffenkunde
+WeaponHandlingRank2Desc,progression,skills,New,+16% Weapon Handling,取り回し+16%,+16% Waffenkunde
+WeaponHandlingRank3Desc,progression,skills,New,+20% Weapon Handling,取り回し+20%,+20% Waffenkunde
+WeaponHandlingRank4Desc,progression,skills,New,+23% Weapon Handling,取り回し+23%,+23% Waffenkunde
+WeaponHandlingRank5Desc,progression,skills,New,+25% Weapon Handling,取り回し+25%,+25% Waffenkunde
+WeaponHandlingRank1LongDesc,progression,skills,New,Increase your weapon handling by 10%,ADS時の精度収束速度を10%上昇させます。,Erhöhe deine Waffenkunde um 10%.
+WeaponHandlingRank2LongDesc,progression,skills,New,Increase your weapon handling by 16%,ADS時の精度収束速度を16%上昇させます。,Erhöhe deine Waffenkunde um 16%.
+WeaponHandlingRank3LongDesc,progression,skills,New,Increase your weapon handling by 20%,ADS時の精度収束速度を20%上昇させます。,Erhöhe deine Waffenkunde um 20%.
+WeaponHandlingRank4LongDesc,progression,skills,New,Increase your weapon handling by 23%,ADS時の精度収束速度を23%上昇させます。,Erhöhe deine Waffenkunde um 23%.
+WeaponHandlingRank5LongDesc,progression,skills,New,Increase your weapon handling by 25%,ADS時の精度収束速度を25%上昇させます。,Erhöhe deine Waffenkunde um 25%.
+
+LargerMagazinesName,progression,skills,New,Larger Magazines,弾倉拡張,Größere Magazine
+LargerMagazinesDesc,progression,skills,New,Increase your clip size.,すべての射撃武器の装弾数を拡張させます。,Erhöhe die Magazingröße deiner Schusswaffen.
+LargerMagazinesRank1Desc,progression,skills,New,+10% Larger Magazines,弾倉サイズ+10%,10+% Größere Magazine
+LargerMagazinesRank2Desc,progression,skills,New,+16% Larger Magazines,弾倉サイズ+16%,+16% Größere Magazine
+LargerMagazinesRank3Desc,progression,skills,New,+20% Larger Magazines,弾倉サイズ+20%,+20% Größere Magazine
+LargerMagazinesRank4Desc,progression,skills,New,+23% Larger Magazines,弾倉サイズ+23%,+23% Größere Magazine
+LargerMagazinesRank5Desc,progression,skills,New,+25% Larger Magazines,弾倉サイズ+25%,+25% Größere Magazine
+LargerMagazinesRank1LongDesc,progression,skills,New,Increase your Magazine Size by 10%,射撃武器の装弾数を10%拡張させます。,Erhöhe die Magazingröße deiner Schusswaffen um 10%.
+LargerMagazinesRank2LongDesc,progression,skills,New,Increase your Magazine Size by 16%,射撃武器の装弾数を16%拡張させます。,Erhöhe die Magazingröße deiner Schusswaffen um 16%.
+LargerMagazinesRank3LongDesc,progression,skills,New,Increase your Magazine Size by 20%,射撃武器の装弾数を20%拡張させます。,Erhöhe die Magazingröße deiner Schusswaffen um 20%.
+LargerMagazinesRank4LongDesc,progression,skills,New,Increase your Magazine Size by 23%,射撃武器の装弾数を23%拡張させます。,Erhöhe die Magazingröße deiner Schusswaffen um 23%.
+LargerMagazinesRank5LongDesc,progression,skills,New,Increase your Magazine Size by 25%,射撃武器の装弾数を25%拡張させます。,Erhöhe die Magazingröße deiner Schusswaffen um 25%.
+
+ReloadSpeedName,progression,skills,New,Reload Speed,リロードスピード,Nachladetempo
+ReloadSpeedDesc,progression,skills,New,All this reloading earned you some nimble fingers. Reload even faster now.,指先が器用になり、リロードがさらに速くなった。,"All das Nachladen hat dir ziemlich flinke Finger verschafft. Du kannst jetzt noch schneller nachladen."
+ReloadSpeedRank1Desc,progression,skills,New,+10% Reload Speed,リロード速度+10%,+10% Nachladetempo
+ReloadSpeedRank2Desc,progression,skills,New,+16% Reload Speed,リロード速度+16%,+16% Nachladetempo
+ReloadSpeedRank3Desc,progression,skills,New,+20% Reload Speed,リロード速度+20%,+20% Nachladetempo
+ReloadSpeedRank4Desc,progression,skills,New,+23% Reload Speed,リロード速度+23%,+23% Nachladetempo
+ReloadSpeedRank5Desc,progression,skills,New,+25% Reload Speed,リロード速度+25%,+25% Nachladetempo
+ReloadSpeedRank1LongDesc,progression,skills,New,Increase your reload speed by 10%,射撃武器の再装填を10%高速化させます。,Erhöhe dein Tempo beim Nachladen um 10%.
+ReloadSpeedRank2LongDesc,progression,skills,New,Increase your reload speed by 16%,射撃武器の再装填を16%高速化させます。,Erhöhe dein Tempo beim Nachladen um 16%.
+ReloadSpeedRank3LongDesc,progression,skills,New,Increase your reload speed by 20%,射撃武器の再装填を20%高速化させます。,Erhöhe dein Tempo beim Nachladen um 20%.
+ReloadSpeedRank4LongDesc,progression,skills,New,Increase your reload speed by 23%,射撃武器の再装填を23%高速化させます。,Erhöhe dein Tempo beim Nachladen um 23%.
+ReloadSpeedRank5LongDesc,progression,skills,New,Increase your reload speed by 25%,射撃武器の再装填を25%高速化させます。,Erhöhe dein Tempo beim Nachladen um 25%.
+
+RangedDamageName,progression,skills,New,Ranged Damage,遠距離ダメージ,Fernkampfschaden
+RangedDamageDesc,progression,skills,New,Deal more ranged damage.,遠距離武器のダメージを上昇させる。,Verursache mehr Fernkampfschaden.
+RangedDamageRank1Desc,progression,skills,New,+10% Ranged Damage,射撃ダメージ+10%,+10% Fernkampfschaden
+RangedDamageRank2Desc,progression,skills,New,+16% Ranged Damage,射撃ダメージ+16%,+16% Fernkampfschaden
+RangedDamageRank3Desc,progression,skills,New,+20% Ranged Damage,射撃ダメージ+20%,+20% Fernkampfschaden
+RangedDamageRank4Desc,progression,skills,New,+23% Ranged Damage,射撃ダメージ+23%,+23% Fernkampfschaden
+RangedDamageRank5Desc,progression,skills,New,+25% Ranged Damage,射撃ダメージ+25%,+25% Fernkampfschaden
+RangedDamageRank1LongDesc,progression,skills,New,Increase your Ranged Damage by 10%,遠距離武器のダメージを10%上昇させます。,Erhöhe deinen Fernkampfschaden um 10%.
+RangedDamageRank2LongDesc,progression,skills,New,Increase your Ranged Damage by 16%,遠距離武器のダメージを16%上昇させます。,Erhöhe deinen Fernkampfschaden um 16%.
+RangedDamageRank3LongDesc,progression,skills,New,Increase your Ranged Damage by 20%,遠距離武器のダメージを20%上昇させます。,Erhöhe deinen Fernkampfschaden um 20%.
+RangedDamageRank4LongDesc,progression,skills,New,Increase your Ranged Damage by 23%,遠距離武器のダメージを23%上昇させます。,Erhöhe deinen Fernkampfschaden um 23%.
+RangedDamageRank5LongDesc,progression,skills,New,Increase your Ranged Damage by 25%,遠距離武器のダメージを25%上昇させます。,Erhöhe deinen Fernkampfschaden um 25%.
+
+MaximumHealthName,progression,skills,New,Maximum Health,最大体力,Maximale Lebensenergie
+MaximumHealthDesc,progression,skills,New,Increase your hardiness and thus your maximum health.,体力を高めて、最大の健康を手に入れましょう。,Erhöhe deine Zähigkeit und somit deine maximale Lebensenergie.
+MaximumHealthRank1Desc,progression,skills,New,+6 Maximum Health,最大体力+6,Maximale Lebensenergie +6
+MaximumHealthRank2Desc,progression,skills,New,+12 Maximum Health,最大体力+12,Maximale Lebensenergie +12
+MaximumHealthRank3Desc,progression,skills,New,+18 Maximum Health,最大体力+18,Maximale Lebensenergie +18
+MaximumHealthRank4Desc,progression,skills,New,+24 Maximum Health,最大体力+24,Maximale Lebensenergie +24
+MaximumHealthRank5Desc,progression,skills,New,+30 Maximum Health,最大体力+30,Maximale Lebensenergie +30
+MaximumHealthRank6Desc,progression,skills,New,+34 Maximum Health,最大体力+34,Maximale Lebensenergie +34
+MaximumHealthRank7Desc,progression,skills,New,+38 Maximum Health,最大体力+38,Maximale Lebensenergie +38
+MaximumHealthRank8Desc,progression,skills,New,+42 Maximum Health,最大体力+42,Maximale Lebensenergie +42
+MaximumHealthRank9Desc,progression,skills,New,+46 Maximum Health,最大体力+46,Maximale Lebensenergie +46
+MaximumHealthRank10Desc,progression,skills,New,+50 Maximum Health,最大体力+50,Maximale Lebensenergie +50
+MaximumHealthRank1LongDesc,progression,skills,New,Increase your maximum health by 6,あなたの最大体力を6増加させます。,Erhöhe deine maximale Lebensenergie um 6.
+MaximumHealthRank2LongDesc,progression,skills,New,Increase your maximum health by 12,あなたの最大体力を12増加させます。,Erhöhe deine maximale Lebensenergie um 12.
+MaximumHealthRank3LongDesc,progression,skills,New,Increase your maximum health by 18,あなたの最大体力を18増加させます。,Erhöhe deine maximale Lebensenergie um 18.
+MaximumHealthRank4LongDesc,progression,skills,New,Increase your maximum health by 24,あなたの最大体力を24増加させます。,Erhöhe deine maximale Lebensenergie um 24.
+MaximumHealthRank5LongDesc,progression,skills,New,Increase your maximum health by 30,あなたの最大体力を30増加させます。,Erhöhe deine maximale Lebensenergie um 30.
+MaximumHealthRank6LongDesc,progression,skills,New,Increase your maximum health by 34,あなたの最大体力を34増加させます。,Erhöhe deine maximale Lebensenergie um 34.
+MaximumHealthRank7LongDesc,progression,skills,New,Increase your maximum health by 38,あなたの最大体力を38増加させます。,Erhöhe deine maximale Lebensenergie um 38.
+MaximumHealthRank8LongDesc,progression,skills,New,Increase your maximum health by 42,あなたの最大体力を42増加させます。,Erhöhe deine maximale Lebensenergie um 42.
+MaximumHealthRank9LongDesc,progression,skills,New,Increase your maximum health by 46,あなたの最大体力を46増加させます。,Erhöhe deine maximale Lebensenergie um 46.
+MaximumHealthRank10LongDesc,progression,skills,New,Increase your maximum health by 50,あなたの最大体力を50増加させます。,Erhöhe deine maximale Lebensenergie um 50.
+
+MaximumStaminaName,progression,skills,New,Maximum Stamina,スタミナ最大値,Maximale Ausdauer
+MaximumStaminaDesc,progression,skills,New,Increase your endurance and thus your maximum stamina.,持久力を鍛え、最大のスタミナを高めます。,Erhöhe dein Durchhaltevermögen und dadurch deine maximale Ausdauer.
+MaximumStaminaRank1Desc,progression,skills,New,+6 Maximum Stamina,最大スタミナ+6,+ 6 Maximale Ausdauer
+MaximumStaminaRank2Desc,progression,skills,New,+12 Maximum Stamina,最大スタミナ+12,+ 12 Maximale Ausdauer
+MaximumStaminaRank3Desc,progression,skills,New,+18 Maximum Stamina,最大スタミナ+18,+ 18 Maximale Ausdauer
+MaximumStaminaRank4Desc,progression,skills,New,+24 Maximum Stamina,最大スタミナ+24,+ 24 Maximale Ausdauer
+MaximumStaminaRank5Desc,progression,skills,New,+30 Maximum Stamina,最大スタミナ+30,+ 30 Maximale Ausdauer
+MaximumStaminaRank6Desc,progression,skills,New,+34 Maximum Stamina,最大スタミナ+34,+ 34 Maximale Ausdauer
+MaximumStaminaRank7Desc,progression,skills,New,+38 Maximum Stamina,最大スタミナ+38,+ 38 Maximale Ausdauer
+MaximumStaminaRank8Desc,progression,skills,New,+42 Maximum Stamina,最大スタミナ+42,+ 42 Maximale Ausdauer
+MaximumStaminaRank9Desc,progression,skills,New,+46 Maximum Stamina,最大スタミナ+46,+ 46 Maximale Ausdauer
+MaximumStaminaRank10Desc,progression,skills,New,+50 Maximum Stamina,最大スタミナ+50,+ 50 Maximale Ausdauer
+MaximumStaminaRank1LongDesc,progression,skills,New,Increase your maximum Stamina by 6,あなたの最大スタミナを6増加させます。,Erhöhe deine maximale Ausdauer um 6.
+MaximumStaminaRank2LongDesc,progression,skills,New,Increase your maximum Stamina by 12,あなたの最大スタミナを12増加させます。,Erhöhe deine maximale Ausdauer um 12.
+MaximumStaminaRank3LongDesc,progression,skills,New,Increase your maximum Stamina by 18,あなたの最大スタミナを18増加させます。,Erhöhe deine maximale Ausdauer um 18.
+MaximumStaminaRank4LongDesc,progression,skills,New,Increase your maximum Stamina by 24,あなたの最大スタミナを24増加させます。,Erhöhe deine maximale Ausdauer um 24.
+MaximumStaminaRank5LongDesc,progression,skills,New,Increase your maximum Stamina by 30,あなたの最大スタミナを30増加させます。,Erhöhe deine maximale Ausdauer um 30.
+MaximumStaminaRank6LongDesc,progression,skills,New,Increase your maximum Stamina by 34,あなたの最大スタミナを34増加させます。,Erhöhe deine maximale Ausdauer um 34.
+MaximumStaminaRank7LongDesc,progression,skills,New,Increase your maximum Stamina by 38,あなたの最大スタミナを38増加させます。,Erhöhe deine maximale Ausdauer um 38.
+MaximumStaminaRank8LongDesc,progression,skills,New,Increase your maximum Stamina by 42,あなたの最大スタミナを42増加させます。,Erhöhe deine maximale Ausdauer um 42.
+MaximumStaminaRank9LongDesc,progression,skills,New,Increase your maximum Stamina by 46,あなたの最大スタミナを46増加させます。,Erhöhe deine maximale Ausdauer um 46.
+MaximumStaminaRank10LongDesc,progression,skills,New,Increase your maximum Stamina by 50,あなたの最大スタミナを50増加させます。,Erhöhe deine maximale Ausdauer um 50.
+
+
+DamageResistanceName,progression,skills,New,Damage Resistance,ダメージ耐性,Schadensresistenz
+DamageResistanceDesc,progression,skills,New,Increase your hardiness and thus your resistance to damage.,自分の頑丈さを上げることで、ダメージへの耐性を上げます。(アーマーによる軽減の後適用されます),Erhöhe deine Zähigkeit und somit deinen Widerstand gegen Schaden.
+DamageResistanceRank1Desc,progression,skills,New,+2.4% Damage Resistance,ダメージカット量+2.4%,+2.4% Widerstand gegen Schaden
+DamageResistanceRank2Desc,progression,skills,New,+4.8% Damage Resistance,ダメージカット量+4.8%,+4.8% Widerstand gegen Schaden
+DamageResistanceRank3Desc,progression,skills,New,+7.2% Damage Resistance,ダメージカット量+7.2%,+7.2% Widerstand gegen Schaden
+DamageResistanceRank4Desc,progression,skills,New,+9.6% Damage Resistance,ダメージカット量+9.6%,9.6+% Widerstand gegen Schaden
+DamageResistanceRank5Desc,progression,skills,New,+12% Damage Resistance,ダメージカット量+12%,+12% Widerstand gegen Schaden
+DamageResistanceRank6Desc,progression,skills,New,+13.6% Damage Resistance,ダメージカット量+13.6%,+13.6% Widerstand gegen Schaden
+DamageResistanceRank7Desc,progression,skills,New,+15.2% Damage Resistance,ダメージカット量+15.2%,+15.2% Widerstand gegen Schaden
+DamageResistanceRank8Desc,progression,skills,New,+16.8% Damage Resistance,ダメージカット量+16.8%,+16.8% Widerstand gegen Schaden
+DamageResistanceRank9Desc,progression,skills,New,+18.4% Damage Resistance,ダメージカット量+18.4%,+18.4% Widerstand gegen Schaden
+DamageResistanceRank10Desc,progression,skills,New,+20% Damage Resistance,ダメージカット量+20%,+20% Widerstand gegen Schaden
+DamageResistanceRank1LongDesc,progression,skills,New,Increase your Damage Resistance by 2.4%.,最終的なダメージから2.4%ダメージが軽減されます。,Erhöhe deinen Widerstand gegen Schaden um 2.4%.
+DamageResistanceRank2LongDesc,progression,skills,New,Increase your Damage Resistance by 4.8%.,最終的なダメージから4.8%ダメージが軽減されます。,Erhöhe deinen Widerstand gegen Schaden um 4.8%.
+DamageResistanceRank3LongDesc,progression,skills,New,Increase your Damage Resistance by 7.2%.,最終的なダメージから7.2%ダメージが軽減されます。,Erhöhe deinen Widerstand gegen Schaden um 7.2%.
+DamageResistanceRank4LongDesc,progression,skills,New,Increase your Damage Resistance by 9.6%.,最終的なダメージから9.6%ダメージが軽減されます。,Erhöhe deinen Widerstand gegen Schaden um 9.6%.
+DamageResistanceRank5LongDesc,progression,skills,New,Increase your Damage Resistance by 12%.,最終的なダメージから12%ダメージが軽減されます。,Erhöhe deinen Widerstand gegen Schaden um 12%.
+DamageResistanceRank6LongDesc,progression,skills,New,Increase your Damage Resistance by 13.6%.,最終的なダメージから13.6%ダメージが軽減されます。,Erhöhe deinen Widerstand gegen Schaden um 13.6%.
+DamageResistanceRank7LongDesc,progression,skills,New,Increase your Damage Resistance by 15.2%.,最終的なダメージから15.2%ダメージが軽減されます。,Erhöhe deinen Widerstand gegen Schaden um 15.2%.
+DamageResistanceRank8LongDesc,progression,skills,New,Increase your Damage Resistance by 16.8%.,最終的なダメージから16.8%ダメージが軽減されます。,Erhöhe deinen Widerstand gegen Schaden um 16.8%.
+DamageResistanceRank9LongDesc,progression,skills,New,Increase your Damage Resistance by 18.4%.,最終的なダメージから18.4%ダメージが軽減されます。,Erhöhe deinen Widerstand gegen Schaden um 18.4%.
+DamageResistanceRank10LongDesc,progression,skills,New,Increase your Damage Resistance by 20%.,最終的なダメージから20%ダメージが軽減されます。,Erhöhe deinen Widerstand gegen Schaden um 20%.
+
+VigorName,progression,skills,New,Vigor,活力,Vitalität
+VigorDesc,progression,skills,New,Swinging stuff around the whole time accustomed you to them so now it's less exerting. Lose less Stamina per melee swing.,周りのものをずっと振り回していると慣れてくるもので、今ではあまり力を入れなくなりました。攻撃でのスタミナ消費が減ります。,"Du hast dich daran gewöhnt, mit allerlei Dingen herumzufuchteln und ermüdest jetzt langsamer. Verbrauche mit jedem Angriff weniger Ausdauer. "
+VigorRank1Desc,progression,skills,New,-3% Stamina Loss,スタミナ消費-3%,-3% Ausdauerverbrauch
+VigorRank2Desc,progression,skills,New,-6% Stamina Loss,スタミナ消費-6%,-6% Ausdauerverbrauch
+VigorRank3Desc,progression,skills,New,-9% Stamina Loss,スタミナ消費-9%,-9% Ausdauerverbrauch
+VigorRank4Desc,progression,skills,New,-12% Stamina Loss,スタミナ消費-12%,-12% Ausdauerverbrauch
+VigorRank5Desc,progression,skills,New,-15% Stamina Loss,スタミナ消費-15%,-15% Ausdauerverbrauch
+VigorRank6Desc,progression,skills,New,-17% Stamina Loss,スタミナ消費-17%,-17% Ausdauerverbrauch
+VigorRank7Desc,progression,skills,New,-19% Stamina Loss,スタミナ消費-19%,-19% Ausdauerverbrauch
+VigorRank8Desc,progression,skills,New,-21% Stamina Loss,スタミナ消費-21%,-21% Ausdauerverbrauch
+VigorRank9Desc,progression,skills,New,-23% Stamina Loss,スタミナ消費-23%,-23% Ausdauerverbrauch
+VigorRank10Desc,progression,skills,New,-25% Stamina Loss,スタミナ消費-25%,-25% Ausdauerverbrauch
+VigorRank1LongDesc,progression,skills,New,Lose 3% less stamina while swinging melee tools and weapons,ツールと武器を使用した際のスタミナ消費を3%軽減させます。,Verbrauche 3% weniger Ausdauer durch die Benutzung von Werkzeugen und Nahkampfwaffen. 
+VigorRank2LongDesc,progression,skills,New,Lose 6% less stamina while swinging melee tools and weapons,ツールと武器を使用した際のスタミナ消費を6%軽減させます。,Verbrauche 6% weniger Ausdauer durch die Benutzung von Werkzeugen und Nahkampfwaffen. 
+VigorRank3LongDesc,progression,skills,New,Lose 9% less stamina while swinging melee tools and weapons,ツールと武器を使用した際のスタミナ消費を9%軽減させます。,Verbrauche 9% weniger Ausdauer durch die Benutzung von Werkzeugen und Nahkampfwaffen. 
+VigorRank4LongDesc,progression,skills,New,Lose 12% less stamina while swinging melee tools and weapons,ツールと武器を使用した際のスタミナ消費を12%軽減させます。,Verbrauche 12% weniger Ausdauer durch die Benutzung von Werkzeugen und Nahkampfwaffen. 
+VigorRank5LongDesc,progression,skills,New,Lose 15% less stamina while swinging melee tools and weapons,ツールと武器を使用した際のスタミナ消費を15%軽減させます。,Verbrauche 15% weniger Ausdauer durch die Benutzung von Werkzeugen und Nahkampfwaffen. 
+VigorRank6LongDesc,progression,skills,New,Lose 17% less stamina while swinging melee tools and weapons,ツールと武器を使用した際のスタミナ消費を17%軽減させます。,Verbrauche 17% weniger Ausdauer durch die Benutzung von Werkzeugen und Nahkampfwaffen. 
+VigorRank7LongDesc,progression,skills,New,Lose 19% less stamina while swinging melee tools and weapons,ツールと武器を使用した際のスタミナ消費を19%軽減させます。,Verbrauche 19% weniger Ausdauer durch die Benutzung von Werkzeugen und Nahkampfwaffen. 
+VigorRank8LongDesc,progression,skills,New,Lose 21% less stamina while swinging melee tools and weapons,ツールと武器を使用した際のスタミナ消費を21%軽減させます。,Verbrauche 21% weniger Ausdauer durch die Benutzung von Werkzeugen und Nahkampfwaffen. 
+VigorRank9LongDesc,progression,skills,New,Lose 23% less stamina while swinging melee tools and weapons,ツールと武器を使用した際のスタミナ消費を23%軽減させます。,Verbrauche 23% weniger Ausdauer durch die Benutzung von Werkzeugen und Nahkampfwaffen. 
+VigorRank10LongDesc,progression,skills,New,Lose 25% less stamina while swinging melee tools and weapons,ツールと武器を使用した際のスタミナ消費を25%軽減させます。,Verbrauche 25% weniger Ausdauer durch die Benutzung von Werkzeugen und Nahkampfwaffen. 
+
+ConstancyName,progression,skills,New,Constancy,持久力,Durchhaltevermögen
+ConstancyDesc,progression,skills,New,All this cardio workout increased your endurance vastly. Regenerate more stamina at all times.,このすべての有酸素運動は、あなたの持久力を大幅に増加させました。スタミナの回復量が上昇します。,All dein Ausdauertraining macht sich bezahlt. Deine Kondition hat sich erheblich erhöht.
+ConstancyRank1Desc,progression,skills,New,+3% Stamina Regeneration,スタミナ回復+3%,+3% Ausdauerregeneration
+ConstancyRank2Desc,progression,skills,New,+6% Stamina Regeneration,スタミナ回復+6%,+6% Ausdauerregeneration
+ConstancyRank3Desc,progression,skills,New,+9% Stamina Regeneration,スタミナ回復+9%,+9% Ausdauerregeneration
+ConstancyRank4Desc,progression,skills,New,+12% Stamina Regeneration,スタミナ回復+12%,+12% Ausdauerregeneration
+ConstancyRank5Desc,progression,skills,New,+15% Stamina Regeneration,スタミナ回復+15%,+15% Ausdauerregeneration
+ConstancyRank6Desc,progression,skills,New,+17% Stamina Regeneration,スタミナ回復+17%,+17% Ausdauerregeneration
+ConstancyRank7Desc,progression,skills,New,+19% Stamina Regeneration,スタミナ回復+19%,+19% Ausdauerregeneration
+ConstancyRank8Desc,progression,skills,New,+21% Stamina Regeneration,スタミナ回復+21%,+21% Ausdauerregeneration
+ConstancyRank9Desc,progression,skills,New,+23% Stamina Regeneration,スタミナ回復+23%,+23% Ausdauerregeneration
+ConstancyRank10Desc,progression,skills,New,+25% Stamina Regeneration,スタミナ回復+25%,+25% Ausdauerregeneration
+ConstancyRank1LongDesc,progression,skills,New,Regenerate 3% more stamina at all times,スタミナ回復量を3%上昇させます。,Regeneriere 3% mehr Ausdauer unter allen Bedingungen.
+ConstancyRank2LongDesc,progression,skills,New,Regenerate 6% more stamina at all times,スタミナ回復量を6%上昇させます。,Regeneriere 6% mehr Ausdauer unter allen Bedingungen.
+ConstancyRank3LongDesc,progression,skills,New,Regenerate 9% more stamina at all times,スタミナ回復量を9%上昇させます。,Regeneriere 9% mehr Ausdauer unter allen Bedingungen.
+ConstancyRank4LongDesc,progression,skills,New,Regenerate 12% more stamina at all times,スタミナ回復量を12%上昇させます。,Regeneriere 12% mehr Ausdauer unter allen Bedingungen.
+ConstancyRank5LongDesc,progression,skills,New,Regenerate 15% more stamina at all times,スタミナ回復量を15%上昇させます。,Regeneriere 15% mehr Ausdauer unter allen Bedingungen.
+ConstancyRank6LongDesc,progression,skills,New,Regenerate 17% more stamina at all times,スタミナ回復量を17%上昇させます。,Regeneriere 17% mehr Ausdauer unter allen Bedingungen.
+ConstancyRank7LongDesc,progression,skills,New,Regenerate 19% more stamina at all times,スタミナ回復量を19%上昇させます。,Regeneriere 19% mehr Ausdauer unter allen Bedingungen.
+ConstancyRank8LongDesc,progression,skills,New,Regenerate 21% more stamina at all times,スタミナ回復量を21%上昇させます。,Regeneriere 21% mehr Ausdauer unter allen Bedingungen.
+ConstancyRank9LongDesc,progression,skills,New,Regenerate 23% more stamina at all times,スタミナ回復量を23%上昇させます。,Regeneriere 23% mehr Ausdauer unter allen Bedingungen.
+ConstancyRank10LongDesc,progression,skills,New,Regenerate 25% more stamina at all times,スタミナ回復量を25%上昇させます。,Regeneriere 25% mehr Ausdauer unter allen Bedingungen.
+
+RecuperateName,progression,skills,New,Recuperate,回復力,Gesundung
+RecuperateDesc,progression,skills,New,You've got a very healthy body and can regenerate even faster than other people.,あなたはとても健康的な体を持ち、他の人よりもさらに早く回復することができます。,"Deine Zellen regenerieren sich unglaublich schnell, wodurch sich Wunden schneller schließen als bei Anderen."
+RecuperateRank1Desc,progression,skills,New,+0.03 Health Regeneration/sec.,ヘルス回復+0.03/秒,+0.03 Lebensregeneration/Sek.
+RecuperateRank2Desc,progression,skills,New,+0.06 Health Regeneration/sec.,ヘルス回復+0.06/秒,+0.06 Lebensregeneration/Sek.
+RecuperateRank3Desc,progression,skills,New,+0.09 Health Regeneration/sec.,ヘルス回復+0.09/秒,+0.09 Lebensregeneration/Sek.
+RecuperateRank4Desc,progression,skills,New,+0.12 Health Regeneration/sec.,ヘルス回復+0.12/秒,+0.12 Lebensregeneration/Sek.
+RecuperateRank5Desc,progression,skills,New,+0.15 Health Regeneration/sec.,ヘルス回復+0.15/秒,+0.15 Lebensregeneration/Sek.
+RecuperateRank6Desc,progression,skills,New,+0.17 Health Regeneration/sec.,ヘルス回復+0.17/秒,+0.17 Lebensregeneration/Sek.
+RecuperateRank7Desc,progression,skills,New,+0.19 Health Regeneration/sec.,ヘルス回復+0.19/秒,+0.19 Lebensregeneration/Sek.
+RecuperateRank8Desc,progression,skills,New,+0.21 Health Regeneration/sec.,ヘルス回復+0.21/秒,+0.21 Lebensregeneration/Sek.
+RecuperateRank9Desc,progression,skills,New,+0.23 Health Regeneration/sec.,ヘルス回復+0.23/秒,+0.23 Lebensregeneration/Sek.
+RecuperateRank10Desc,progression,skills,New,+0.25 Health Regeneration/sec.,ヘルス回復+0.25/秒,+0.25 Lebensregeneration/Sek.
+RecuperateRank1LongDesc,progression,skills,New,Regenerate an additional 0.03 health per second at all times,1秒ごとにヘルスを0.03回復させます。,Regeneriere unter allen Bedingungen zusätzliche 0.03 Lebensenergie pro Sekunde.
+RecuperateRank2LongDesc,progression,skills,New,Regenerate an additional 0.06 health per second at all times,1秒ごとにヘルスを0.06回復させます。,Regeneriere unter allen Bedingungen zusätzliche 0.06 Lebensenergie pro Sekunde.
+RecuperateRank3LongDesc,progression,skills,New,Regenerate an additional 0.09 health per second at all times,1秒ごとにヘルスを0.09回復させます。,Regeneriere unter allen Bedingungen zusätzliche 0.09 Lebensenergie pro Sekunde.
+RecuperateRank4LongDesc,progression,skills,New,Regenerate an additional 0.12 health per second at all times,1秒ごとにヘルスを0.12回復させます。,Regeneriere unter allen Bedingungen zusätzliche 0.12 Lebensenergie pro Sekunde.
+RecuperateRank5LongDesc,progression,skills,New,Regenerate an additional 0.15 health per second at all times,1秒ごとにヘルスを0.15回復させます。,Regeneriere unter allen Bedingungen zusätzliche 0.15 Lebensenergie pro Sekunde.
+RecuperateRank6LongDesc,progression,skills,New,Regenerate an additional 0.17 health per second at all times,1秒ごとにヘルスを0.17回復させます。,Regeneriere unter allen Bedingungen zusätzliche 0.17 Lebensenergie pro Sekunde.
+RecuperateRank7LongDesc,progression,skills,New,Regenerate an additional 0.19 health per second at all times,1秒ごとにヘルスを0.19回復させます。,Regeneriere unter allen Bedingungen zusätzliche 0.19 Lebensenergie pro Sekunde.
+RecuperateRank8LongDesc,progression,skills,New,Regenerate an additional 0.21 health per second at all times,1秒ごとにヘルスを0.21回復させます。,Regeneriere unter allen Bedingungen zusätzliche 0.21 Lebensenergie pro Sekunde.
+RecuperateRank9LongDesc,progression,skills,New,Regenerate an additional 0.23 health per second at all times,1秒ごとにヘルスを0.23回復させます。,Regeneriere unter allen Bedingungen zusätzliche 0.23 Lebensenergie pro Sekunde.
+RecuperateRank10LongDesc,progression,skills,New,Regenerate an additional 0.25 health per second at all times,1秒ごとにヘルスを0.25回復させます。,Regeneriere unter allen Bedingungen zusätzliche 0.25 Lebensenergie pro Sekunde.
+
+SuperiorMetabolismName,progression,skills,New,Superior Metabolism,優れた新陳代謝,Überlegener Stoffwechsel
+SuperiorMetabolismDesc,progression,skills,New,Your organism takes it easy. Lose even less food and water from physical exertion.,あなたの組織はより優れた代謝を獲得します。肉体労働時の飲食物の消耗を抑えます。,"Dein Organismus lässt es ruhiger angehen. Du verbrauchst weniger Nahrungs- und Wasserreserven durch körperliche Anstrengung."
+SuperiorMetabolismRank1Desc,progression,skills,New,-3% Food and Water loss,飲食物消耗-3%,-3% Nahrungs- und Wasserverlust
+SuperiorMetabolismRank2Desc,progression,skills,New,-6% Food and Water loss,飲食物消耗-6%,-6% Nahrungs- und Wasserverlust
+SuperiorMetabolismRank3Desc,progression,skills,New,-9% Food and Water loss,飲食物消耗-9%,-9% Nahrungs- und Wasserverlust
+SuperiorMetabolismRank4Desc,progression,skills,New,-12% Food and Water loss,飲食物消耗-12%,-12% Nahrungs- und Wasserverlust
+SuperiorMetabolismRank5Desc,progression,skills,New,-15% Food and Water loss,飲食物消耗-15%,-15% Nahrungs- und Wasserverlust
+SuperiorMetabolismRank6Desc,progression,skills,New,-17% Food and Water loss,飲食物消耗-17%,-17% Nahrungs- und Wasserverlust
+SuperiorMetabolismRank7Desc,progression,skills,New,-19% Food and Water loss,飲食物消耗-19%,-19% Nahrungs- und Wasserverlust
+SuperiorMetabolismRank8Desc,progression,skills,New,-21% Food and Water loss,飲食物消耗-21%,-21% Nahrungs- und Wasserverlust
+SuperiorMetabolismRank9Desc,progression,skills,New,-23% Food and Water loss,飲食物消耗-23%,-23% Nahrungs- und Wasserverlust
+SuperiorMetabolismRank10Desc,progression,skills,New,-25% Food and Water loss,飲食物消耗-25%,-25% Nahrungs- und Wasserverlust
+SuperiorMetabolismRank1LongDesc,progression,skills,New,Lose 3% less food and water from physical exertion.,食べ物と飲み物の消耗速度を3%軽減させます。,Reduziere deinen Nahrungs- und Wasserverlust durch körperliche Anstrengung um 3%. 
+SuperiorMetabolismRank2LongDesc,progression,skills,New,Lose 6% less food and water from physical exertion.,食べ物と飲み物の消耗速度を6%軽減させます。,Reduziere deinen Nahrungs- und Wasserverlust durch körperliche Anstrengung um 6%. 
+SuperiorMetabolismRank3LongDesc,progression,skills,New,Lose 9% less food and water from physical exertion.,食べ物と飲み物の消耗速度を9%軽減させます。,Reduziere deinen Nahrungs- und Wasserverlust durch körperliche Anstrengung um 9%. 
+SuperiorMetabolismRank4LongDesc,progression,skills,New,Lose 12% less food and water from physical exertion.,食べ物と飲み物の消耗速度を12%軽減させます。,Reduziere deinen Nahrungs- und Wasserverlust durch körperliche Anstrengung um 12%. 
+SuperiorMetabolismRank5LongDesc,progression,skills,New,Lose 15% less food and water from physical exertion.,食べ物と飲み物の消耗速度を15%軽減させます。,Reduziere deinen Nahrungs- und Wasserverlust durch körperliche Anstrengung um 15%. 
+SuperiorMetabolismRank6LongDesc,progression,skills,New,Lose 17% less food and water from physical exertion.,食べ物と飲み物の消耗速度を17%軽減させます。,Reduziere deinen Nahrungs- und Wasserverlust durch körperliche Anstrengung um 17%. 
+SuperiorMetabolismRank7LongDesc,progression,skills,New,Lose 19% less food and water from physical exertion.,食べ物と飲み物の消耗速度を19%軽減させます。,Reduziere deinen Nahrungs- und Wasserverlust durch körperliche Anstrengung um 19%. 
+SuperiorMetabolismRank8LongDesc,progression,skills,New,Lose 21% less food and water from physical exertion.,食べ物と飲み物の消耗速度を21%軽減させます。,Reduziere deinen Nahrungs- und Wasserverlust durch körperliche Anstrengung um 21%. 
+SuperiorMetabolismRank9LongDesc,progression,skills,New,Lose 23% less food and water from physical exertion.,食べ物と飲み物の消耗速度を23%軽減させます。,Reduziere deinen Nahrungs- und Wasserverlust durch körperliche Anstrengung um 23%. 
+SuperiorMetabolismRank10LongDesc,progression,skills,New,Lose 25% less food and water from physical exertion.,食べ物と飲み物の消耗速度を25%軽減させます。,Reduziere deinen Nahrungs- und Wasserverlust durch körperliche Anstrengung um 25%. 
+
+MobilityName,progression,skills,New,Mobility,機動性,Wendigkeit
+MobilityDesc,progression,skills,New,Running hundreds and thousands of miles earned you some well conditioned legs. You're now able too move faster independent of the circumstances.,長い距離を歩き続けることで効率的な歩き方を身に着け、状況に左右されずに速く動けるようになりました。,"Tausende von Kilometern zu rennnen, hat dir ein Paar ziemlich durchtrainierter Beine verschafft. Du kannst dich nun, ungeachtet der Bedingungen, schneller bewegen."
+MobilityRank1Desc,progression,skills,New,+4% Mobility,移動速度+4%,+4% Lauftempo
+MobilityRank2Desc,progression,skills,New,+8% Mobility,移動速度+8%,+8% Lauftempo
+MobilityRank3Desc,progression,skills,New,+12% Mobility,移動速度+12%,+12% Lauftempo
+MobilityRank4Desc,progression,skills,New,+16% Mobility,移動速度+16%,+16% Lauftempo
+MobilityRank5Desc,progression,skills,New,+20% Mobility,移動速度+20%,+20% Lauftempo
+MobilityRank6Desc,progression,skills,New,+22% Mobility,移動速度+22%,+22% Lauftempo
+MobilityRank7Desc,progression,skills,New,+24% Mobility,移動速度+24%,+24% Lauftempo
+MobilityRank8Desc,progression,skills,New,+26% Mobility,移動速度+26%,+26% Lauftempo
+MobilityRank9Desc,progression,skills,New,+28% Mobility,移動速度+28%,+28% Lauftempo
+MobilityRank10Desc,progression,skills,New,+30% Mobility,移動速度+30%,+30% Lauftempo
+MobilityRank1LongDesc,progression,skills,New,Increase your mobility by 4%,あなたの移動速度を4%増加させます。,Erhöhe dein Lauftempo um 4%.
+MobilityRank2LongDesc,progression,skills,New,Increase your mobility by 8%,あなたの移動速度を8%増加させます。,Erhöhe dein Lauftempo um 8%.
+MobilityRank3LongDesc,progression,skills,New,Increase your mobility by 12%,あなたの移動速度を12%増加させます。,Erhöhe dein Lauftempo um 12%.
+MobilityRank4LongDesc,progression,skills,New,Increase your mobility by 16%,あなたの移動速度を16%増加させます。,Erhöhe dein Lauftempo um 16%.
+MobilityRank5LongDesc,progression,skills,New,Increase your mobility by 20%,あなたの移動速度を20%増加させます。,Erhöhe dein Lauftempo um 20%.
+MobilityRank6LongDesc,progression,skills,New,Increase your mobility by 22%,あなたの移動速度を22%増加させます。,Erhöhe dein Lauftempo um 22%.
+MobilityRank7LongDesc,progression,skills,New,Increase your mobility by 24%,あなたの移動速度を24%増加させます。,Erhöhe dein Lauftempo um 24%.
+MobilityRank8LongDesc,progression,skills,New,Increase your mobility by 26%,あなたの移動速度を26%増加させます。,Erhöhe dein Lauftempo um 26%.
+MobilityRank9LongDesc,progression,skills,New,Increase your mobility by 28%,あなたの移動速度を28%増加させます。,Erhöhe dein Lauftempo um 28%.
+MobilityRank10LongDesc,progression,skills,New,Increase your mobility by 30%,あなたの移動速度を30%増加させます。,Erhöhe dein Lauftempo um 30%.
+
+MiningMasteryName,progression,skills,New,Mining Mastery,マイニングマスター,Bergbau-Experte
+MiningMasteryDesc,progression,skills,New,You've acquired the knowledge to better learn how to gather more resources while mining.,資源採掘をしながら、より多くの資源を集めるための知識を身につけました。,"Du hast herausgefunden, wie du mehr Ressourcen beim Abbauen gewinnen kannst."
+MiningMasteryRank1Desc,progression,skills,New,"+6% more stone, ore and lumber",資源回収量+6%,"+6% mehr Steine, Erz und Holz"
+MiningMasteryRank2Desc,progression,skills,New,"+12% more stone, ore and lumber",資源回収量+12%,"+12% mehr Steine, Erz und Holz"
+MiningMasteryRank3Desc,progression,skills,New,"+18% more stone, ore and lumber",資源回収量+18%,"+18% mehr Steine, Erz und Holz"
+MiningMasteryRank4Desc,progression,skills,New,"+24% more stone, ore and lumber",資源回収量+24%,"+24% mehr Steine, Erz und Holz"
+MiningMasteryRank5Desc,progression,skills,New,"+30% more stone, ore and lumber\n+10% Block Damage",資源回収量+30%\nブロックダメージ+10%,"+30% mehr Steine, Erz und Holz\n+10% Blockschaden"
+MiningMasteryRank6Desc,progression,skills,New,"+34% more stone, ore and lumber\n+10% Block Damage",資源回収量+34%\nブロックダメージ+10%,"+34% mehr Steine, Erz und Holz\n+10% Blockschaden"
+MiningMasteryRank7Desc,progression,skills,New,"+38% more stone, ore and lumber\n+10% Block Damage",資源回収量+38%\nブロックダメージ+10%,"+38% mehr Steine, Erz und Holz\n+10% Blockschaden"
+MiningMasteryRank8Desc,progression,skills,New,"+42% more stone, ore and lumber\n+10% Block Damage",資源回収量+42%\nブロックダメージ+10%,"+42% mehr Steine, Erz und Holz\n+10% Blockschaden"
+MiningMasteryRank9Desc,progression,skills,New,"+46% more stone, ore and lumber\n+10% Block Damage",資源回収量+46%\nブロックダメージ+10%,"+46% mehr Steine, Erz und Holz\n+10% Blockschaden"
+MiningMasteryRank10Desc,progression,skills,New,"+50% more stone, ore and lumber\n+20% Block Damage",資源回収量+50%\nブロックダメージ+20%,"+50% mehr Steine, Erz und Holz\n+20% Blockschaden"
+MiningMasteryRank1LongDesc,progression,skills,New,"Gather rate of stone, ores and lumber increased by 6%",石材、鉱石、木材の収集量を6%上昇させます。,"Sammelrate von Steinen, Erzen und Holz um 6% erhöht."
+MiningMasteryRank2LongDesc,progression,skills,New,"Gather rate of stone, ores and lumber increased by 12%",石材、鉱石、木材の収集量を12%上昇させます。,"Sammelrate von Steinen, Erzen und Holz um 12% erhöht."
+MiningMasteryRank3LongDesc,progression,skills,New,"Gather rate of stone, ores and lumber increased by 18%",石材、鉱石、木材の収集量を18%上昇させます。,"Sammelrate von Steinen, Erzen und Holz um 18% erhöht."
+MiningMasteryRank4LongDesc,progression,skills,New,"Gather rate of stone, ores and lumber increased by 24%",石材、鉱石、木材の収集量を24%上昇させます。,"Sammelrate von Steinen, Erzen und Holz um 24% erhöht."
+MiningMasteryRank5LongDesc,progression,skills,New,"Gather rate of stone, ores and lumber increased by 30%\nIncrease any block damage you cause by 10%.",石材、鉱石、木材の収集量を30%上昇させ、ブロックに対するダメージを10%上昇させます。,"Sammelrate von Steinen, Erzen und Holz um 30% erhöht.\n Erhöhe zudem jeglichen Blockschaden um 10%."
+MiningMasteryRank6LongDesc,progression,skills,New,"Gather rate of stone, ores and lumber increased by 34%\nIncrease any block damage you cause by 10%.",石材、鉱石、木材の収集量を34%上昇させ、ブロックに対するダメージを10%上昇させます。,"Sammelrate von Steinen, Erzen und Holz um 34% erhöht.\n Erhöhe zudem jeglichen Blockschaden um 10%."
+MiningMasteryRank7LongDesc,progression,skills,New,"Gather rate of stone, ores and lumber increased by 38%\nIncrease any block damage you cause by 10%.",石材、鉱石、木材の収集量を38%上昇させ、ブロックに対するダメージを10%上昇させます。,"Sammelrate von Steinen, Erzen und Holz um 38% erhöht.\n Erhöhe zudem jeglichen Blockschaden um 10%."
+MiningMasteryRank8LongDesc,progression,skills,New,"Gather rate of stone, ores and lumber increased by 42%\nIncrease any block damage you cause by 10%.",石材、鉱石、木材の収集量を42%上昇させ、ブロックに対するダメージを10%上昇させます。,"Sammelrate von Steinen, Erzen und Holz um 42% erhöht.\n Erhöhe zudem jeglichen Blockschaden um 10%."
+MiningMasteryRank9LongDesc,progression,skills,New,"Gather rate of stone, ores and lumber increased by 46%\nIncrease any block damage you cause by 10%.",石材、鉱石、木材の収集量を46%上昇させ、ブロックに対するダメージを10%上昇させます。,"Sammelrate von Steinen, Erzen und Holz um 46% erhöht.\n Erhöhe zudem jeglichen Blockschaden um 10%."
+MiningMasteryRank10LongDesc,progression,skills,New,"Gather rate of stone, ores and lumber increased by 50%\nIncrease any block damage you cause by 20%.",石材、鉱石、木材の収集量を50%上昇させ、ブロックに対するダメージを20%上昇させます。,"Sammelrate von Steinen, Erzen und Holz um 50% erhöht.\n Erhöhe zudem jeglichen Blockschaden um 20%."
+
+ToolMasteryName,progression,skills,New,Tool Mastery,ツールマスター,Werkzeug-Experte
+ToolMasteryDesc,progression,skills,New,Hitting all kinds of materials day and night made you really buff. You're even stronger now.,昼夜問わずいろんな素材を叩くことでより強く、より早くツールを扱えるようになった。,"Durch das tagtägliche Abbauen diverser Materialien, bist du ziemlich muskulös und stark geworden."
+ToolMasteryRank1Desc,progression,skills,New,+12% Block Damage\n+6% Attack Speed,ツールダメージ+12%\n攻撃速度+6%,+12% Blockschaden\n+6% Angriffstempo
+ToolMasteryRank2Desc,progression,skills,New,+24% Block Damage\n+12% Attack Speed,ツールダメージ+24%\n攻撃速度+12%,+24% Blockschaden\n+12% Angriffstempo
+ToolMasteryRank3Desc,progression,skills,New,+36% Block Damage\n+18% Attack Speed,ツールダメージ+36%\n攻撃速度+18%,+36 Blockschaden\n+18% Angriffstempo
+ToolMasteryRank4Desc,progression,skills,New,+48% Block Damage\n+24% Attack Speed,ツールダメージ+48%\n攻撃速度+24%,+48% Blockschaden\n+24% Angriffstempo
+ToolMasteryRank5Desc,progression,skills,New,+60% Block Damage\n+30% Attack Speed\n-15% Falling Block Damage,ツールダメージ+60%\n攻撃速度+30%崩落ダメージ-15%,+60% Blockschaden\n+30% Angriffstempo\n-15% Schaden durch fallende Blöcke.
+ToolMasteryRank6Desc,progression,skills,New,+68% Block Damage\n+34% Attack Speed\n-15% Falling Block Damage,ツールダメージ+68%\n攻撃速度+34%崩落ダメージ-15%,+68% Blockschaden\n+34% Angriffstempo\n-15% Schaden durch fallende Blöcke.
+ToolMasteryRank7Desc,progression,skills,New,+76% Block Damage\n+38% Attack Speed\n-15% Falling Block Damage,ツールダメージ+76%\n攻撃速度+38%崩落ダメージ-15%,+76% Blockschaden\n+38% Angriffstempo\n-15% Schaden durch fallende Blöcke.
+ToolMasteryRank8Desc,progression,skills,New,+84% Block Damage\n+42% Attack Speed\n-15% Falling Block Damage,ツールダメージ+84%\n攻撃速度+42%崩落ダメージ-15%,+84% Blockschaden\n+42% Angriffstempo\n-15% Schaden durch fallende Blöcke.
+ToolMasteryRank9Desc,progression,skills,New,+92% Block Damage\n+46% Attack Speed\n-15% Falling Block Damage,ツールダメージ+92%\n攻撃速度+46%崩落ダメージ-15%,+92% Blockschaden\n+46% Angriffstempo\n-15% Schaden durch fallende Blöcke.
+ToolMasteryRank10Desc,progression,skills,New,+100% Block Damage\n+50% Attack Speed\n-30% Falling Block Damage,ツールダメージ+100%\n攻撃速度+50%崩落ダメージ-30%,+100% Blockschaden\n+50% Angriffstempo\n-30% Schaden durch fallende Blöcke.
+ToolMasteryRank1LongDesc,progression,skills,New,Increase your block damage by 12% and attack speed with tools by 6%,あなたのツールのダメージを12%攻撃速度を6%上昇させます。,"Erhöhe deinen Blockschaden um 12% und dein Angriffstempo um 6%, solange du Werkzeug benutzt."
+ToolMasteryRank2LongDesc,progression,skills,New,Increase your block damage by 24% and attack speed with tools by 12%,あなたのツールのダメージを24%攻撃速度を12%上昇させます。,"Erhöhe deinen Blockschaden um 24% und dein Angriffstempo um 12%, solange du Werkzeug benutzt."
+ToolMasteryRank3LongDesc,progression,skills,New,Increase your block damage by 36% and attack speed with tools by 18%,あなたのツールのダメージを36%攻撃速度を18%上昇させます。,"Erhöhe deinen Blockschaden um 36% und dein Angriffstempo um 18%, solange du Werkzeug benutzt."
+ToolMasteryRank4LongDesc,progression,skills,New,Increase your block damage by 48% and attack speed with tools by 24%,あなたのツールのダメージを48%攻撃速度を24%上昇させます。,"Erhöhe deinen Blockschaden um 48% und dein Angriffstempo um 24%, solange du Werkzeug benutzt."
+ToolMasteryRank5LongDesc,progression,skills,New,"Increase your block damage by 60% and attack speed with tools by 30%. Decrease the damage you receive through falling blocks by 15%, if you're wearing tools.",あなたのツールのダメージを60%攻撃速度を30%上昇させ、崩落に巻き込まれた際のダメージを-15%します。,"Erhöhe deinen Blockschaden um 60% und dein Angriffstempo um 30%, solange du Werkzeug benutzt. Verringert zudem deinen erlittenen Schaden aus fallenden Blöcken um 15%."
+ToolMasteryRank6LongDesc,progression,skills,New,"Increase your block damage by 68% and attack speed with tools by 34%. Decrease the damage you receive through falling blocks by 15%, if you're wearing tools.",あなたのツールのダメージを68%攻撃速度を34%上昇させ、崩落に巻き込まれた際のダメージを-15%します。,"Erhöhe deinen Blockschaden um 68% und dein Angriffstempo um 34%, solange du Werkzeug benutzt. Verringert zudem deinen erlittenen Schaden aus fallenden Blöcken um 15%."
+ToolMasteryRank7LongDesc,progression,skills,New,"Increase your block damage by 76% and attack speed with tools by 38%. Decrease the damage you receive through falling blocks by 15%, if you're wearing tools.",あなたのツールのダメージを76%攻撃速度を38%上昇させ、崩落に巻き込まれた際のダメージを-15%します。,"Erhöhe deinen Blockschaden um 76% und dein Angriffstempo um 38%, solange du Werkzeug benutzt. Verringert zudem deinen erlittenen Schaden aus fallenden Blöcken um 15%."
+ToolMasteryRank8LongDesc,progression,skills,New,"Increase your block damage by 84% and attack speed with tools by 42%. Decrease the damage you receive through falling blocks by 15%, if you're wearing tools.",あなたのツールのダメージを84%攻撃速度を42%上昇させ、崩落に巻き込まれた際のダメージを-15%します。,"Erhöhe deinen Blockschaden um 84% und dein Angriffstempo um 42%, solange du Werkzeug benutzt. Verringert zudem deinen erlittenen Schaden aus fallenden Blöcken um 15%."
+ToolMasteryRank9LongDesc,progression,skills,New,"Increase your block damage by 92% and attack speed with tools by 46%. Decrease the damage you receive through falling blocks by 15%, if you're wearing tools.",あなたのツールのダメージを92%攻撃速度を46%上昇させ、崩落に巻き込まれた際のダメージを-15%します。,"Erhöhe deinen Blockschaden um 92% und dein Angriffstempo um 46%, solange du Werkzeug benutzt. Verringert zudem deinen erlittenen Schaden aus fallenden Blöcken um 15%."
+ToolMasteryRank10LongDesc,progression,skills,New,"Increase your block damage by 100% and attack speed with tools by 50%. Decrease the damage you receive through falling blocks by 30%, if you're wearing tools.",あなたのツールのダメージを100%攻撃速度を50%上昇させ、崩落に巻き込まれた際のダメージを-30%します。,"Erhöhe deinen Blockschaden um 100% und dein Angriffstempo um 50%, solange du Werkzeug benutzt. Verringert zudem deinen erlittenen Schaden aus fallenden Blöcken um 30%."
+
+ClubMasteryName,progression,skills,New,Club Mastery,棍棒マスター,Keulen-Experte
+ClubMasteryDesc,progression,skills,New,You've mastered the arts of the club.,棍棒の扱いをマスターした。,Du hast dich auf das Kämpfen mit Keulen spezialisiert.
+ClubMasteryRank1Desc,progression,skills,New,"+6% Entity Damage, Attack Speed",ダメージ&攻撃速度+6%,"+6% Schaden, Angriffstempo"
+ClubMasteryRank2Desc,progression,skills,New,"+12% Entity Damage, Attack Speed",ダメージ&攻撃速度+12%,"+12% Schaden, Angriffstempo"
+ClubMasteryRank3Desc,progression,skills,New,"+18% Entity Damage, Attack Speed",ダメージ&攻撃速度+18%,"+18% Schaden, Angriffstempo"
+ClubMasteryRank4Desc,progression,skills,New,"+24% Entity Damage, Attack Speed",ダメージ&攻撃速度+24%,"+24% Schaden, Angriffstempo"
+ClubMasteryRank5Desc,progression,skills,New,"+30% Entity Damage, Attack Speed\n+15% Sprinting Damage",ダメージ&攻撃速度+30%\nダッシュ時ダメージ+15%,"+30% Schaden, Angriffstempo\n+15% Sprintschaden."
+ClubMasteryRank6Desc,progression,skills,New,"+34% Entity Damage, Attack Speed\n+15% Sprinting Damage",ダメージ&攻撃速度+34%\nダッシュ時ダメージ+15%,"+34% Schaden, Angriffstempo\n+15% Sprintschaden."
+ClubMasteryRank7Desc,progression,skills,New,"+38% Entity Damage, Attack Speed\n+15% Sprinting Damage",ダメージ&攻撃速度+38%\nダッシュ時ダメージ+15%,"+38% Schaden, Angriffstempo\n+15% Sprintschaden."
+ClubMasteryRank8Desc,progression,skills,New,"+42% Entity Damage, Attack Speed\n+15% Sprinting Damage",ダメージ&攻撃速度+42%\nダッシュ時ダメージ+15%,"+42% Schaden, Angriffstempo\n+15% Sprintschaden."
+ClubMasteryRank9Desc,progression,skills,New,"+46% Entity Damage, Attack Speed\n+15% Sprinting Damage",ダメージ&攻撃速度+46%\nダッシュ時ダメージ+15%,"+46% Schaden, Angriffstempo\n+15% Sprintschaden."
+ClubMasteryRank10Desc,progression,skills,New,"+50% Entity Damage, Attack Speed\n+30% Sprinting Damage",ダメージ&攻撃速度+50%\nダッシュ時ダメージ+30%,"+50% Schaden, Angriffstempo\n+30% Sprintschaden."
+ClubMasteryRank1LongDesc,progression,skills,New,"Increase your entity damage and attack speed with clubs by 6%",攻撃力と攻撃速度を6%上昇させます。,"Erhöhe deinen Schaden und dein Angriffstempo mit Keulen um 6%."
+ClubMasteryRank2LongDesc,progression,skills,New,"Increase your entity damage and attack speed with clubs by 12%",攻撃力と攻撃速度を12%上昇させます。,"Erhöhe deinen Schaden und dein Angriffstempo mit Keulen um 12%."
+ClubMasteryRank3LongDesc,progression,skills,New,"Increase your entity damage and attack speed with clubs by 18%",攻撃力と攻撃速度を18%上昇させます。,"Erhöhe deinen Schaden und dein Angriffstempo mit Keulen um 18%."
+ClubMasteryRank4LongDesc,progression,skills,New,"Increase your entity damage and attack speed with clubs by 24%",攻撃力と攻撃速度を24%上昇させます。,"Erhöhe deinen Schaden und dein Angriffstempo mit Keulen um 24%."
+ClubMasteryRank5LongDesc,progression,skills,New,"Increase your entity damage and attack speed with clubs by 30%. Damage is increased by an additional 15% if you hit a target while sprinting.",攻撃力と攻撃速度を30%上昇させ、ダッシュ攻撃時のダメージを+15%します。,"Erhöhe deinen Schaden und dein Angriffstempo mit Keulen um 30%. Der Schaden erhöht sich um weitere 15%, wenn du ein Ziel triffst, während du sprintest."
+ClubMasteryRank6LongDesc,progression,skills,New,"Increase your entity damage and attack speed with clubs by 34%. Damage is increased by an additional 15% if you hit a target while sprinting.",攻撃力と攻撃速度を34%上昇させ、ダッシュ攻撃時のダメージを+15%します。,"Erhöhe deinen Schaden und dein Angriffstempo mit Keulen um 34%. Der Schaden erhöht sich um weitere 15%, wenn du ein Ziel triffst, während du sprintest."
+ClubMasteryRank7LongDesc,progression,skills,New,"Increase your entity damage and attack speed with clubs by 38%. Damage is increased by an additional 15% if you hit a target while sprinting.",攻撃力と攻撃速度を38%上昇させ、ダッシュ攻撃時のダメージを+15%します。,"Erhöhe deinen Schaden und dein Angriffstempo mit Keulen um 38%. Der Schaden erhöht sich um weitere 15%, wenn du ein Ziel triffst, während du sprintest."
+ClubMasteryRank8LongDesc,progression,skills,New,"Increase your entity damage and attack speed with clubs by 42%. Damage is increased by an additional 15% if you hit a target while sprinting.",攻撃力と攻撃速度を42%上昇させ、ダッシュ攻撃時のダメージを+15%します。,"Erhöhe deinen Schaden und dein Angriffstempo mit Keulen um 42%. Der Schaden erhöht sich um weitere 15%, wenn du ein Ziel triffst, während du sprintest."
+ClubMasteryRank9LongDesc,progression,skills,New,"Increase your entity damage and attack speed with clubs by 46%. Damage is increased by an additional 15% if you hit a target while sprinting.",攻撃力と攻撃速度を46%上昇させ、ダッシュ攻撃時のダメージを+15%します。,"Erhöhe deinen Schaden und dein Angriffstempo mit Keulen um 46%. Der Schaden erhöht sich um weitere 15%, wenn du ein Ziel triffst, während du sprintest."
+ClubMasteryRank10LongDesc,progression,skills,New,"Increase your entity damage and attack speed with clubs by 50%. Damage is increased by an additional 30% if you hit a target while sprinting.",攻撃力と攻撃速度を50%上昇させ、ダッシュ攻撃時のダメージを+30%します。,"Erhöhe deinen Schaden und dein Angriffstempo mit Keulen um 50%. Der Schaden erhöht sich um weitere 30%, wenn du ein Ziel triffst, während du sprintest."
+
+SledgeMasteryName,progression,skills,New,Sledge Mastery,スレッジハンマーマスター,Hammer-Experte
+SledgeMasteryDesc,progression,skills,New,You've mastered the arts of the sledgehammer.,スレッジハンマーの扱いをマスターした。,Du hast dich auf das Kämpfen mit Vorschlaghämmern spezialisiert.
+SledgeMasteryRank1Desc,progression,skills,New,"+6% Entity Damage, Attack Speed\n+24% Block Damage",対ブロックダメージ+24%\n対エンテティダメージ&攻撃速度+6%,"+6% Schaden, Angriffstempo\n+24% Blockschaden"
+SledgeMasteryRank2Desc,progression,skills,New,"+12% Entity Damage, Attack Speed\n+48% Block Damage",対ブロックダメージ+48%\n対エンテティダメージ&攻撃速度+12%,"+12% Schaden, Angriffstempo\n+48% Blockschaden"
+SledgeMasteryRank3Desc,progression,skills,New,"+18% Entity Damage, Attack Speed\n+72% Block Damage",対ブロックダメージ+72%\n対エンテティダメージ&攻撃速度+18%,"+18% Schaden, Angriffstempo\n+72% Blockschaden"
+SledgeMasteryRank4Desc,progression,skills,New,"+24% Entity Damage, Attack Speed\n+96% Block Damage",対ブロックダメージ+96%\n対エンテティダメージ&攻撃速度+24%,"+24% Schaden, Angriffstempo\n+96% Blockschaden"
+SledgeMasteryRank5Desc,progression,skills,New,"+30% Entity Damage, Attack Speed\n+120% Block Damage",対ブロックダメージ+120%\n対エンテティダメージ&攻撃速度+30%,"+30% Schaden, Angriffstempo\n+120% Blockschaden"
+SledgeMasteryRank6Desc,progression,skills,New,"+34% Entity Damage, Attack Speed\n+136% Block Damage",対ブロックダメージ+136%\n対エンテティダメージ&攻撃速度+34%,"+34% Schaden, Angriffstempo\n+136% Blockschaden"
+SledgeMasteryRank7Desc,progression,skills,New,"+38% Entity Damage, Attack Speed\n+152% Block Damage",対ブロックダメージ+152%\n対エンテティダメージ&攻撃速度+38%,"+38% Schaden, Angriffstempo\n+152% Blockschaden"
+SledgeMasteryRank8Desc,progression,skills,New,"+42% Entity Damage, Attack Speed\n+168% Block Damage",対ブロックダメージ+168%\n対エンテティダメージ&攻撃速度+42%,"+42% Schaden, Angriffstempo\n+168% Blockschaden"
+SledgeMasteryRank9Desc,progression,skills,New,"+46% Entity Damage, Attack Speed\n+184% Block Damage",対ブロックダメージ+184%\n対エンテティダメージ&攻撃速度+46%,"+46% Schaden, Angriffstempo\n+184% Blockschaden"
+SledgeMasteryRank10Desc,progression,skills,New,"+50% Entity Damage, Attack Speed\n+200% Block Damage",対ブロックダメージ+200%\n対エンテティダメージ&攻撃速度+50%,"+50% Schaden, Angriffstempo\n+200% Blockschaden"
+SledgeMasteryRank1LongDesc,progression,skills,New,Increase your entity damage and attack speed with sledgehammers by 6% and block damage by 24%.,スレッジハンマーの対ブロックダメージを24%、対エンテティダメージ&攻撃速度を6%上昇させます。,"Erhöhe deinen Schaden und dein Angriffstempo mit Vorschlaghämmern um 6%, sowie den Blockschaden um 24%."
+SledgeMasteryRank2LongDesc,progression,skills,New,Increase your entity damage and attack speed with sledgehammers by 12% and block damage by 48%.,スレッジハンマーの対ブロックダメージを48%、対エンテティダメージ&攻撃速度を12%上昇させます。,"Erhöhe deinen Schaden und dein Angriffstempo mit Vorschlaghämmern um 12%, sowie den Blockschaden um 48%."
+SledgeMasteryRank3LongDesc,progression,skills,New,Increase your entity damage and attack speed with sledgehammers by 18% and block damage by 72%.,スレッジハンマーの対ブロックダメージを72%、対エンテティダメージ&攻撃速度を18%上昇させます。,"Erhöhe deinen Schaden und dein Angriffstempo mit Vorschlaghämmern um 18%, sowie den Blockschaden um 72%."
+SledgeMasteryRank4LongDesc,progression,skills,New,Increase your entity damage and attack speed with sledgehammers by 24% and block damage by 96%.,スレッジハンマーの対ブロックダメージを96%、対エンテティダメージ&攻撃速度を24%上昇させます。,"Erhöhe deinen Schaden und dein Angriffstempo mit Vorschlaghämmern um 24%, sowie den Blockschaden um 96%."
+SledgeMasteryRank5LongDesc,progression,skills,New,Increase your entity damage and attack speed with sledgehammers by 30% and block damage by 120%.,スレッジハンマーの対ブロックダメージを120%、対エンテティダメージ&攻撃速度を30%上昇させます。,"Erhöhe deinen Schaden und dein Angriffstempo mit Vorschlaghämmern um 30%, sowie den Blockschaden um 120%."
+SledgeMasteryRank6LongDesc,progression,skills,New,Increase your entity damage and attack speed with sledgehammers by 34% and block damage by 136%.,スレッジハンマーの対ブロックダメージを136%、対エンテティダメージ&攻撃速度を34%上昇させます。,"Erhöhe deinen Schaden und dein Angriffstempo mit Vorschlaghämmern um 34%, sowie den Blockschaden um 136%."
+SledgeMasteryRank7LongDesc,progression,skills,New,Increase your entity damage and attack speed with sledgehammers by 38% and block damage by 152%.,スレッジハンマーの対ブロックダメージを152%、対エンテティダメージ&攻撃速度を38%上昇させます。,"Erhöhe deinen Schaden und dein Angriffstempo mit Vorschlaghämmern um 38%, sowie den Blockschaden um 152%."
+SledgeMasteryRank8LongDesc,progression,skills,New,Increase your entity damage and attack speed with sledgehammers by 42% and block damage by 168%.,スレッジハンマーの対ブロックダメージを168%、対エンテティダメージ&攻撃速度を42%上昇させます。,"Erhöhe deinen Schaden und dein Angriffstempo mit Vorschlaghämmern um 42%, sowie den Blockschaden um 168%."
+SledgeMasteryRank9LongDesc,progression,skills,New,Increase your entity damage and attack speed with sledgehammers by 46% and block damage by 186%.,スレッジハンマーの対ブロックダメージを184%、対エンテティダメージ&攻撃速度を46%上昇させます。,"Erhöhe deinen Schaden und dein Angriffstempo mit Vorschlaghämmern um 46%, sowie den Blockschaden um 184%."
+SledgeMasteryRank10LongDesc,progression,skills,New,Increase your entity damage and attack speed with sledgehammers by 50% and block damage by 200%.,スレッジハンマーの対ブロックダメージを200%、対エンテティダメージ&攻撃速度を50%上昇させます。,"Erhöhe deinen Schaden und dein Angriffstempo mit Vorschlaghämmern um 50%, sowie den Blockschaden um 200%."
+
+BrawlingMasteryName,progression,skills,New,Brawling Mastery,喧嘩番長,Schlägerei-Experte
+BrawlingMasteryDesc,progression,skills,New,You've mastered the arts of brawling.,喧嘩の技術を習得し、拳系の攻撃力と速度が上昇した。,Du hast dich auf den Faustkampf spezialisiert.
+BrawlingMasteryRank1Desc,progression,skills,New,"+6% Entity Damage, Attack Speed",ダメージ&攻撃速度+6%,"+6% Schaden, Angriffstempo"
+BrawlingMasteryRank2Desc,progression,skills,New,"+12% Entity Damage, Attack Speed",ダメージ&攻撃速度+12%,"+12% Schaden, Angriffstempo"
+BrawlingMasteryRank3Desc,progression,skills,New,"+18% Entity Damage, Attack Speed",ダメージ&攻撃速度+18%,"+18% Schaden, Angriffstempo"
+BrawlingMasteryRank4Desc,progression,skills,New,"+24% Entity Damage, Attack Speed",ダメージ&攻撃速度+24%,"+24% Schaden, Angriffstempo"
+BrawlingMasteryRank5Desc,progression,skills,New,"+30% Entity Damage, Attack Speed\n10% faster movement",ダメージ&攻撃速度+30%\n拳系使用時移動速度+10%,"+30% Schaden, Angriffstempo\n+10% Lauftempo."
+BrawlingMasteryRank6Desc,progression,skills,New,"+34% Entity Damage, Attack Speed\n10% faster movement",ダメージ&攻撃速度+34%\n拳系使用時移動速度+10%,"+34% Schaden, Angriffstempo\n+10% Lauftempo."
+BrawlingMasteryRank7Desc,progression,skills,New,"+38% Entity Damage, Attack Speed\n10% faster movement",ダメージ&攻撃速度+38%\n拳系使用時移動速度+10%,"+38% Schaden, Angriffstempo\n+10% Lauftempo."
+BrawlingMasteryRank8Desc,progression,skills,New,"+42% Entity Damage, Attack Speed\n10% faster movement",ダメージ&攻撃速度+42%\n拳系使用時移動速度+10%,"+42% Schaden, Angriffstempo\n+10% Lauftempo."
+BrawlingMasteryRank9Desc,progression,skills,New,"+46% Entity Damage, Attack Speed\n10% faster movement",ダメージ&攻撃速度+46%\n拳系使用時移動速度+10%,"+46% Schaden, Angriffstempo\n+10% Lauftempo."
+BrawlingMasteryRank10Desc,progression,skills,New,"+50% Entity Damage, Attack Speed\n20% faster movement",ダメージ&攻撃速度+50%\n拳系使用時移動速度+20%,"+50% Schaden, Angriffstempo\n+20% Lauftempo."
+BrawlingMasteryRank1LongDesc,progression,skills,New,"Increase your entity damage and attack speed with your fists and knuckles by 6%",攻撃力と攻撃速度を6%上昇させます。,"Erhöhe deinen Schaden und dein Angriffstempo im Faustkampf um 6%."
+BrawlingMasteryRank2LongDesc,progression,skills,New,"Increase your entity damage and attack speed with your fists and knuckles by 12%",攻撃力と攻撃速度を12%上昇させます。,"Erhöhe deinen Schaden und dein Angriffstempo im Faustkampf um 12%."
+BrawlingMasteryRank3LongDesc,progression,skills,New,"Increase your entity damage and attack speed with your fists and knuckles by 18%",攻撃力と攻撃速度を18%上昇させます。,"Erhöhe deinen Schaden und dein Angriffstempo im Faustkampf um 18%."
+BrawlingMasteryRank4LongDesc,progression,skills,New,"Increase your entity damage and attack speed with your fists and knuckles by 24%",攻撃力と攻撃速度を24%上昇させます。,"Erhöhe deinen Schaden und dein Angriffstempo im Faustkampf um 24%."
+BrawlingMasteryRank5LongDesc,progression,skills,New,"Increase your entity damage and attack speed with your fists and knuckles by 30%. Also you are able to move 10% faster while using your fists or knuckles.",攻撃力と攻撃速度を30%上昇させ、拳系武器使用時の移動速度を+10%します。,"Erhöhe deinen Schaden und dein Angriffstempo im Faustkampf um 30%. Außerdem erhöht sich dein Lauftempo um 10%."
+BrawlingMasteryRank6LongDesc,progression,skills,New,"Increase your entity damage and attack speed with your fists and knuckles by 34%. Also you are able to move 10% faster while using your fists or knuckles.",攻撃力と攻撃速度を34%上昇させ、拳系武器使用時の移動速度を+10%します。,"Erhöhe deinen Schaden und dein Angriffstempo im Faustkampf um 34%. Außerdem erhöht sich dein Lauftempo um 10%."
+BrawlingMasteryRank7LongDesc,progression,skills,New,"Increase your entity damage and attack speed with your fists and knuckles by 38%. Also you are able to move 10% faster while using your fists or knuckles.",攻撃力と攻撃速度を38%上昇させ、拳系武器使用時の移動速度を+10%します。,"Erhöhe deinen Schaden und dein Angriffstempo im Faustkampf um 38%. Außerdem erhöht sich dein Lauftempo um 10%."
+BrawlingMasteryRank8LongDesc,progression,skills,New,"Increase your entity damage and attack speed with your fists and knuckles by 42%. Also you are able to move 10% faster while using your fists or knuckles.",攻撃力と攻撃速度を42%上昇させ、拳系武器使用時の移動速度を+10%します。,"Erhöhe deinen Schaden und dein Angriffstempo im Faustkampf um 42%. Außerdem erhöht sich dein Lauftempo um 10%."
+BrawlingMasteryRank9LongDesc,progression,skills,New,"Increase your entity damage and attack speed with your fists and knuckles by 46%. Also you are able to move 10% faster while using your fists or knuckles.",攻撃力と攻撃速度を46%上昇させ、拳系武器使用時の移動速度を+10%します。,"Erhöhe deinen Schaden und dein Angriffstempo im Faustkampf um 46%. Außerdem erhöht sich dein Lauftempo um 10%."
+BrawlingMasteryRank10LongDesc,progression,skills,New,"Increase your entity damage and attack speed with your fists and knuckles by 50%. Also you are able to move 20% faster while using your fists or knuckles.",攻撃力と攻撃速度を50%上昇させ、拳系武器使用時の移動速度を+20%します。,"Erhöhe deinen Schaden und dein Angriffstempo im Faustkampf um 50%. Außerdem erhöht sich dein Lauftempo um 20%."
+
+BladeMasteryName,progression,skills,New,Blade Mastery,ナイフマスター,Klingen-Experte
+BladeMasteryDesc,progression,skills,New,You've mastered the arts of the blade.,刃物の取り扱いを習熟し、攻撃力と速度が上昇した。,Du hast dich auf das Kämpfen mit Klingenwaffen spezialisiert.
+BladeMasteryRank1Desc,progression,skills,New,"+6% Entity Damage, Attack Speed",ダメージ&攻撃速度+6%,"+6% Schaden, Angriffstempo"
+BladeMasteryRank2Desc,progression,skills,New,"+12% Entity Damage, Attack Speed",ダメージ&攻撃速度+12%,"+12% Schaden, Angriffstempo"
+BladeMasteryRank3Desc,progression,skills,New,"+18% Entity Damage, Attack Speed",ダメージ&攻撃速度+18%,"+18% Schaden, Angriffstempo"
+BladeMasteryRank4Desc,progression,skills,New,"+24% Entity Damage, Attack Speed",ダメージ&攻撃速度+24%,"+24% Schaden, Angriffstempo"
+BladeMasteryRank5Desc,progression,skills,New,"+30% Entity Damage, Attack Speed\n+4 max bleeding stacks",ダメージ&攻撃速度+30%\n出血スタック+4,"+30% Schaden, Angriffstempo\n+4 max. Kumulationen von Blutung"
+BladeMasteryRank6Desc,progression,skills,New,"+34% Entity Damage, Attack Speed\n+4 max bleeding stacks",ダメージ&攻撃速度+34%\n出血スタック+4,"+34% Schaden, Angriffstempo\n+4 max. Kumulationen von Blutung"
+BladeMasteryRank7Desc,progression,skills,New,"+38% Entity Damage, Attack Speed\n+4 max bleeding stacks",ダメージ&攻撃速度+38%\n出血スタック+4,"+38% Schaden, Angriffstempo\n+4 max. Kumulationen von Blutung"
+BladeMasteryRank8Desc,progression,skills,New,"+42% Entity Damage, Attack Speed\n+4 max bleeding stacks",ダメージ&攻撃速度+42%\n出血スタック+4,"+42% Schaden, Angriffstempo\n+4 max. Kumulationen von Blutung"
+BladeMasteryRank9Desc,progression,skills,New,"+46% Entity Damage, Attack Speed\n+4 max bleeding stacks",ダメージ&攻撃速度+46%\n出血スタック+4,"+46% Schaden, Angriffstempo\n+4 max. Kumulationen von Blutung"
+BladeMasteryRank10Desc,progression,skills,New,"+50% Entity Damage, Attack Speed\n+8 max bleeding stacks",ダメージ&攻撃速度+50%\n出血スタック+8,"+50% Schaden, Angriffstempo\n+8 max. Kumulationen von Blutung"
+BladeMasteryRank1LongDesc,progression,skills,New,"Increase your entity damage and attack speed with bladed weapons by 6%",攻撃力と攻撃速度を6%上昇させます。,"Erhöhe deinen Schaden und dein Angriffstempo mit Klingenwaffen um 6%."
+BladeMasteryRank2LongDesc,progression,skills,New,"Increase your entity damage and attack speed with bladed weapons by 12%",攻撃力と攻撃速度を12%上昇させます。,"Erhöhe deinen Schaden und dein Angriffstempo mit Klingenwaffen um 12%."
+BladeMasteryRank3LongDesc,progression,skills,New,"Increase your entity damage and attack speed with bladed weapons by 18%",攻撃力と攻撃速度を18%上昇させます。,"Erhöhe deinen Schaden und dein Angriffstempo mit Klingenwaffen um 18%."
+BladeMasteryRank4LongDesc,progression,skills,New,"Increase your entity damage and attack speed with bladed weapons by 24%",攻撃力と攻撃速度を24%上昇させます。,"Erhöhe deinen Schaden und dein Angriffstempo mit Klingenwaffen um 24%."
+BladeMasteryRank5LongDesc,progression,skills,New,"Increase your entity damage and attack speed with bladed weapons by 30%. Also increase the maximum stacks of bleed you can apply by 4.",攻撃力と攻撃速度を30%上昇させ、出血デバフのスタック量を+4します。,"Erhöhe deinen Schaden und dein Angriffstempo mit Klingenwaffen um 30%. Kumuliere bis zu 4 weitere Stapel von Blutung je Ziel."
+BladeMasteryRank6LongDesc,progression,skills,New,"Increase your entity damage and attack speed with bladed weapons by 34%. Also increase the maximum stacks of bleed you can apply by 4.",攻撃力と攻撃速度を34%上昇させ、出血デバフのスタック量を+4します。,"Erhöhe deinen Schaden und dein Angriffstempo mit Klingenwaffen um 34%. Kumuliere bis zu 4 weitere Stapel von Blutung je Ziel."
+BladeMasteryRank7LongDesc,progression,skills,New,"Increase your entity damage and attack speed with bladed weapons by 38%. Also increase the maximum stacks of bleed you can apply by 4.",攻撃力と攻撃速度を38%上昇させ、出血デバフのスタック量を+4します。,"Erhöhe deinen Schaden und dein Angriffstempo mit Klingenwaffen um 38%. Kumuliere bis zu 4 weitere Stapel von Blutung je Ziel."
+BladeMasteryRank8LongDesc,progression,skills,New,"Increase your entity damage and attack speed with bladed weapons by 42%. Also increase the maximum stacks of bleed you can apply by 4.",攻撃力と攻撃速度を42%上昇させ、出血デバフのスタック量を+4します。,"Erhöhe deinen Schaden und dein Angriffstempo mit Klingenwaffen um 42%. Kumuliere bis zu 4 weitere Stapel von Blutung je Ziel."
+BladeMasteryRank9LongDesc,progression,skills,New,"Increase your entity damage and attack speed with bladed weapons by 46%. Also increase the maximum stacks of bleed you can apply by 4.",攻撃力と攻撃速度を46%上昇させ、出血デバフのスタック量を+4します。,"Erhöhe deinen Schaden und dein Angriffstempo mit Klingenwaffen um 46%. Kumuliere bis zu 4 weitere Stapel von Blutung je Ziel."
+BladeMasteryRank10LongDesc,progression,skills,New,"Increase your entity damage and attack speed with bladed weapons by 50%. Also increase the maximum stacks of bleed you can apply by 8.",攻撃力と攻撃速度を50%上昇させ、出血デバフのスタック量を+8します。,"Erhöhe deinen Schaden und dein Angriffstempo mit Klingenwaffen um 50%. Kumuliere bis zu 8 weitere Stapel von Blutung je Ziel."
+
+BatonMasteryName,progression,skills,New,Baton Mastery,スタンバトンマスター,Schlagstock-Experte
+BatonMasteryDesc,progression,skills,New,You've mastered the arts of the baton.,スタンバトンの扱いをマスターした。,Du hast dich auf das Kämpfen mit Schlagstöcken spezialisiert.
+BatonMasteryRank1Desc,progression,skills,New,"+6% Entity Damage, Attack Speed",ダメージ&攻撃速度+6%,"+6% Schaden, Angriffstempo"
+BatonMasteryRank2Desc,progression,skills,New,"+12% Entity Damage, Attack Speed",ダメージ&攻撃速度+12%,"+12% Schaden, Angriffstempo"
+BatonMasteryRank3Desc,progression,skills,New,"+18% Entity Damage, Attack Speed",ダメージ&攻撃速度+18%,"+18% Schaden, Angriffstempo"
+BatonMasteryRank4Desc,progression,skills,New,"+24% Entity Damage, Attack Speed",ダメージ&攻撃速度+24%,"+24% Schaden, Angriffstempo"
+BatonMasteryRank5Desc,progression,skills,New,"+30% Entity Damage, Attack Speed\n15% Chance of knock down",ダメージ&攻撃速度+30%\nノックダウン率+15%,"+30% Schaden, Angriffstempo\n+15% Chance auf Niederwerfen"
+BatonMasteryRank6Desc,progression,skills,New,"+34% Entity Damage, Attack Speed\n15% Chance of knock down",ダメージ&攻撃速度+34%\nノックダウン率+15%,"+34% Schaden, Angriffstempo\n+15% Chance auf Niederwerfen"
+BatonMasteryRank7Desc,progression,skills,New,"+38% Entity Damage, Attack Speed\n15% Chance of knock down",ダメージ&攻撃速度+38%\nノックダウン率+15%,"+38% Schaden, Angriffstempo\n+15% Chance auf Niederwerfen"
+BatonMasteryRank8Desc,progression,skills,New,"+42% Entity Damage, Attack Speed\n15% Chance of knock down",ダメージ&攻撃速度+42%\nノックダウン率+15%,"+42% Schaden, Angriffstempo\n+15% Chance auf Niederwerfen"
+BatonMasteryRank9Desc,progression,skills,New,"+46% Entity Damage, Attack Speed\n15% Chance of knock down",ダメージ&攻撃速度+46%\nノックダウン率+15%,"+46% Schaden, Angriffstempo\n+15% Chance auf Niederwerfen"
+BatonMasteryRank10Desc,progression,skills,New,"+50% Entity Damage, Attack Speed\n30% Chance of knock down",ダメージ&攻撃速度+50%\nノックダウン率+30%,"+50% Schaden, Angriffstempo\n+30% Chance auf Niederwerfen"
+BatonMasteryRank1LongDesc,progression,skills,New,"Increase your entity damage and attack speed with stun batons by 6%",攻撃力と攻撃速度を6%上昇させます。,"Erhöhe deinen Schaden und dein Angriffstempo mit Schlagstöcken um 6%."
+BatonMasteryRank2LongDesc,progression,skills,New,"Increase your entity damage and attack speed with stun batons by 12%",攻撃力と攻撃速度を12%上昇させます。,"Erhöhe deinen Schaden und dein Angriffstempo mit Schlagstöcken um 12%."
+BatonMasteryRank3LongDesc,progression,skills,New,"Increase your entity damage and attack speed with stun batons by 18%",攻撃力と攻撃速度を18%上昇させます。,"Erhöhe deinen Schaden und dein Angriffstempo mit Schlagstöcken um 18%."
+BatonMasteryRank4LongDesc,progression,skills,New,"Increase your entity damage and attack speed with stun batons by 24%",攻撃力と攻撃速度を24%上昇させます。,"Erhöhe deinen Schaden und dein Angriffstempo mit Schlagstöcken um 24%."
+BatonMasteryRank5LongDesc,progression,skills,New,"Increase your entity damage and attack speed with stun batons by 30%. Also gives you an additional chance of 15% to knock down enemies.",攻撃力と攻撃速度を30%上昇させ、攻撃時のノックダウン率を+15%します。,"Erhöhe deinen Schaden und dein Angriffstempo mit Schlagstöcken um 30%. Zudem besitzt du eine Chance von 15%, Feinde zu Boden zu werfen."
+BatonMasteryRank6LongDesc,progression,skills,New,"Increase your entity damage and attack speed with stun batons by 34%. Also gives you an additional chance of 15% to knock down enemies.",攻撃力と攻撃速度を34%上昇させ、攻撃時のノックダウン率を+15%します。,"Erhöhe deinen Schaden und dein Angriffstempo mit Schlagstöcken um 34%. Zudem besitzt du eine Chance von 15%, Feinde zu Boden zu werfen."
+BatonMasteryRank7LongDesc,progression,skills,New,"Increase your entity damage and attack speed with stun batons by 38%. Also gives you an additional chance of 15% to knock down enemies.",攻撃力と攻撃速度を38%上昇させ、攻撃時のノックダウン率を+15%します。,"Erhöhe deinen Schaden und dein Angriffstempo mit Schlagstöcken um 38%. Zudem besitzt du eine Chance von 15%, Feinde zu Boden zu werfen."
+BatonMasteryRank8LongDesc,progression,skills,New,"Increase your entity damage and attack speed with stun batons by 42%. Also gives you an additional chance of 15% to knock down enemies.",攻撃力と攻撃速度を42%上昇させ、攻撃時のノックダウン率を+15%します。,"Erhöhe deinen Schaden und dein Angriffstempo mit Schlagstöcken um 42%. Zudem besitzt du eine Chance von 15%, Feinde zu Boden zu werfen."
+BatonMasteryRank9LongDesc,progression,skills,New,"Increase your entity damage and attack speed with stun batons by 46%. Also gives you an additional chance of 15% to knock down enemies.",攻撃力と攻撃速度を46%上昇させ、攻撃時のノックダウン率を+15%します。,"Erhöhe deinen Schaden und dein Angriffstempo mit Schlagstöcken um 46%. Zudem besitzt du eine Chance von 15%, Feinde zu Boden zu werfen."
+BatonMasteryRank10LongDesc,progression,skills,New,"Increase your entity damage and attack speed with stun batons by 50%. Also gives you an additional chance of 30% to knock down enemies.",攻撃力と攻撃速度を50%上昇させ、攻撃時のノックダウン率を+30%します。,"Erhöhe deinen Schaden und dein Angriffstempo mit Schlagstöcken um 50%. Zudem besitzt du eine Chance von 30%, Feinde zu Boden zu werfen."
+
+SpearMasteryName,progression,skills,New,Spear Mastery,スピアマスター,Speer-Experte
+SpearMasteryDesc,progression,skills,New,You've mastered the arts of the spear.,槍の扱いをマスターした。,Du hast dich auf das Kämpfen mit Speeren spezialisiert.
+SpearMasteryRank1Desc,progression,skills,New,"+6% Entity Damage, Range, Attack Speed",ダメージ&攻撃速度&攻撃距離+6%,"+6% Schaden, Angriffstempo, Reichweite"
+SpearMasteryRank2Desc,progression,skills,New,"+12% Entity Damage, Range, Attack Speed",ダメージ&攻撃速度&攻撃距離+12%,"+12% Schaden, Angriffstempo, Reichweite"
+SpearMasteryRank3Desc,progression,skills,New,"+18% Entity Damage, Range, Attack Speed",ダメージ&攻撃速度&攻撃距離+18%,"+18% Schaden, Angriffstempo, Reichweite"
+SpearMasteryRank4Desc,progression,skills,New,"+24% Entity Damage, Range, Attack Speed",ダメージ&攻撃速度&攻撃距離+24%,"+24% Schaden, Angriffstempo, Reichweite"
+SpearMasteryRank5Desc,progression,skills,New,"+30% Entity Damage, Range, Attack Speed,\n+25% additional thrown damage",ダメージ&攻撃速度&攻撃距離+30%\n投擲ダメージ+25%,"+30% Schaden, Angriffstempo, Reichweite\n+25% zusätzlicher Wurfschaden"
+SpearMasteryRank6Desc,progression,skills,New,"+34% Entity Damage, Range, Attack Speed,\n+25% additional thrown damage",ダメージ&攻撃速度&攻撃距離+34%\n投擲ダメージ+25%,"+34% Schaden, Angriffstempo, Reichweite\n+25% zusätzlicher Wurfschaden"
+SpearMasteryRank7Desc,progression,skills,New,"+38% Entity Damage, Range, Attack Speed,\n+25% additional thrown damage",ダメージ&攻撃速度&攻撃距離+38%\n投擲ダメージ+25%,"+38% Schaden, Angriffstempo, Reichweite\n+25% zusätzlicher Wurfschaden"
+SpearMasteryRank8Desc,progression,skills,New,"+42% Entity Damage, Range, Attack Speed,\n+25% additional thrown damage",ダメージ&攻撃速度&攻撃距離+42%\n投擲ダメージ+25%,"+42% Schaden, Angriffstempo, Reichweite\n+25% zusätzlicher Wurfschaden"
+SpearMasteryRank9Desc,progression,skills,New,"+46% Entity Damage, Range, Attack Speed,\n+25% additional thrown damage",ダメージ&攻撃速度&攻撃距離+46%\n投擲ダメージ+25%,"+46% Schaden, Angriffstempo, Reichweite\n+25% zusätzlicher Wurfschaden"
+SpearMasteryRank10Desc,progression,skills,New,"+50% Entity Damage, Range, Attack Speed,\n+50% additional thrown damage",ダメージ&攻撃速度&攻撃距離+50%\n投擲ダメージ+50%,"+50% Schaden, Angriffstempo, Reichweite\n+25% zusätzlicher Wurfschaden"
+SpearMasteryRank1LongDesc,progression,skills,New,"Increase your entity damage, range and attack speed with spears by 6%",攻撃力と攻撃速度と攻撃の届く距離をを6%上昇させます。,"Erhöhe deinen Schaden und dein Angriffstempo mit Speeren um 6%."
+SpearMasteryRank2LongDesc,progression,skills,New,"Increase your entity damage, range and attack speed with spears by 12%",攻撃力と攻撃速度と攻撃の届く距離をを12%上昇させます。,"Erhöhe deinen Schaden und dein Angriffstempo mit Speeren um 12%."
+SpearMasteryRank3LongDesc,progression,skills,New,"Increase your entity damage, range and attack speed with spears by 18%",攻撃力と攻撃速度と攻撃の届く距離をを18%上昇させます。,"Erhöhe deinen Schaden und dein Angriffstempo mit Speeren um 18%."
+SpearMasteryRank4LongDesc,progression,skills,New,"Increase your entity damage, range and attack speed with spears by 24%",攻撃力と攻撃速度と攻撃の届く距離をを24%上昇させます。,"Erhöhe deinen Schaden und dein Angriffstempo mit Speeren um 24%."
+SpearMasteryRank5LongDesc,progression,skills,New,"Increase your entity damage, range and attack speed with spears by 30%. Thrown spears deal an additional 25% damage.",攻撃力と攻撃速度と攻撃の届く距離をを30%上昇させ、投擲攻撃時のダメージを+25%します。,"Erhöhe deinen Schaden und dein Angriffstempo mit Speeren um 30%. Geworfene Speere veursachen 25% Schaden zusätzlich."
+SpearMasteryRank6LongDesc,progression,skills,New,"Increase your entity damage, range and attack speed with spears by 34%. Thrown spears deal an additional 25% damage.",攻撃力と攻撃速度と攻撃の届く距離をを34%上昇させ、投擲攻撃時のダメージを+25%します。,"Erhöhe deinen Schaden und dein Angriffstempo mit Speeren um 34%. Geworfene Speere veursachen 25% Schaden zusätzlich."
+SpearMasteryRank7LongDesc,progression,skills,New,"Increase your entity damage, range and attack speed with spears by 38%. Thrown spears deal an additional 25% damage.",攻撃力と攻撃速度と攻撃の届く距離をを38%上昇させ、投擲攻撃時のダメージを+25%します。,"Erhöhe deinen Schaden und dein Angriffstempo mit Speeren um 38%. Geworfene Speere veursachen 25% Schaden zusätzlich."
+SpearMasteryRank8LongDesc,progression,skills,New,"Increase your entity damage, range and attack speed with spears by 42%. Thrown spears deal an additional 25% damage.",攻撃力と攻撃速度と攻撃の届く距離をを42%上昇させ、投擲攻撃時のダメージを+25%します。,"Erhöhe deinen Schaden und dein Angriffstempo mit Speeren um 42%. Geworfene Speere veursachen 25% Schaden zusätzlich."
+SpearMasteryRank9LongDesc,progression,skills,New,"Increase your entity damage, range and attack speed with spears by 46%. Thrown spears deal an additional 25% damage.",攻撃力と攻撃速度と攻撃の届く距離をを46%上昇させ、投擲攻撃時のダメージを+25%します。,"Erhöhe deinen Schaden und dein Angriffstempo mit Speeren um 46%. Geworfene Speere veursachen 25% Schaden zusätzlich."
+SpearMasteryRank10LongDesc,progression,skills,New,"Increase your entity damage, range and attack speed with spears by 50%. Thrown spears deal an additional 50% damage.",攻撃力と攻撃速度と攻撃の届く距離をを50%上昇させ、投擲攻撃時のダメージを+50%します。,"Erhöhe deinen Schaden und dein Angriffstempo mit Speeren um 50%. Geworfene Speere veursachen 50% Schaden zusätzlich."
+
+ExtraExperienceName,progression,skills,New,Fast Learner,エクストラEXP,Schneller Lerner
+ExtraExperienceDesc,progression,skills,New,Increase your smarts and thus learn faster.,あなたの賢さを高め、より早く学習出来るようにします。,Verbessere deine Auffassungsgabe und lerne dadurch schneller.
+ExtraExperienceRank1Desc,progression,skills,New,+12% XP Gain,経験値+12%,+12% Erfahrung
+ExtraExperienceRank2Desc,progression,skills,New,+24% XP Gain,経験値+24%,+24% Erfahrung
+ExtraExperienceRank3Desc,progression,skills,New,+36% XP Gain,経験値+36%,+36% Erfahrung
+ExtraExperienceRank4Desc,progression,skills,New,+48% XP Gain,経験値+48%,+48% Erfahrung
+ExtraExperienceRank5Desc,progression,skills,New,+60% XP Gain,経験値+60%,+60% Erfahrung
+ExtraExperienceRank6Desc,progression,skills,New,+68% XP Gain,経験値+68%,+68% Erfahrung
+ExtraExperienceRank7Desc,progression,skills,New,+76% XP Gain,経験値+76%,+76% Erfahrung
+ExtraExperienceRank8Desc,progression,skills,New,+84% XP Gain,経験値+84%,+84% Erfahrung
+ExtraExperienceRank9Desc,progression,skills,New,+92% XP Gain,経験値+92%,+92% Erfahrung
+ExtraExperienceRank10Desc,progression,skills,New,+100% XP Gain,経験値+100%,+100% Erfahrung
+ExtraExperienceRank1LongDesc,progression,skills,New,Increase your earned experience by 12%,経験値の獲得量を12%増加させます。,Erhöhe die Menge gewonnener Erfahrung um 12%.
+ExtraExperienceRank2LongDesc,progression,skills,New,Increase your earned experience by 24%,経験値の獲得量を24%増加させます。,Erhöhe die Menge gewonnener Erfahrung um 24%.
+ExtraExperienceRank3LongDesc,progression,skills,New,Increase your earned experience by 36%,経験値の獲得量を36%増加させます。,Erhöhe die Menge gewonnener Erfahrung um 36%.
+ExtraExperienceRank4LongDesc,progression,skills,New,Increase your earned experience by 48%,経験値の獲得量を48%増加させます。,Erhöhe die Menge gewonnener Erfahrung um 48%.
+ExtraExperienceRank5LongDesc,progression,skills,New,Increase your earned experience by 60%,経験値の獲得量を60%増加させます。,Erhöhe die Menge gewonnener Erfahrung um 60%.
+ExtraExperienceRank6LongDesc,progression,skills,New,Increase your earned experience by 68%,経験値の獲得量を68%増加させます。,Erhöhe die Menge gewonnener Erfahrung um 68%.
+ExtraExperienceRank7LongDesc,progression,skills,New,Increase your earned experience by 76%,経験値の獲得量を76%増加させます。,Erhöhe die Menge gewonnener Erfahrung um 76%.
+ExtraExperienceRank8LongDesc,progression,skills,New,Increase your earned experience by 84%,経験値の獲得量を84%増加させます。,Erhöhe die Menge gewonnener Erfahrung um 84%.
+ExtraExperienceRank9LongDesc,progression,skills,New,Increase your earned experience by 92%,経験値の獲得量を92%増加させます。,Erhöhe die Menge gewonnener Erfahrung um 92%.
+ExtraExperienceRank10LongDesc,progression,skills,New,Increase your earned experience by 100%,経験値の獲得量を100%増加させます。,Erhöhe die Menge gewonnener Erfahrung um 100%.
+
+CraftingSpeedName,progression,skills,New,Crafting Expertise,クラフトスピード,Handwerksgeschick
+CraftingSpeedDesc,progression,skills,New,Your nimble fingers allow you to craft even faster than before.,あなたの軽快な指は、以前よりもさらに速く工作することを可能にします。,"Deine geschickten Finger erlauben es dir, noch schneller und effizienter Dinge herzustellen, als zuvor."
+CraftingSpeedRank1Desc,progression,skills,New,+8% Crafting Speed,クラフト速度+8%,+8% Herstellungstempo
+CraftingSpeedRank2Desc,progression,skills,New,+16% Crafting Speed,クラフト速度+16%,+16% Herstellungstempo
+CraftingSpeedRank3Desc,progression,skills,New,+24% Crafting Speed,クラフト速度+24%,+24% Herstellungstempo
+CraftingSpeedRank4Desc,progression,skills,New,+32% Crafting Speed,クラフト速度+32%,+32% Herstellungstempo
+CraftingSpeedRank5Desc,progression,skills,New,+40% Crafting Speed,クラフト速度+40%,+40% Herstellungstempo
+CraftingSpeedRank6Desc,progression,skills,New,+46% Crafting Speed,クラフト速度+46%,+46% Herstellungstempo
+CraftingSpeedRank7Desc,progression,skills,New,+52% Crafting Speed,クラフト速度+52%,+52% Herstellungstempo
+CraftingSpeedRank8Desc,progression,skills,New,+58% Crafting Speed,クラフト速度+58%,+58% Herstellungstempo
+CraftingSpeedRank9Desc,progression,skills,New,+64% Crafting Speed,クラフト速度+64%,+64% Herstellungstempo
+CraftingSpeedRank10Desc,progression,skills,New,"+70% Crafting Speed\n+1 Crafting Tier",クラフト速度+70%\nアイテムティア+1,+70% Herstellungstempo\n+1 Stufe hergestellter Ausrüstung
+CraftingSpeedRank1LongDesc,progression,skills,New,Increase your crafting speed by 8%,アイテムクラフトのスピードを8%高速化させます。,Erhöhe dein Herstellungstempo um 8%.
+CraftingSpeedRank2LongDesc,progression,skills,New,Increase your crafting speed by 16%,アイテムクラフトのスピードを16%高速化させます。,Erhöhe dein Herstellungstempo um 16%.
+CraftingSpeedRank3LongDesc,progression,skills,New,Increase your crafting speed by 24%,アイテムクラフトのスピードを24%高速化させます。,Erhöhe dein Herstellungstempo um 24%.
+CraftingSpeedRank4LongDesc,progression,skills,New,Increase your crafting speed by 32%,アイテムクラフトのスピードを32%高速化させます。,Erhöhe dein Herstellungstempo um 32%.
+CraftingSpeedRank5LongDesc,progression,skills,New,Increase your crafting speed by 40%,アイテムクラフトのスピードを40%高速化させます。,Erhöhe dein Herstellungstempo um 40%.
+CraftingSpeedRank6LongDesc,progression,skills,New,Increase your crafting speed by 46%,アイテムクラフトのスピードを46%高速化させます。,Erhöhe dein Herstellungstempo um 46%.
+CraftingSpeedRank7LongDesc,progression,skills,New,Increase your crafting speed by 52%,アイテムクラフトのスピードを52%高速化させます。,Erhöhe dein Herstellungstempo um 52%.
+CraftingSpeedRank8LongDesc,progression,skills,New,Increase your crafting speed by 58%,アイテムクラフトのスピードを58%高速化させます。,Erhöhe dein Herstellungstempo um 58%.
+CraftingSpeedRank9LongDesc,progression,skills,New,Increase your crafting speed by 64%,アイテムクラフトのスピードを64%高速化させます。,Erhöhe dein Herstellungstempo um 64%.
+CraftingSpeedRank10LongDesc,progression,skills,New,Increase your crafting speed by 70% and add an additional crafting tier.,アイテムクラフトのスピードを70%高速化させ、クラフト時のアイテムティアを+1します。,"Erhöhe dein Herstellungstempo um 70% und die Stufe hergestellter Ausrüstung um 1."
+
+RascalName,progression,skills,New,Rascal,交渉人,Schlitzohr
+RascalDesc,progression,skills,New,You know how to properly bargain. Only true rascals may get the best deals.,あなたは適切な交渉の仕方を知っています。真の悪党だけが最高の取引をすることができます。,"Du weißt anständig zu verhandeln un zu feilschen. Nur wahre Schlitzohren erhalten die besten Geschäfte."
+RascalRank1Desc,progression,skills,New,2% better deals,取引優遇2%,2% bessere Geschäfte
+RascalRank2Desc,progression,skills,New,4% better deals,取引優遇4%,4% bessere Geschäfte
+RascalRank3Desc,progression,skills,New,6% better deals,取引優遇6%,6% bessere Geschäfte
+RascalRank4Desc,progression,skills,New,8% better deals,取引優遇8%,8% bessere Geschäfte
+RascalRank5Desc,progression,skills,New,10% better deals,取引優遇10%,10% bessere Geschäfte
+RascalRank6Desc,progression,skills,New,11% better deals,取引優遇11%,11% bessere Geschäfte
+RascalRank7Desc,progression,skills,New,12% better deals,取引優遇12%,12% bessere Geschäfte
+RascalRank8Desc,progression,skills,New,13% better deals,取引優遇13%,13% bessere Geschäfte
+RascalRank9Desc,progression,skills,New,14% better deals,取引優遇14%,14% bessere Geschäfte
+RascalRank10Desc,progression,skills,New,15% better deals,取引優遇15%,15% bessere Geschäfte
+RascalRank1LongDesc,progression,skills,New,You're able to get 2% better prices while selling and buying at traders.,トレーダーでの取引時に2%良い価格で売買できる。,"Du erhältst 2% bessere Preise, wenn du Dinge bei Händlern kaufst oder verkaufst."
+RascalRank2LongDesc,progression,skills,New,You're able to get 4% better prices while selling and buying at traders.,トレーダーでの取引時に4%良い価格で売買できる。,"Du erhältst 4% bessere Preise, wenn du Dinge bei Händlern kaufst oder verkaufst."
+RascalRank3LongDesc,progression,skills,New,You're able to get 6% better prices while selling and buying at traders.,トレーダーでの取引時に6%良い価格で売買できる。,"Du erhältst 6% bessere Preise, wenn du Dinge bei Händlern kaufst oder verkaufst."
+RascalRank4LongDesc,progression,skills,New,You're able to get 8% better prices while selling and buying at traders.,トレーダーでの取引時に8%良い価格で売買できる。,"Du erhältst 8% bessere Preise, wenn du Dinge bei Händlern kaufst oder verkaufst."
+RascalRank5LongDesc,progression,skills,New,You're able to get 10% better prices while selling and buying at traders.,トレーダーでの取引時に10%良い価格で売買できる。,"Du erhältst 10% bessere Preise, wenn du Dinge bei Händlern kaufst oder verkaufst."
+RascalRank6LongDesc,progression,skills,New,You're able to get 11% better prices while selling and buying at traders.,トレーダーでの取引時に11%良い価格で売買できる。,"Du erhältst 11% bessere Preise, wenn du Dinge bei Händlern kaufst oder verkaufst."
+RascalRank7LongDesc,progression,skills,New,You're able to get 12% better prices while selling and buying at traders.,トレーダーでの取引時に12%良い価格で売買できる。,"Du erhältst 12% bessere Preise, wenn du Dinge bei Händlern kaufst oder verkaufst."
+RascalRank8LongDesc,progression,skills,New,You're able to get 13% better prices while selling and buying at traders.,トレーダーでの取引時に13%良い価格で売買できる。,"Du erhältst 13% bessere Preise, wenn du Dinge bei Händlern kaufst oder verkaufst."
+RascalRank9LongDesc,progression,skills,New,You're able to get 14% better prices while selling and buying at traders.,トレーダーでの取引時に14%良い価格で売買できる。,"Du erhältst 14% bessere Preise, wenn du Dinge bei Händlern kaufst oder verkaufst."
+RascalRank10LongDesc,progression,skills,New,You're able to get 15% better prices while selling and buying at traders.,トレーダーでの取引時に15%良い価格で売買できる。,"Du erhältst 15% bessere Preise, wenn du Dinge bei Händlern kaufst oder verkaufst."
+
+FoodEngineeringName,progression,skills,New,Food Engineering,食品工学,Lebensmitteltechnik
+FoodEngineeringDesc,progression,skills,New,"You know how to properly work with food, how to use it efficiently and get the most out of your resources",食材の効率的な使い方を学習しました。,"Du weißt um den angemessenen Umgang mit Nahrung und hast dadurch effizienzsteigernde Verfahren entdeckt."
+FoodEngineeringRank1Desc,progression,skills,New,Cooking costs 6% less resources,消費食材-6%,Kochen kostet 6% weniger Ressourcen
+FoodEngineeringRank2Desc,progression,skills,New,Cooking costs 12% less resources,消費食材-12%,Kochen kostet 12% weniger Ressourcen
+FoodEngineeringRank3Desc,progression,skills,New,Cooking costs 18% less resources,消費食材-18%,Kochen kostet 18% weniger Ressourcen
+FoodEngineeringRank4Desc,progression,skills,New,Cooking costs 24% less resources,消費食材-24%,Kochen kostet 24% weniger Ressourcen
+FoodEngineeringRank5Desc,progression,skills,New,"Cooking costs 30% less resources\nGathered Crops +1",消費食材-30%\n収穫量+1,Kochen kostet 30% weniger Ressourcen\n+1 Ernteertrag
+FoodEngineeringRank6Desc,progression,skills,New,"Cooking costs 34% less resources\nGathered Crops +1",消費食材-34%\n収穫量+1,Kochen kostet 34% weniger Ressourcen\n+1 Ernteertrag
+FoodEngineeringRank7Desc,progression,skills,New,"Cooking costs 38% less resources\nGathered Crops +1",消費食材-38%\n収穫量+1,Kochen kostet 38% weniger Ressourcen\n+1 Ernteertrag
+FoodEngineeringRank8Desc,progression,skills,New,"Cooking costs 42% less resources\nGathered Crops +1",消費食材-42%\n収穫量+1,Kochen kostet 42% weniger Ressourcen\n+1 Ernteertrag
+FoodEngineeringRank9Desc,progression,skills,New,"Cooking costs 46% less resources\nGathered Crops +1",消費食材-46%\n収穫量+1,Kochen kostet 46% weniger Ressourcen\n+1 Ernteertrag
+FoodEngineeringRank10Desc,progression,skills,New,"Cooking costs 50% less resources\nGathered Crops +2",消費食材-50%\n収穫量+2,Kochen kostet 50% weniger Ressourcen\n+2 Ernteertrag
+FoodEngineeringRank1LongDesc,progression,skills,New,"You're able to cook more efficiently, using 6% less resources.",調理時の食材量を6%減少させます。,"Du bist in der Lage effizienter zu kochen, wodurch du 6% weniger Ressourcen verbrauchst."
+FoodEngineeringRank2LongDesc,progression,skills,New,"You're able to cook more efficiently, using 12% less resources.",調理時の食材量を12%減少させます。,"Du bist in der Lage effizienter zu kochen, wodurch du 12% weniger Ressourcen verbrauchst."
+FoodEngineeringRank3LongDesc,progression,skills,New,"You're able to cook more efficiently, using 18% less resources.",調理時の食材量を18%減少させます。,"Du bist in der Lage effizienter zu kochen, wodurch du 18% weniger Ressourcen verbrauchst."
+FoodEngineeringRank4LongDesc,progression,skills,New,"You're able to cook more efficiently, using 24% less resources.",調理時の食材量を24%減少させます。,"Du bist in der Lage effizienter zu kochen, wodurch du 24% weniger Ressourcen verbrauchst."
+FoodEngineeringRank5LongDesc,progression,skills,New,"You're able to cook more efficiently, using 30% less resources. Also your crops get more fertile, increasing your harvest by 1.",調理時の食材量を30%減少させ、農作物の収集量を+1します。,"Du bist in der Lage effizienter zu kochen, wodurch du 30% weniger Ressourcen verbrauchst. Zudem kannst du eine einträgliche Ernte einfahren, was deinen Ernteertrag um 1 erhöht."
+FoodEngineeringRank6LongDesc,progression,skills,New,"You're able to cook more efficiently, using 34% less resources. Also your crops get more fertile, increasing your harvest by 1.",調理時の食材量を34%減少させ、農作物の収集量を+1します。,"Du bist in der Lage effizienter zu kochen, wodurch du 34% weniger Ressourcen verbrauchst. Zudem kannst du eine einträgliche Ernte einfahren, was deinen Ernteertrag um 1 erhöht."
+FoodEngineeringRank7LongDesc,progression,skills,New,"You're able to cook more efficiently, using 38% less resources. Also your crops get more fertile, increasing your harvest by 1.",調理時の食材量を38%減少させ、農作物の収集量を+1します。,"Du bist in der Lage effizienter zu kochen, wodurch du 38% weniger Ressourcen verbrauchst. Zudem kannst du eine einträgliche Ernte einfahren, was deinen Ernteertrag um 1 erhöht."
+FoodEngineeringRank8LongDesc,progression,skills,New,"You're able to cook more efficiently, using 42% less resources. Also your crops get more fertile, increasing your harvest by 1.",調理時の食材量を42%減少させ、農作物の収集量を+1します。,"Du bist in der Lage effizienter zu kochen, wodurch du 42% weniger Ressourcen verbrauchst. Zudem kannst du eine einträgliche Ernte einfahren, was deinen Ernteertrag um 1 erhöht."
+FoodEngineeringRank9LongDesc,progression,skills,New,"You're able to cook more efficiently, using 46% less resources. Also your crops get more fertile, increasing your harvest by 1.",調理時の食材量を46%減少させ、農作物の収集量を+1します。,"Du bist in der Lage effizienter zu kochen, wodurch du 46% weniger Ressourcen verbrauchst. Zudem kannst du eine einträgliche Ernte einfahren, was deinen Ernteertrag um 1 erhöht."
+FoodEngineeringRank10LongDesc,progression,skills,New,"You're able to cook more efficiently, using 50% less resources. Also your crops get more fertile, increasing your harvest by 2.",調理時の食材量を50%減少させ、農作物の収集量を+2します。,"Du bist in der Lage effizienter zu kochen, wodurch du 50% weniger Ressourcen verbrauchst. Zudem kannst du eine einträgliche Ernte einfahren, was deinen Ernteertrag um 2 erhöht."
+
+ReveredName,progression,skills,New,Revered,崇高な貢献,Verehrt
+ReveredDesc,progression,skills,New,You've made yourself quite the name and people are now even more grateful for your help in these times.,トレーダーズの名前を大きくするのに大きな貢献をし、さまざまな人があなたの協力に感謝している。トレーダークエストの報酬が増加する。,"Du hast dir einen ganz schönen Namen gemacht, wodurch dir die Menschen für deine Hilfe in diesen dunklen Zeiten, noch dankbarer sind."
+ReveredRank1Desc,progression,skills,New,"+20% Quest Reward",クエスト報酬+20%,"+20% Questbelohnungen"
+ReveredRank2Desc,progression,skills,New,"+40% Quest Reward",クエスト報酬+40%,"+40% Questbelohnungen"
+ReveredRank3Desc,progression,skills,New,"+60% Quest Reward",クエスト報酬+60%,"+60% Questbelohnungen"
+ReveredRank4Desc,progression,skills,New,"+80% Quest Reward",クエスト報酬+80%,"+80% Questbelohnungen"
+ReveredRank5Desc,progression,skills,New,"+100% Quest Reward",クエスト報酬+100%,"+100% Questbelohnungen"
+ReveredRank6Desc,progression,skills,New,"+110% Quest Reward",クエスト報酬+110%,"+110% Questbelohnungen"
+ReveredRank7Desc,progression,skills,New,"+120% Quest Reward",クエスト報酬+120%,"+120% Questbelohnungen"
+ReveredRank8Desc,progression,skills,New,"+130% Quest Reward",クエスト報酬+130%,"+130% Questbelohnungen"
+ReveredRank9Desc,progression,skills,New,"+140% Quest Reward",クエスト報酬+140%,"+140% Questbelohnungen"
+ReveredRank10Desc,progression,skills,New,"+150% Quest Reward\nChoose 1 additional reward",クエスト報酬+150%\n選択報酬+1,"+150% Questbelohnungen\nWähle eine weitere Belohnung"
+ReveredRank1LongDesc,progression,skills,New,"Increase the amount of Quest Rewards by 20%",トレーダークエストの報酬を20%上昇させる。,"Erhöhe die Menge an erhaltenen Questbelohnungen um 20%."
+ReveredRank2LongDesc,progression,skills,New,"Increase the amount of Quest Rewards by 40%",トレーダークエストの報酬を40%上昇させる。,"Erhöhe die Menge an erhaltenen Questbelohnungen um 40%."
+ReveredRank3LongDesc,progression,skills,New,"Increase the amount of Quest Rewards by 60%",トレーダークエストの報酬を60%上昇させる。,"Erhöhe die Menge an erhaltenen Questbelohnungen um 60%."
+ReveredRank4LongDesc,progression,skills,New,"Increase the amount of Quest Rewards by 80%",トレーダークエストの報酬を80%上昇させる。,"Erhöhe die Menge an erhaltenen Questbelohnungen um 80%."
+ReveredRank5LongDesc,progression,skills,New,"Increase the amount of Quest Rewards by 100%",トレーダークエストの報酬を100%上昇させる。,"Erhöhe die Menge an erhaltenen Questbelohnungen um 100%."
+ReveredRank6LongDesc,progression,skills,New,"Increase the amount of Quest Rewards by 110%",トレーダークエストの報酬を110%上昇させる。,"Erhöhe die Menge an erhaltenen Questbelohnungen um 110%."
+ReveredRank7LongDesc,progression,skills,New,"Increase the amount of Quest Rewards by 120%",トレーダークエストの報酬を120%上昇させる。,"Erhöhe die Menge an erhaltenen Questbelohnungen um 120%."
+ReveredRank8LongDesc,progression,skills,New,"Increase the amount of Quest Rewards by 130%",トレーダークエストの報酬を130%上昇させる。,"Erhöhe die Menge an erhaltenen Questbelohnungen um 130%."
+ReveredRank9LongDesc,progression,skills,New,"Increase the amount of Quest Rewards by 140%",トレーダークエストの報酬を140%上昇させる。,"Erhöhe die Menge an erhaltenen Questbelohnungen um 140%."
+ReveredRank10LongDesc,progression,skills,New,"Increase the amount of Quest Rewards by 150%. Also you may choose an additional reward for quests.",トレーダークエストの報酬を150%上昇させ、選択報酬を+1する。,"Erhöhe die Menge an erhaltenen Questbelohnungen um 150%. Zudem kannst du eine weitere Belohnung auswählen."
+
+SalvagerName,progression,skills,New,Disassembling Knowledge,解体の知識,Zerlegungs-Fachkenntnis
+SalvagerDesc,progression,skills,New,You've acquired the knowledge to better learn how to gather more resources while salvaging mechanical and electrical objects.,機械類を素早く解体しながら、より多くの資源を集める知識を身につけました。, Du hast dir das Wissen um das Zerlegen von mechanischen und elektrischen Objekten angeeignet.
+SalvagerRank1Desc,progression,skills,New,"+6% more Salvage, Block Damage and Attack Speed",解体性能+6%,"+6% mehr Teile, Blockschaden und Angriffstempo."
+SalvagerRank2Desc,progression,skills,New,"+12% more Salvage, Block Damage and Attack Speed",解体性能+12%,"+12% mehr Teile, Blockschaden und Angriffstempo."
+SalvagerRank3Desc,progression,skills,New,"+18% more Salvage, Block Damage and Attack Speed",解体性能+18%,"+18% mehr Teile, Blockschaden und Angriffstempo."
+SalvagerRank4Desc,progression,skills,New,"+24% more Salvage, Block Damage and Attack Speed",解体性能+24%,"+24% mehr Teile, Blockschaden und Angriffstempo."
+SalvagerRank5Desc,progression,skills,New,"+30% more Salvage, Block Damage and Attack Speed",解体性能+30%,"+30% mehr Teile, Blockschaden und Angriffstempo."
+SalvagerRank6Desc,progression,skills,New,"+34% more Salvage, Block Damage and Attack Speed",解体性能+34%,"+34% mehr Teile, Blockschaden und Angriffstempo."
+SalvagerRank7Desc,progression,skills,New,"+38% more Salvage, Block Damage and Attack Speed",解体性能+38%,"+38% mehr Teile, Blockschaden und Angriffstempo."
+SalvagerRank8Desc,progression,skills,New,"+42% more Salvage, Block Damage and Attack Speed",解体性能+42%,"+42% mehr Teile, Blockschaden und Angriffstempo."
+SalvagerRank9Desc,progression,skills,New,"+46% more Salvage, Block Damage and Attack Speed",解体性能+46%,"+46% mehr Teile, Blockschaden und Angriffstempo."
+SalvagerRank10Desc,progression,skills,New,"+50% more Salvage, Block Damage and Attack Speed",解体性能+50%,"+50% mehr Teile, Blockschaden und Angriffstempo."
+SalvagerRank1LongDesc,progression,skills,New,"Gather rate of salvage, block damage and attack speed with disassembling tools is increased by 6%.",解体ツール使用時のダメージ、資源回収量、攻撃速度を6%上昇させます。,"Sammelrate von Teilen, Blockschaden und Angriffstempo mit Werkzeugen zur Demontage wird um 6% erhöht."
+SalvagerRank2LongDesc,progression,skills,New,"Gather rate of salvage, block damage and attack speed with disassembling tools is increased by 12%.",解体ツール使用時のダメージ、資源回収量、攻撃速度を12%上昇させます。,"Sammelrate von Teilen, Blockschaden und Angriffstempo mit Werkzeugen zur Demontage wird um 12% erhöht."
+SalvagerRank3LongDesc,progression,skills,New,"Gather rate of salvage, block damage and attack speed with disassembling tools is increased by 18%.",解体ツール使用時のダメージ、資源回収量、攻撃速度を18%上昇させます。,"Sammelrate von Teilen, Blockschaden und Angriffstempo mit Werkzeugen zur Demontage wird um 18% erhöht."
+SalvagerRank4LongDesc,progression,skills,New,"Gather rate of salvage, block damage and attack speed with disassembling tools is increased by 24%.",解体ツール使用時のダメージ、資源回収量、攻撃速度を24%上昇させます。,"Sammelrate von Teilen, Blockschaden und Angriffstempo mit Werkzeugen zur Demontage wird um 24% erhöht."
+SalvagerRank5LongDesc,progression,skills,New,"Gather rate of salvage, block damage and attack speed with disassembling tools is increased by 30%.",解体ツール使用時のダメージ、資源回収量、攻撃速度を30%上昇させます。,"Sammelrate von Teilen, Blockschaden und Angriffstempo mit Werkzeugen zur Demontage wird um 30% erhöht."
+SalvagerRank6LongDesc,progression,skills,New,"Gather rate of salvage, block damage and attack speed with disassembling tools is increased by 34%.",解体ツール使用時のダメージ、資源回収量、攻撃速度を34%上昇させます。,"Sammelrate von Teilen, Blockschaden und Angriffstempo mit Werkzeugen zur Demontage wird um 34% erhöht."
+SalvagerRank7LongDesc,progression,skills,New,"Gather rate of salvage, block damage and attack speed with disassembling tools is increased by 38%.",解体ツール使用時のダメージ、資源回収量、攻撃速度を38%上昇させます。,"Sammelrate von Teilen, Blockschaden und Angriffstempo mit Werkzeugen zur Demontage wird um 38% erhöht."
+SalvagerRank8LongDesc,progression,skills,New,"Gather rate of salvage, block damage and attack speed with disassembling tools is increased by 42%.",解体ツール使用時のダメージ、資源回収量、攻撃速度を42%上昇させます。,"Sammelrate von Teilen, Blockschaden und Angriffstempo mit Werkzeugen zur Demontage wird um 42% erhöht."
+SalvagerRank9LongDesc,progression,skills,New,"Gather rate of salvage, block damage and attack speed with disassembling tools is increased by 46%.",解体ツール使用時のダメージ、資源回収量、攻撃速度を46%上昇させます。,"Sammelrate von Teilen, Blockschaden und Angriffstempo mit Werkzeugen zur Demontage wird um 46% erhöht."
+SalvagerRank10LongDesc,progression,skills,New,"Gather rate of salvage, block damage and attack speed with disassembling tools is increased by 50%.",解体ツール使用時のダメージ、資源回収量、攻撃速度を50%上昇させます。,"Sammelrate von Teilen, Blockschaden und Angriffstempo mit Werkzeugen zur Demontage wird um 50% erhöht."
+
+ExplosivesMasteryName,progression,skills,New,Explosives Mastery,花火師,Sprengstoff-Experte
+ExplosivesMasteryDesc,progression,skills,New,"You really do love fireworks, right? Vastly increase your damage with explosives.",本当に花火が好きなんですね。爆発物の全体的な性能を上げます。,"Du scheinst Feuerwerk wahrlich zu lieben oder? Erhöhe deinen Schaden mit Sprengstoff massiv."
+ExplosivesMasteryRank1Desc,progression,skills,New,"+6% Block Damage, Entity Damage, Weapon Handling, Reload Speed.",爆発物性能+6%,"+6% Schaden, Waffenhandhabung, Nachladetempo"
+ExplosivesMasteryRank2Desc,progression,skills,New,"+12% Block Damage, Entity Damage, Weapon Handling, Reload Speed.",爆発物性能+12%,"+12% Schaden, Waffenhandhabung, Nachladetempo"
+ExplosivesMasteryRank3Desc,progression,skills,New,"+18% Block Damage, Entity Damage, Weapon Handling, Reload Speed.",爆発物性能+18%,"+18% Schaden, Waffenhandhabung, Nachladetempo"
+ExplosivesMasteryRank4Desc,progression,skills,New,"+24% Block Damage, Entity Damage, Weapon Handling, Reload Speed.",爆発物性能+24%,"+24% Schaden, Waffenhandhabung, Nachladetempo"
+ExplosivesMasteryRank5Desc,progression,skills,New,"+30% Block Damage, Entity Damage, Weapon Handling, Reload Speed.\n+10% Dismember Chance.",爆発物性能+30%\n部位破壊率+10%,"+30% Schaden, Waffenhandhabung, Nachladetempo\n+10% Chance auf Zergliederung"
+ExplosivesMasteryRank6Desc,progression,skills,New,"+34% Block Damage, Entity Damage, Weapon Handling, Reload Speed.\n+10% Dismember Chance.",爆発物性能+34%\n部位破壊率+10%,"+34% Schaden, Waffenhandhabung, Nachladetempo\n+10% Chance auf Zergliederung"
+ExplosivesMasteryRank7Desc,progression,skills,New,"+38% Block Damage, Entity Damage, Weapon Handling, Reload Speed.\n+10% Dismember Chance.",爆発物性能+38%\n部位破壊率+10%,"+38% Schaden, Waffenhandhabung, Nachladetempo\n+10% Chance auf Zergliederung"
+ExplosivesMasteryRank8Desc,progression,skills,New,"+42% Block Damage, Entity Damage, Weapon Handling, Reload Speed.\n+10% Dismember Chance.",爆発物性能+42%\n部位破壊率+10%,"+42% Schaden, Waffenhandhabung, Nachladetempo\n+10% Chance auf Zergliederung"
+ExplosivesMasteryRank9Desc,progression,skills,New,"+46% Block Damage, Entity Damage, Weapon Handling, Reload Speed.\n+10% Dismember Chance.",爆発物性能+46%\n部位破壊率+10%,"+46% Schaden, Waffenhandhabung, Nachladetempo\n+10% Chance auf Zergliederung"
+ExplosivesMasteryRank10Desc,progression,skills,New,"+50% Block Damage, Entity Damage, Weapon Handling, Reload Speed.\n+20% Dismember Chance.",爆発物性能+50%\n部位破壊率+20%,"+50% Schaden, Waffenhandhabung, Nachladetempo\n+20% Chance auf Zergliederung"
+ExplosivesMasteryRank1LongDesc,progression,skills,New,"Increase your block damage, entity damage, weapon handling and reload speed with explosives by 6%",爆発物のダメージ、取り回し、リロード速度を6%改善します。,"Erhöhe deinen Schaden gegen Blöcke und Wesen, deine Handhabung sowie das Nachladetempo um 6%."
+ExplosivesMasteryRank2LongDesc,progression,skills,New,"Increase your block damage, entity damage, weapon handling and reload speed with explosives by 12%",爆発物のダメージ、取り回し、リロード速度を12%改善します。,"Erhöhe deinen Schaden gegen Blöcke und Wesen, deine Handhabung sowie das Nachladetempo um 12%."
+ExplosivesMasteryRank3LongDesc,progression,skills,New,"Increase your block damage, entity damage, weapon handling and reload speed with explosives by 18%",爆発物のダメージ、取り回し、リロード速度を18%改善します。,"Erhöhe deinen Schaden gegen Blöcke und Wesen, deine Handhabung sowie das Nachladetempo um 18%."
+ExplosivesMasteryRank4LongDesc,progression,skills,New,"Increase your block damage, entity damage, weapon handling and reload speed with explosives by 24%",爆発物のダメージ、取り回し、リロード速度を24%改善します。,"Erhöhe deinen Schaden gegen Blöcke und Wesen, deine Handhabung sowie das Nachladetempo um 24%."
+ExplosivesMasteryRank5LongDesc,progression,skills,New,"Increase your block damage, entity damage, weapon handling and reload speed with explosives by 30%. Explosives have an additional 10% chance to dismember.",爆発物のダメージ、取り回し、リロード速度を30%改善し、部位破壊率を+10%します。,"Erhöhe deinen Schaden gegen Blöcke und Wesen, deine Handhabung sowie das Nachladetempo um 30%. Sprengstoff hat eine zusätzliche Chance von 10%, Ziele zu zergliedern."
+ExplosivesMasteryRank6LongDesc,progression,skills,New,"Increase your block damage, entity damage, weapon handling and reload speed with explosives by 34%. Explosives have an additional 10% chance to dismember.",爆発物のダメージ、取り回し、リロード速度を34%改善し、部位破壊率を+10%します。,"Erhöhe deinen Schaden gegen Blöcke und Wesen, deine Handhabung sowie das Nachladetempo um 34%. Sprengstoff hat eine zusätzliche Chance von 10%, Ziele zu zergliedern."
+ExplosivesMasteryRank7LongDesc,progression,skills,New,"Increase your block damage, entity damage, weapon handling and reload speed with explosives by 38%. Explosives have an additional 10% chance to dismember.",爆発物のダメージ、取り回し、リロード速度を38%改善し、部位破壊率を+10%します。,"Erhöhe deinen Schaden gegen Blöcke und Wesen, deine Handhabung sowie das Nachladetempo um 38%. Sprengstoff hat eine zusätzliche Chance von 10%, Ziele zu zergliedern."
+ExplosivesMasteryRank8LongDesc,progression,skills,New,"Increase your block damage, entity damage, weapon handling and reload speed with explosives by 42%. Explosives have an additional 10% chance to dismember.",爆発物のダメージ、取り回し、リロード速度を42%改善し、部位破壊率を+10%します。,"Erhöhe deinen Schaden gegen Blöcke und Wesen, deine Handhabung sowie das Nachladetempo um 42%. Sprengstoff hat eine zusätzliche Chance von 10%, Ziele zu zergliedern."
+ExplosivesMasteryRank9LongDesc,progression,skills,New,"Increase your block damage, entity damage, weapon handling and reload speed with explosives by 46%. Explosives have an additional 10% chance to dismember.",爆発物のダメージ、取り回し、リロード速度を46%改善し、部位破壊率を+10%します。,"Erhöhe deinen Schaden gegen Blöcke und Wesen, deine Handhabung sowie das Nachladetempo um 46%. Sprengstoff hat eine zusätzliche Chance von 10%, Ziele zu zergliedern."
+ExplosivesMasteryRank10LongDesc,progression,skills,New,"Increase your block damage, entity damage, weapon handling and reload speed with explosives by 50%. Explosives have an additional 20% chance to dismember.",爆発物のダメージ、取り回し、リロード速度を50%改善し、部位破壊率を+20%します。,"Erhöhe deinen Schaden gegen Blöcke und Wesen, deine Handhabung sowie das Nachladetempo um 50%. Sprengstoff hat eine zusätzliche Chance von 20%, Ziele zu zergliedern."
+
+TurretMasteryName,progression,skills,New,Turret Mastery,タレットマスター,Geschützturm-Experte
+TurretMasteryDesc,progression,skills,New,"You know how to properly maintain junk turrets which vastly increases their performance.",あなたはジャンクタレットの整備法を理解し、タレットの性能が大きく上がった。,"Du weißt um die angemessene Wartung von Robotik-Türmen, wodurch sich ihre Leistung erheblich erhöht."
+TurretMasteryRank1Desc,progression,skills,New,"+24 magazine size\n12% fire rate",装弾数+24連射速度+12%,"+24 Magazingröße\n+12% Feuerrate"
+TurretMasteryRank2Desc,progression,skills,New,"+48 magazine size\n24% fire rate",装弾数+48連射速度+24%,"+48 Magazingröße\n+24% Feuerrate"
+TurretMasteryRank3Desc,progression,skills,New,"+72 magazine size\n36% fire rate",装弾数+72連射速度+36%,"+72 Magazingröße\n+36% Feuerrate"
+TurretMasteryRank4Desc,progression,skills,New,"+96 magazine size\n48% fire rate",装弾数+96連射速度+48%,"+96 Magazingröße\n+48% Feuerrate"
+TurretMasteryRank5Desc,progression,skills,New,"+120 magazine size\n60% fire rate\n+6 blocks active range",装弾数+120連射速度+60%\n射程距離+6m,"+120 Magazingröße\n+60% Feuerrate\n+6 Blöcke aktiver Reichweite"
+TurretMasteryRank6Desc,progression,skills,New,"+136 magazine size\n68% fire rate\n+6 blocks active range",装弾数+136連射速度+68%\n射程距離+6m,"+136 Magazingröße\n+68% Feuerrate\n+6 Blöcke aktiver Reichweite"
+TurretMasteryRank7Desc,progression,skills,New,"+152 magazine size\n76% fire rate\n+6 blocks active range",装弾数+152連射速度+76%\n射程距離+6m,"+152 Magazingröße\n+76% Feuerrate\n+6 Blöcke aktiver Reichweite"
+TurretMasteryRank8Desc,progression,skills,New,"+168 magazine size\n84% fire rate\n+6 blocks active range",装弾数+168連射速度+84%\n射程距離+6m,"+168 Magazingröße\n+84% Feuerrate\n+6 Blöcke aktiver Reichweite"
+TurretMasteryRank9Desc,progression,skills,New,"+184 magazine size\n92% fire rate\n+6 blocks active range",装弾数+184連射速度+92%\n射程距離+6m,"+184 Magazingröße\n+92% Feuerrate\n+6 Blöcke aktiver Reichweite"
+TurretMasteryRank10Desc,progression,skills,New,"+200 magazine size\n100% fire rate\n+12 blocks active range\n+1 active turret",装弾数+200連射速度+100%\n射程距離+12m稼働タレット数+1台"+200 Magazingröße\n+100% Feuerrate\n+12 Blöcke aktiver Reichweite\n+1 aktiven Robotik-Geschützturm"
+TurretMasteryRank1LongDesc,progression,skills,New,"Increase the magazine size of junk turrets by 24, fire rate by 12%",ジャンクタレットの装弾数を24発、連射速度を12%増加させます。,"Erhöhe die Magazingröße von Robotik-Geschütztürmen um 24, die Feuerrate um 12%."
+TurretMasteryRank2LongDesc,progression,skills,New,"Increase the magazine size of junk turrets by 48, fire rate by 24%",ジャンクタレットの装弾数を48発、連射速度を24%増加させます。,"Erhöhe die Magazingröße von Robotik-Geschütztürmen um 48, die Feuerrate um 24%."
+TurretMasteryRank3LongDesc,progression,skills,New,"Increase the magazine size of junk turrets by 72, fire rate by 36%",ジャンクタレットの装弾数を72発、連射速度を36%増加させます。,"Erhöhe die Magazingröße von Robotik-Geschütztürmen um 72, die Feuerrate um 36%."
+TurretMasteryRank4LongDesc,progression,skills,New,"Increase the magazine size of junk turrets by 96, fire rate by 48%",ジャンクタレットの装弾数を96発、連射速度を48%増加させます。,"Erhöhe die Magazingröße von Robotik-Geschütztürmen um 96, die Feuerrate um 48%."
+TurretMasteryRank5LongDesc,progression,skills,New,"Increase the magazine size of junk turrets by 120, fire rate by 60% and the maximum range at which they are active by 6.",ジャンクタレットの装弾数を120発、連射速度を60%、最大射程距離を6m増加させます。,"Erhöhe die Magazingröße von Robotik-Geschütztürmen um 120, die Feuerrate um 60% und die maximale, aktive Reichweite um 6 Blöcke."
+TurretMasteryRank6LongDesc,progression,skills,New,"Increase the magazine size of junk turrets by 136, fire rate by 68% and the maximum range at which they are active by 6.",ジャンクタレットの装弾数を136発、連射速度を68%、最大射程距離を6m増加させます。,"Erhöhe die Magazingröße von Robotik-Geschütztürmen um 136, die Feuerrate um 68% und die maximale, aktive Reichweite um 6 Blöcke."
+TurretMasteryRank7LongDesc,progression,skills,New,"Increase the magazine size of junk turrets by 152, fire rate by 76% and the maximum range at which they are active by 6.",ジャンクタレットの装弾数を152発、連射速度を76%、最大射程距離を6m増加させます。,"Erhöhe die Magazingröße von Robotik-Geschütztürmen um 152, die Feuerrate um 76% und die maximale, aktive Reichweite um 6 Blöcke."
+TurretMasteryRank8LongDesc,progression,skills,New,"Increase the magazine size of junk turrets by 168, fire rate by 84% and the maximum range at which they are active by 6.",ジャンクタレットの装弾数を168発、連射速度を84%、最大射程距離を6m増加させます。,"Erhöhe die Magazingröße von Robotik-Geschütztürmen um 168, die Feuerrate um 84% und die maximale, aktive Reichweite um 6 Blöcke."
+TurretMasteryRank9LongDesc,progression,skills,New,"Increase the magazine size of junk turrets by 184, fire rate by 92% and the maximum range at which they are active by 6.",ジャンクタレットの装弾数を184発、連射速度を92%、最大射程距離を6m増加させます。,"Erhöhe die Magazingröße von Robotik-Geschütztürmen um 184, die Feuerrate um 92% und die maximale, aktive Reichweite um 6 Blöcke."
+TurretMasteryRank10LongDesc,progression,skills,New,"Increase the magazine size of junk turrets by 200, fire rate by 100% and the maximum range at which they are active by 12. Have one additional turret active at the samme time.",ジャンクタレットの装弾数を200発、連射速度を100%、最大射程距離を12m、最大稼働台数を+1台増加させます。,"Erhöhe die Magazingröße von Robotik-Geschütztürmen um 200, die Feuerrate um 100% und die maximale, aktive Reichweite um 12 Blöcke. Zudem kannst du einen weiteren Robotik-Geschützturm gleichzeitig aktiv haben."
+
+BowMasteryName,progression,skills,New,Bow Mastery,弓マスター,Bogen-Experte
+BowMasteryDesc,progression,skills,New,You've mastered the arts of the bow.,弓の扱いをマスターした。,Du hast dich auf den Umgang mit Bögen spezialisiert.
+BowMasteryRank1Desc,progression,skills,New,"+6% Fire Rate, Entity Damage, Weapon Handling, Reload Speed.",弓系性能+6%,"+6% Feuerrate, Schaden, Waffenhandhabung und Nachladetempo."
+BowMasteryRank2Desc,progression,skills,New,"+12% Fire Rate, Entity Damage, Weapon Handling, Reload Speed.",弓系性能+12%,"+12% Feuerrate, Schaden, Waffenhandhabung und Nachladetempo."
+BowMasteryRank3Desc,progression,skills,New,"+18% Fire Rate, Entity Damage, Weapon Handling, Reload Speed.",弓系性能+18%,"+18% Feuerrate, Schaden, Waffenhandhabung und Nachladetempo."
+BowMasteryRank4Desc,progression,skills,New,"+24% Fire Rate, Entity Damage, Weapon Handling, Reload Speed.",弓系性能+24%,"+24% Feuerrate, Schaden, Waffenhandhabung und Nachladetempo."
+BowMasteryRank5Desc,progression,skills,New,"+30% Fire Rate, Entity Damage, Weapon Handling, Reload Speed. +1 Arrow/Bolt per reload cycle.",弓系性能+30%装弾数+1,"+30% Feuerrate, Schaden, Waffenhandhabung und Nachladetempo.\n+1 Pfeil/Bolzen je Nachladezyklus"
+BowMasteryRank6Desc,progression,skills,New,"+34% Fire Rate, Entity Damage, Weapon Handling, Reload Speed. +1 Arrow/Bolt per reload cycle.",弓系性能+34%装弾数+1,"+34% Feuerrate, Schaden, Waffenhandhabung und Nachladetempo.\n+1 Pfeil/Bolzen je Nachladezyklus"
+BowMasteryRank7Desc,progression,skills,New,"+38% Fire Rate, Entity Damage, Weapon Handling, Reload Speed. +1 Arrow/Bolt per reload cycle.",弓系性能+38%装弾数+1,"+38% Feuerrate, Schaden, Waffenhandhabung und Nachladetempo.\n+1 Pfeil/Bolzen je Nachladezyklus"
+BowMasteryRank8Desc,progression,skills,New,"+42% Fire Rate, Entity Damage, Weapon Handling, Reload Speed. +1 Arrow/Bolt per reload cycle.",弓系性能+42%装弾数+1,"+42% Feuerrate, Schaden, Waffenhandhabung und Nachladetempo.\n+1 Pfeil/Bolzen je Nachladezyklus"
+BowMasteryRank9Desc,progression,skills,New,"+46% Fire Rate, Entity Damage, Weapon Handling, Reload Speed. +1 Arrow/Bolt per reload cycle.",弓系性能+46%装弾数+1,"+46% Feuerrate, Schaden, Waffenhandhabung und Nachladetempo.\n+1 Pfeil/Bolzen je Nachladezyklus"
+BowMasteryRank10Desc,progression,skills,New,"+50% Fire Rate, Entity Damage, Weapon Handling, Reload Speed. +2 Arrow/Bolt per reload cycle.",弓系性能+50%装弾数+2,"+50% Feuerrate, Schaden, Waffenhandhabung und Nachladetempo.\n+2 Pfeile/Bolzen je Nachladezyklus"
+BowMasteryRank1LongDesc,progression,skills,New,"Increase your fire rate, entity damage, weapon handling and reload speed with bows by 6%",弓での射撃速度、ダメージ、武器操作性、リロード速度を6%改善します。,"Erhöhe Feuerrate, Schaden, Handhabung und Nachladetempo mit Bögen um 6%."
+BowMasteryRank2LongDesc,progression,skills,New,"Increase your fire rate, entity damage, weapon handling and reload speed with bows by 12%",弓での射撃速度、ダメージ、武器操作性、リロード速度を12%改善します。,"Erhöhe Feuerrate, Schaden, Handhabung und Nachladetempo mit Bögen um 12%."
+BowMasteryRank3LongDesc,progression,skills,New,"Increase your fire rate, entity damage, weapon handling and reload speed with bows by 18%",弓での射撃速度、ダメージ、武器操作性、リロード速度を18%改善します。,"Erhöhe Feuerrate, Schaden, Handhabung und Nachladetempo mit Bögen um 18%."
+BowMasteryRank4LongDesc,progression,skills,New,"Increase your fire rate, entity damage, weapon handling and reload speed with bows by 24%",弓での射撃速度、ダメージ、武器操作性、リロード速度を24%改善します。,"Erhöhe Feuerrate, Schaden, Handhabung und Nachladetempo mit Bögen um 24%."
+BowMasteryRank5LongDesc,progression,skills,New,"Increase your fire rate, entity damage, weapon handling and reload speed with bows by 30% and hold ready an additional bolt or arrow per reload cycle.",弓での射撃速度、ダメージ、武器操作性、リロード速度を30%改善し、装弾数を1増やします。,"Erhöhe Feuerrate, Schaden, Handhabung und Nachladetempo mit Bögen um 30%. Halte einen zusätzlichen Pfeil oder Bolzen je Nachladezyklus bereit."
+BowMasteryRank6LongDesc,progression,skills,New,"Increase your fire rate, entity damage, weapon handling and reload speed with bows by 34% and hold ready an additional bolt or arrow per reload cycle.",弓での射撃速度、ダメージ、武器操作性、リロード速度を34%改善し、装弾数を1増やします。,"Erhöhe Feuerrate, Schaden, Handhabung und Nachladetempo mit Bögen um 34%. Halte einen zusätzlichen Pfeil oder Bolzen je Nachladezyklus bereit."
+BowMasteryRank7LongDesc,progression,skills,New,"Increase your fire rate, entity damage, weapon handling and reload speed with bows by 38% and hold ready an additional bolt or arrow per reload cycle.",弓での射撃速度、ダメージ、武器操作性、リロード速度を38%改善し、装弾数を1増やします。,"Erhöhe Feuerrate, Schaden, Handhabung und Nachladetempo mit Bögen um 38%. Halte einen zusätzlichen Pfeil oder Bolzen je Nachladezyklus bereit."
+BowMasteryRank8LongDesc,progression,skills,New,"Increase your fire rate, entity damage, weapon handling and reload speed with bows by 42% and hold ready an additional bolt or arrow per reload cycle.",弓での射撃速度、ダメージ、武器操作性、リロード速度を42%改善し、装弾数を1増やします。,"Erhöhe Feuerrate, Schaden, Handhabung und Nachladetempo mit Bögen um 42%. Halte einen zusätzlichen Pfeil oder Bolzen je Nachladezyklus bereit."
+BowMasteryRank9LongDesc,progression,skills,New,"Increase your fire rate, entity damage, weapon handling and reload speed with bows by 46% and hold ready an additional bolt or arrow per reload cycle.",弓での射撃速度、ダメージ、武器操作性、リロード速度を46%改善し、装弾数を1増やします。,"Erhöhe Feuerrate, Schaden, Handhabung und Nachladetempo mit Bögen um 46%. Halte einen zusätzlichen Pfeil oder Bolzen je Nachladezyklus bereit."
+BowMasteryRank10LongDesc,progression,skills,New,"Increase your fire rate, entity damage, weapon handling and reload speed with bows by 50% and hold ready two additional bolts or arrows per reload cycle.",弓での射撃速度、ダメージ、武器操作性、リロード速度を50%改善し、装弾数を2増やします。,"Erhöhe Feuerrate, Schaden, Handhabung und Nachladetempo mit Bögen um 50%. Halte zwei zusätzliche Pfeile oder Bolzen je Nachladezyklus bereit."
+
+RifleMasteryName,progression,skills,New,Rifle Mastery,ライフルマスター,Gewehr-Experte
+RifleMasteryDesc,progression,skills,New,You've mastered the arts of the rifle.,ライフルの扱いをマスターした。,Du hast dich auf den Umgang mit Gewehren spezialisiert.
+RifleMasteryRank1Desc,progression,skills,New,"+6% Fire Rate, Entity Damage, Weapon Handling, Reload Speed.",ライフル系性能+6%,"+6% Feuerrate, Schaden, Waffenhandhabung und Nachladetempo."
+RifleMasteryRank2Desc,progression,skills,New,"+12% Fire Rate, Entity Damage, Weapon Handling, Reload Speed.",ライフル系性能+12%,"+12% Feuerrate, Schaden, Waffenhandhabung und Nachladetempo."
+RifleMasteryRank3Desc,progression,skills,New,"+18% Fire Rate, Entity Damage, Weapon Handling, Reload Speed.",ライフル系性能+18%,"+18% Feuerrate, Schaden, Waffenhandhabung und Nachladetempo."
+RifleMasteryRank4Desc,progression,skills,New,"+24% Fire Rate, Entity Damage, Weapon Handling, Reload Speed.",ライフル系性能+24%,"+24% Feuerrate, Schaden, Waffenhandhabung und Nachladetempo."
+RifleMasteryRank5Desc,progression,skills,New,"+30% Fire Rate, Entity Damage, Weapon Handling, Reload Speed.\nignore 20% Armor",ライフル系性能+30%\n防具貫通+20%,"+30% Feuerrate, Schaden, Waffenhandhabung und Nachladetempo.\n Ignoriere 20% Rüstung."
+RifleMasteryRank6Desc,progression,skills,New,"+34% Fire Rate, Entity Damage, Weapon Handling, Reload Speed.\nignore 20% Armor",ライフル系性能+34%\n防具貫通+20%,"+34% Feuerrate, Schaden, Waffenhandhabung und Nachladetempo.\n Ignoriere 20% Rüstung."
+RifleMasteryRank7Desc,progression,skills,New,"+38% Fire Rate, Entity Damage, Weapon Handling, Reload Speed.\nignore 20% Armor",ライフル系性能+38%\n防具貫通+20%,"+38% Feuerrate, Schaden, Waffenhandhabung und Nachladetempo.\n Ignoriere 20% Rüstung."
+RifleMasteryRank8Desc,progression,skills,New,"+42% Fire Rate, Entity Damage, Weapon Handling, Reload Speed.\nignore 20% Armor",ライフル系性能+42%\n防具貫通+20%,"+42% Feuerrate, Schaden, Waffenhandhabung und Nachladetempo.\n Ignoriere 20% Rüstung."
+RifleMasteryRank9Desc,progression,skills,New,"+46% Fire Rate, Entity Damage, Weapon Handling, Reload Speed.\nignore 20% Armor",ライフル系性能+46%\n防具貫通+20%,"+46% Feuerrate, Schaden, Waffenhandhabung und Nachladetempo.\n Ignoriere 20% Rüstung."
+RifleMasteryRank10Desc,progression,skills,New,"+50% Fire Rate, Entity Damage, Weapon Handling, Reload Speed.\nignore 40% Armor",ライフル系性能+50%\n防具貫通+40%,"+50% Feuerrate, Schaden, Waffenhandhabung und Nachladetempo.\n Ignoriere 40% Rüstung."
+RifleMasteryRank1LongDesc,progression,skills,New,"Increase your fire rate, entity damage, weapon handling and reload speed with rifles by 6%",ライフルでの連射速度、ダメージ、武器操作性、リロード速度を6%改善します。,"Erhöhe Feuerrate, Schaden, Handhabung und Nachladetempo mit Gewehren um 6%."
+RifleMasteryRank2LongDesc,progression,skills,New,"Increase your fire rate, entity damage, weapon handling and reload speed with rifles by 12%",ライフルでの連射速度、ダメージ、武器操作性、リロード速度を12%改善します。,"Erhöhe Feuerrate, Schaden, Handhabung und Nachladetempo mit Gewehren um 12%."
+RifleMasteryRank3LongDesc,progression,skills,New,"Increase your fire rate, entity damage, weapon handling and reload speed with rifles by 18%",ライフルでの連射速度、ダメージ、武器操作性、リロード速度を18%改善します。,"Erhöhe Feuerrate, Schaden, Handhabung und Nachladetempo mit Gewehren um 18%."
+RifleMasteryRank4LongDesc,progression,skills,New,"Increase your fire rate, entity damage, weapon handling and reload speed with rifles by 24%",ライフルでの連射速度、ダメージ、武器操作性、リロード速度を24%改善します。,"Erhöhe Feuerrate, Schaden, Handhabung und Nachladetempo mit Gewehren um 24%."
+RifleMasteryRank5LongDesc,progression,skills,New,"Increase your fire rate, entity damage, weapon handling and reload speed with rifles by 30% and ignore an additional 20% of the targets armor.",ライフルでの連射速度、ダメージ、武器操作性、リロード速度を30%改善し、防具の20%を無視してダメージを与えます。,"Erhöhe Feuerrate, Schaden, Handhabung und Nachladetempo mit Gewehren um 30%. Ignoriere zudem 20% der Rüstung des Ziels."
+RifleMasteryRank6LongDesc,progression,skills,New,"Increase your fire rate, entity damage, weapon handling and reload speed with rifles by 34% and ignore an additional 20% of the targets armor.",ライフルでの連射速度、ダメージ、武器操作性、リロード速度を34%改善し、防具の20%を無視してダメージを与えます。,"Erhöhe Feuerrate, Schaden, Handhabung und Nachladetempo mit Gewehren um 34%. Ignoriere zudem 20% der Rüstung des Ziels."
+RifleMasteryRank7LongDesc,progression,skills,New,"Increase your fire rate, entity damage, weapon handling and reload speed with rifles by 38% and ignore an additional 20% of the targets armor.",ライフルでの連射速度、ダメージ、武器操作性、リロード速度を38%改善し、防具の20%を無視してダメージを与えます。,"Erhöhe Feuerrate, Schaden, Handhabung und Nachladetempo mit Gewehren um 38%. Ignoriere zudem 20% der Rüstung des Ziels."
+RifleMasteryRank8LongDesc,progression,skills,New,"Increase your fire rate, entity damage, weapon handling and reload speed with rifles by 42% and ignore an additional 20% of the targets armor.",ライフルでの連射速度、ダメージ、武器操作性、リロード速度を42%改善し、防具の20%を無視してダメージを与えます。,"Erhöhe Feuerrate, Schaden, Handhabung und Nachladetempo mit Gewehren um 42%. Ignoriere zudem 20% der Rüstung des Ziels."
+RifleMasteryRank9LongDesc,progression,skills,New,"Increase your fire rate, entity damage, weapon handling and reload speed with rifles by 46% and ignore an additional 20% of the targets armor.",ライフルでの連射速度、ダメージ、武器操作性、リロード速度を46%改善し、防具の20%を無視してダメージを与えます。,"Erhöhe Feuerrate, Schaden, Handhabung und Nachladetempo mit Gewehren um 46%. Ignoriere zudem 20% der Rüstung des Ziels."
+RifleMasteryRank10LongDesc,progression,skills,New,"Increase your fire rate, entity damage, weapon handling and reload speed with rifles by 50% and ignore an additional 40% of the targets armor.",ライフルでの連射速度、ダメージ、武器操作性、リロード速度を50%改善し、防具の40%を無視してダメージを与えます。,"Erhöhe Feuerrate, Schaden, Handhabung und Nachladetempo mit Gewehren um 50%. Ignoriere zudem 40% der Rüstung des Ziels."
+
+MGMasteryName,progression,skills,New,MG Mastery,マシンガンマスター,MG-Experte
+MGMasteryDesc,progression,skills,New,You've mastered the arts of automatic rifles.,マシンガンの扱いをマスターした。,Du hast dich auf den Umgang mit Sturmgewehren spezialisiert.
+MGMasteryRank1Desc,progression,skills,New,"+6% Fire Rate, Entity Damage, Weapon Handling, Reload Speed, Clip Size.",マシンガン系性能+6%,"+6% Feuerrate, Schaden, Waffenhandhabung, Nachladetempo, Magazingröße."
+MGMasteryRank2Desc,progression,skills,New,"+12% Fire Rate, Entity Damage, Weapon Handling, Reload Speed, Clip Size.",マシンガン系性能+12%,"+12% Feuerrate, Schaden, Waffenhandhabung, Nachladetempo, Magazingröße."
+MGMasteryRank3Desc,progression,skills,New,"+18% Fire Rate, Entity Damage, Weapon Handling, Reload Speed, Clip Size.",マシンガン系性能+18%,"+18% Feuerrate, Schaden, Waffenhandhabung, Nachladetempo, Magazingröße."
+MGMasteryRank4Desc,progression,skills,New,"+24% Fire Rate, Entity Damage, Weapon Handling, Reload Speed, Clip Size.",マシンガン系性能+24%,"+24% Feuerrate, Schaden, Waffenhandhabung, Nachladetempo, Magazingröße."
+MGMasteryRank5Desc,progression,skills,New,"+30% Fire Rate, Entity Damage, Weapon Handling, Reload Speed, Clip Size\n-12,5% Degradation.",マシンガン系性能+30%\n武器劣化-12.5%,"+30% Feuerrate, Schaden, Waffenhandhabung, Nachladetempo, Magazingröße.\n-12,5% Abnutzung."
+MGMasteryRank6Desc,progression,skills,New,"+34% Fire Rate, Entity Damage, Weapon Handling, Reload Speed, Clip Size\n-12,5% Degradation.",マシンガン系性能+34%\n武器劣化-12.5%,"+34% Feuerrate, Schaden, Waffenhandhabung, Nachladetempo, Magazingröße.\n-12,5% Abnutzung."
+MGMasteryRank7Desc,progression,skills,New,"+38% Fire Rate, Entity Damage, Weapon Handling, Reload Speed, Clip Size\n-12,5% Degradation.",マシンガン系性能+38%\n武器劣化-12.5%,"+38% Feuerrate, Schaden, Waffenhandhabung, Nachladetempo, Magazingröße.\n-12,5% Abnutzung."
+MGMasteryRank8Desc,progression,skills,New,"+42% Fire Rate, Entity Damage, Weapon Handling, Reload Speed, Clip Size\n-12,5% Degradation.",マシンガン系性能+42%\n武器劣化-12.5%,"+42% Feuerrate, Schaden, Waffenhandhabung, Nachladetempo, Magazingröße.\n-12,5% Abnutzung."
+MGMasteryRank9Desc,progression,skills,New,"+46% Fire Rate, Entity Damage, Weapon Handling, Reload Speed, Clip Size\n-12,5% Degradation.",マシンガン系性能+46%\n武器劣化-12.5%,"+46% Feuerrate, Schaden, Waffenhandhabung, Nachladetempo, Magazingröße.\n-12,5% Abnutzung."
+MGMasteryRank10Desc,progression,skills,New,"+50% Fire Rate, Entity Damage, Weapon Handling, Reload Speed, Clip Size\n-25% Degradation.",マシンガン系性能+50%\n武器劣化-25%,"+50% Feuerrate, Schaden, Waffenhandhabung, Nachladetempo, Magazingröße.\n-25% Abnutzung."
+MGMasteryRank1LongDesc,progression,skills,New,"Increase your fire rate, entity damage, weapon handling, clip size and reload speed with machine guns by 6%",マシンガンでの連射速度、ダメージ、武器操作性、リロード速度、装弾数を6%改善します。,"Erhöhe Feuerrate, Schaden, Handhabung, Nachladetempo und Magazingröße mit Sturmgewehren um 6%."
+MGMasteryRank2LongDesc,progression,skills,New,"Increase your fire rate, entity damage, weapon handling, clip size and reload speed with machine guns by 12%",マシンガンでの連射速度、ダメージ、武器操作性、リロード速度、装弾数を12%改善します。,"Erhöhe Feuerrate, Schaden, Handhabung, Nachladetempo und Magazingröße mit Sturmgewehren um 12%."
+MGMasteryRank3LongDesc,progression,skills,New,"Increase your fire rate, entity damage, weapon handling, clip size and reload speed with machine guns by 18%",マシンガンでの連射速度、ダメージ、武器操作性、リロード速度、装弾数を18%改善します。,"Erhöhe Feuerrate, Schaden, Handhabung, Nachladetempo und Magazingröße mit Sturmgewehren um 18%."
+MGMasteryRank4LongDesc,progression,skills,New,"Increase your fire rate, entity damage, weapon handling, clip size and reload speed with machine guns by 24%",マシンガンでの連射速度、ダメージ、武器操作性、リロード速度、装弾数を24%改善します。,"Erhöhe Feuerrate, Schaden, Handhabung, Nachladetempo und Magazingröße mit Sturmgewehren um 24%."
+MGMasteryRank5LongDesc,progression,skills,New,"Increase your fire rate, entity damage, weapon handling, clip size and reload speed with machine guns by 30%. Also reduce their degradation by 12,5%.",マシンガンでの連射速度、ダメージ、武器操作性、リロード速度、装弾数を30%改善し、武器の摩耗を12.5%軽減します。,"Erhöhe Feuerrate, Schaden, Handhabung, Nachladetempo und Magazingröße mit Sturmgewehren um 30%. Zusätzlich verringert sich die Abnutzung um 12,5%."
+MGMasteryRank6LongDesc,progression,skills,New,"Increase your fire rate, entity damage, weapon handling, clip size and reload speed with machine guns by 34%. Also reduce their degradation by 12,5%.",マシンガンでの連射速度、ダメージ、武器操作性、リロード速度、装弾数を34%改善し、武器の摩耗を12.5%軽減します。,"Erhöhe Feuerrate, Schaden, Handhabung, Nachladetempo und Magazingröße mit Sturmgewehren um 34%. Zusätzlich verringert sich die Abnutzung um 12,5%."
+MGMasteryRank7LongDesc,progression,skills,New,"Increase your fire rate, entity damage, weapon handling, clip size and reload speed with machine guns by 38%. Also reduce their degradation by 12,5%.",マシンガンでの連射速度、ダメージ、武器操作性、リロード速度、装弾数を38%改善し、武器の摩耗を12.5%軽減します。,"Erhöhe Feuerrate, Schaden, Handhabung, Nachladetempo und Magazingröße mit Sturmgewehren um 38%. Zusätzlich verringert sich die Abnutzung um 12,5%."
+MGMasteryRank8LongDesc,progression,skills,New,"Increase your fire rate, entity damage, weapon handling, clip size and reload speed with machine guns by 42%. Also reduce their degradation by 12,5%.",マシンガンでの連射速度、ダメージ、武器操作性、リロード速度、装弾数を42%改善し、武器の摩耗を12.5%軽減します。,"Erhöhe Feuerrate, Schaden, Handhabung, Nachladetempo und Magazingröße mit Sturmgewehren um 42%. Zusätzlich verringert sich die Abnutzung um 12,5%."
+MGMasteryRank9LongDesc,progression,skills,New,"Increase your fire rate, entity damage, weapon handling, clip size and reload speed with machine guns by 46%. Also reduce their degradation by 12,5%.",マシンガンでの連射速度、ダメージ、武器操作性、リロード速度、装弾数を46%改善し、武器の摩耗を12.5%軽減します。,"Erhöhe Feuerrate, Schaden, Handhabung, Nachladetempo und Magazingröße mit Sturmgewehren um 46%. Zusätzlich verringert sich die Abnutzung um 12,5%."
+MGMasteryRank10LongDesc,progression,skills,New,"Increase your fire rate, entity damage, weapon handling, clip size and reload speed with machine guns by 50%. Also reduce their degradation by 25%.",マシンガンでの連射速度、ダメージ、武器操作性、リロード速度、装弾数を50%改善し、武器の摩耗を25%軽減します。,"Erhöhe Feuerrate, Schaden, Handhabung, Nachladetempo und Magazingröße mit Sturmgewehren um 50%. Zusätzlich verringert sich die Abnutzung um 25%."
+
+SidearmMasteryName,progression,skills,New,Sidearm Mastery,サイドアームマスター,Handfeuerwaffen-Experte
+SidearmMasteryDesc,progression,skills,New,You've mastered the arts of sidearms.,サイドアームの扱いをマスターした。,Du hast dich auf den Umgang mit Handfeuerwaffen spezialisiert.
+SidearmMasteryRank1Desc,progression,skills,New,"+6% Fire Rate, Entity Damage, Weapon Handling, Reload Speed, Clip Size.",サイドアーム系性能+6%,"+6% Feuerrate, Schaden, Waffenhandhabung, Magazingröße, Nachladetempo."
+SidearmMasteryRank2Desc,progression,skills,New,"+12% Fire Rate, Entity Damage, Weapon Handling, Reload Speed, Clip Size.",サイドアーム系性能+12%,"+12% Feuerrate, Schaden, Waffenhandhabung, Magazingröße, Nachladetempo."
+SidearmMasteryRank3Desc,progression,skills,New,"+18% Fire Rate, Entity Damage, Weapon Handling, Reload Speed, Clip Size.",サイドアーム系性能+18%,"+18% Feuerrate, Schaden, Waffenhandhabung, Magazingröße, Nachladetempo."
+SidearmMasteryRank4Desc,progression,skills,New,"+24% Fire Rate, Entity Damage, Weapon Handling, Reload Speed, Clip Size.",サイドアーム系性能+24%,"+24% Feuerrate, Schaden, Waffenhandhabung, Magazingröße, Nachladetempo."
+SidearmMasteryRank5Desc,progression,skills,New,"+30% Fire Rate, Entity Damage, Weapon Handling, Reload Speed, Clip Size\n+12,5% Accuracy.",サイドアーム系性能+30%\n精度+12.5%,"+30% Feuerrate, Schaden, Waffenhandhabung, Magazingröße, Nachladetempo.\n+12,5% Genauigkeit."
+SidearmMasteryRank6Desc,progression,skills,New,"+34% Fire Rate, Entity Damage, Weapon Handling, Reload Speed, Clip Size\n+12,5% Accuracy.",サイドアーム系性能+34%\n精度+12.5%,"+34% Feuerrate, Schaden, Waffenhandhabung, Magazingröße, Nachladetempo.\n+12,5% Genauigkeit."
+SidearmMasteryRank7Desc,progression,skills,New,"+38% Fire Rate, Entity Damage, Weapon Handling, Reload Speed, Clip Size\n+12,5% Accuracy.",サイドアーム系性能+38%\n精度+12.5%,"+38% Feuerrate, Schaden, Waffenhandhabung, Magazingröße, Nachladetempo.\n+12,5% Genauigkeit."
+SidearmMasteryRank8Desc,progression,skills,New,"+42% Fire Rate, Entity Damage, Weapon Handling, Reload Speed, Clip Size\n+12,5% Accuracy.",サイドアーム系性能+42%\n精度+12.5%,"+42% Feuerrate, Schaden, Waffenhandhabung, Magazingröße, Nachladetempo.\n+12,5% Genauigkeit."
+SidearmMasteryRank9Desc,progression,skills,New,"+46% Fire Rate, Entity Damage, Weapon Handling, Reload Speed, Clip Size\n+12,5% Accuracy.",サイドアーム系性能+46%\n精度+12.5%,"+46% Feuerrate, Schaden, Waffenhandhabung, Magazingröße, Nachladetempo.\n+12,5% Genauigkeit."
+SidearmMasteryRank10Desc,progression,skills,New,"+50% Fire Rate, Entity Damage, Weapon Handling, Reload Speed, Clip Size\n+25% Accuracy.",サイドアーム系性能+50%\n精度+25%,"+50% Feuerrate, Schaden, Waffenhandhabung, Magazingröße, Nachladetempo.\n+25% Genauigkeit."
+SidearmMasteryRank1LongDesc,progression,skills,New,"Increase your fire rate, entity damage, weapon handling, clip size, reload speed with sidearms by 6%",サイドアームでの連射速度、ダメージ、武器操作性、リロード速度、装弾数を6%改善します。,"Erhöhe Feuerrate, Schaden, Handhabung, Nachladetempo und Magazingröße mit Handfeuerwaffen um 6%."
+SidearmMasteryRank2LongDesc,progression,skills,New,"Increase your fire rate, entity damage, weapon handling, clip size, reload speed with sidearms by 12%",サイドアームでの連射速度、ダメージ、武器操作性、リロード速度、装弾数を12%改善します。,"Erhöhe Feuerrate, Schaden, Handhabung, Nachladetempo und Magazingröße mit Handfeuerwaffen um 12%."
+SidearmMasteryRank3LongDesc,progression,skills,New,"Increase your fire rate, entity damage, weapon handling, clip size, reload speed with sidearms by 18%",サイドアームでの連射速度、ダメージ、武器操作性、リロード速度、装弾数を18%改善します。,"Erhöhe Feuerrate, Schaden, Handhabung, Nachladetempo und Magazingröße mit Handfeuerwaffen um 18%."
+SidearmMasteryRank4LongDesc,progression,skills,New,"Increase your fire rate, entity damage, weapon handling, clip size, reload speed with sidearms by 24%",サイドアームでの連射速度、ダメージ、武器操作性、リロード速度、装弾数を24%改善します。,"Erhöhe Feuerrate, Schaden, Handhabung, Nachladetempo und Magazingröße mit Handfeuerwaffen um 24%."
+SidearmMasteryRank5LongDesc,progression,skills,New,"Increase your fire rate, entity damage, weapon handling, clip size, reload speed with sidearms by 30% and reduce their spread by an additional 12,5%.",サイドアームでの連射速度、ダメージ、武器操作性、リロード速度、装弾数を30%改善し、武器の精度を12.5%上昇させます。,"Erhöhe Feuerrate, Schaden, Handhabung, Nachladetempo und Magazingröße mit Handfeuerwaffen um 30%. Außerdem steigt ihre Genauigkeit um 12,5%"
+SidearmMasteryRank6LongDesc,progression,skills,New,"Increase your fire rate, entity damage, weapon handling, clip size, reload speed with sidearms by 34% and reduce their spread by an additional 12,5%.",サイドアームでの連射速度、ダメージ、武器操作性、リロード速度、装弾数を34%改善し、武器の精度を12.5%上昇させます。,"Erhöhe Feuerrate, Schaden, Handhabung, Nachladetempo und Magazingröße mit Handfeuerwaffen um 34%. Außerdem steigt ihre Genauigkeit um 12,5%"
+SidearmMasteryRank7LongDesc,progression,skills,New,"Increase your fire rate, entity damage, weapon handling, clip size, reload speed with sidearms by 38% and reduce their spread by an additional 12,5%.",サイドアームでの連射速度、ダメージ、武器操作性、リロード速度、装弾数を38%改善し、武器の精度を12.5%上昇させます。,"Erhöhe Feuerrate, Schaden, Handhabung, Nachladetempo und Magazingröße mit Handfeuerwaffen um 38%. Außerdem steigt ihre Genauigkeit um 12,5%"
+SidearmMasteryRank8LongDesc,progression,skills,New,"Increase your fire rate, entity damage, weapon handling, clip size, reload speed with sidearms by 42% and reduce their spread by an additional 12,5%.",サイドアームでの連射速度、ダメージ、武器操作性、リロード速度、装弾数を42%改善し、武器の精度を12.5%上昇させます。,"Erhöhe Feuerrate, Schaden, Handhabung, Nachladetempo und Magazingröße mit Handfeuerwaffen um 42%. Außerdem steigt ihre Genauigkeit um 12,5%"
+SidearmMasteryRank9LongDesc,progression,skills,New,"Increase your fire rate, entity damage, weapon handling, clip size, reload speed with sidearms by 46% and reduce their spread by an additional 12,5%.",サイドアームでの連射速度、ダメージ、武器操作性、リロード速度、装弾数を46%改善し、武器の精度を12.5%上昇させます。,"Erhöhe Feuerrate, Schaden, Handhabung, Nachladetempo und Magazingröße mit Handfeuerwaffen um 46%. Außerdem steigt ihre Genauigkeit um 12,5%"
+SidearmMasteryRank10LongDesc,progression,skills,New,"Increase your fire rate, entity damage, weapon handling, clip size, reload speed with sidearms by 50% and reduce their spread by an additional 25%.",サイドアームでの連射速度、ダメージ、武器操作性、リロード速度、装弾数を50%改善し、武器の精度を25%上昇させます。,"Erhöhe Feuerrate, Schaden, Handhabung, Nachladetempo und Magazingröße mit Handfeuerwaffen um 50%. Außerdem steigt ihre Genauigkeit um 25%"
+
+ShotgunMasteryName,progression,skills,New,Shotgun Mastery,ショットガンマスター,Schrotflinten-Experte
+ShotgunMasteryDesc,progression,skills,New,You've mastered the arts of the shotgun.,ショットガンの扱いをマスターした。,Du hast dich auf den Umgang mit Schrotflinten spezialisiert.
+ShotgunMasteryRank1Desc,progression,skills,New,"+6% Fire Rate, Entity Damage, Weapon Handling, Reload Speed, Clip Size.",ショットガン系性能+6%,"+6% Feuerrate, Schaden, Waffenhandhabung und Nachladetempo, Magazingröße."
+ShotgunMasteryRank2Desc,progression,skills,New,"+12% Fire Rate, Entity Damage, Weapon Handling, Reload Speed, Clip Size.",ショットガン系性能+12%,"+12% Feuerrate, Schaden, Waffenhandhabung und Nachladetempo, Magazingröße."
+ShotgunMasteryRank3Desc,progression,skills,New,"+18% Fire Rate, Entity Damage, Weapon Handling, Reload Speed, Clip Size.",ショットガン系性能+18%,"+18% Feuerrate, Schaden, Waffenhandhabung und Nachladetempo, Magazingröße."
+ShotgunMasteryRank4Desc,progression,skills,New,"+24% Fire Rate, Entity Damage, Weapon Handling, Reload Speed, Clip Size.",ショットガン系性能+24%,"+24% Feuerrate, Schaden, Waffenhandhabung und Nachladetempo, Magazingröße."
+ShotgunMasteryRank5Desc,progression,skills,New,"+30% Fire Rate, Entity Damage, Weapon Handling, Reload Speed, Clip Size,\n+2m effective range.",ショットガン系性能+30%\n射程距離+2m,"+30% Feuerrate, Schaden, Waffenhandhabung und Nachladetempo, Magazingröße.\n+2m effektive Reichweite."
+ShotgunMasteryRank6Desc,progression,skills,New,"+34% Fire Rate, Entity Damage, Weapon Handling, Reload Speed, Clip Size,\n+2m effective range.",ショットガン系性能+34%\n射程距離+2m,"+34% Feuerrate, Schaden, Waffenhandhabung und Nachladetempo, Magazingröße.\n+2m effektive Reichweite."
+ShotgunMasteryRank7Desc,progression,skills,New,"+38% Fire Rate, Entity Damage, Weapon Handling, Reload Speed, Clip Size,\n+2m effective range.",ショットガン系性能+38%\n射程距離+2m,"+38% Feuerrate, Schaden, Waffenhandhabung und Nachladetempo, Magazingröße.\n+2m effektive Reichweite."
+ShotgunMasteryRank8Desc,progression,skills,New,"+42% Fire Rate, Entity Damage, Weapon Handling, Reload Speed, Clip Size,\n+2m effective range.",ショットガン系性能+42%\n射程距離+2m,"+42% Feuerrate, Schaden, Waffenhandhabung und Nachladetempo, Magazingröße.\n+2m effektive Reichweite."
+ShotgunMasteryRank9Desc,progression,skills,New,"+46% Fire Rate, Entity Damage, Weapon Handling, Reload Speed, Clip Size,\n+2m effective range.",ショットガン系性能+46%\n射程距離+2m,"+46% Feuerrate, Schaden, Waffenhandhabung und Nachladetempo, Magazingröße.\n+2m effektive Reichweite."
+ShotgunMasteryRank10Desc,progression,skills,New,"+50% Fire Rate, Entity Damage, Weapon Handling, Reload Speed, Clip Size,\n+4m effective range.",ショットガン系性能+50%\n射程距離+4m,"+50% Feuerrate, Schaden, Waffenhandhabung und Nachladetempo, Magazingröße.\n+4m effektive Reichweite."
+ShotgunMasteryRank1LongDesc,progression,skills,New,"Increase your fire rate, entity damage, weapon handling, clip size and reload speed with shotguns by 6%",ショットガンでの連射速度、ダメージ、武器操作性、リロード速度、装弾数を6%改善します。,"Erhöhe Feuerrate, Schaden, Handhabung, Nachladetempo und Magazingröße mit Schrotflinten um 6%."
+ShotgunMasteryRank2LongDesc,progression,skills,New,"Increase your fire rate, entity damage, weapon handling, clip size and reload speed with shotguns by 12%",ショットガンでの連射速度、ダメージ、武器操作性、リロード速度、装弾数を12%改善します。,"Erhöhe Feuerrate, Schaden, Handhabung, Nachladetempo und Magazingröße mit Schrotflinten um 12%."
+ShotgunMasteryRank3LongDesc,progression,skills,New,"Increase your fire rate, entity damage, weapon handling, clip size and reload speed with shotguns by 18%",ショットガンでの連射速度、ダメージ、武器操作性、リロード速度、装弾数を18%改善します。,"Erhöhe Feuerrate, Schaden, Handhabung, Nachladetempo und Magazingröße mit Schrotflinten um 18%."
+ShotgunMasteryRank4LongDesc,progression,skills,New,"Increase your fire rate, entity damage, weapon handling, clip size and reload speed with shotguns by 24%",ショットガンでの連射速度、ダメージ、武器操作性、リロード速度、装弾数を24%改善します。,"Erhöhe Feuerrate, Schaden, Handhabung, Nachladetempo und Magazingröße mit Schrotflinten um 24%."
+ShotgunMasteryRank5LongDesc,progression,skills,New,"Increase your fire rate, entity damage, weapon handling, clip size and reload speed with shotguns by 30%. Increase the maximum range at which shotguns deal full damage by 2m.",ショットガンでの連射速度、ダメージ、武器操作性、リロード速度、装弾数を30%改善し、武器の有効射程距離を2m延長します。,"Erhöhe Feuerrate, Schaden, Handhabung, Nachladetempo und Magazingröße mit Schrotflinten um 30%. Zudem erhöht sich die Reichweite, auf welche voller Schaden verursacht wird, um 2m"
+ShotgunMasteryRank6LongDesc,progression,skills,New,"Increase your fire rate, entity damage, weapon handling, clip size and reload speed with shotguns by 34%. Increase the maximum range at which shotguns deal full damage by 2m.",ショットガンでの連射速度、ダメージ、武器操作性、リロード速度、装弾数を34%改善し、武器の有効射程距離を2m延長します。,"Erhöhe Feuerrate, Schaden, Handhabung, Nachladetempo und Magazingröße mit Schrotflinten um 34%. Zudem erhöht sich die Reichweite, auf welche voller Schaden verursacht wird, um 2m"
+ShotgunMasteryRank7LongDesc,progression,skills,New,"Increase your fire rate, entity damage, weapon handling, clip size and reload speed with shotguns by 38%. Increase the maximum range at which shotguns deal full damage by 2m.",ショットガンでの連射速度、ダメージ、武器操作性、リロード速度、装弾数を38%改善し、武器の有効射程距離を2m延長します。,"Erhöhe Feuerrate, Schaden, Handhabung, Nachladetempo und Magazingröße mit Schrotflinten um 38%. Zudem erhöht sich die Reichweite, auf welche voller Schaden verursacht wird, um 2m"
+ShotgunMasteryRank8LongDesc,progression,skills,New,"Increase your fire rate, entity damage, weapon handling, clip size and reload speed with shotguns by 42%. Increase the maximum range at which shotguns deal full damage by 2m.",ショットガンでの連射速度、ダメージ、武器操作性、リロード速度、装弾数を42%改善し、武器の有効射程距離を2m延長します。,"Erhöhe Feuerrate, Schaden, Handhabung, Nachladetempo und Magazingröße mit Schrotflinten um 42%. Zudem erhöht sich die Reichweite, auf welche voller Schaden verursacht wird, um 2m"
+ShotgunMasteryRank9LongDesc,progression,skills,New,"Increase your fire rate, entity damage, weapon handling, clip size and reload speed with shotguns by 46%. Increase the maximum range at which shotguns deal full damage by 2m.",ショットガンでの連射速度、ダメージ、武器操作性、リロード速度、装弾数を46%改善し、武器の有効射程距離を2m延長します。,"Erhöhe Feuerrate, Schaden, Handhabung, Nachladetempo und Magazingröße mit Schrotflinten um 46%. Zudem erhöht sich die Reichweite, auf welche voller Schaden verursacht wird, um 2m"
+ShotgunMasteryRank10LongDesc,progression,skills,New,"Increase your fire rate, entity damage, weapon handling, clip size and reload speed with shotguns by 50%. Increase the maximum range at which shotguns deal full damage by 4m.",ショットガンでの連射速度、ダメージ、武器操作性、リロード速度、装弾数を50%改善し、武器の有効射程距離を4m延長します。,"Erhöhe Feuerrate, Schaden, Handhabung, Nachladetempo und Magazingröße mit Schrotflinten um 50%. Zudem erhöht sich die Reichweite, auf welche voller Schaden verursacht wird, um 4m" 
+
+HiddenTreasuresName,progression,skills,New,Hidden Treasures,隠された戦利品,Versteckte Schätze
+HiddenTreasuresDesc,progression,skills,New,You're even more observant now and know where to look for the good stuff. Find even more and better loot now.,観察力が増し、どこを探せば良い物があるか分かってきました。より早く、より良い戦利品を見つけることができるようになりました。,"Du bist noch aufmerksamer geworden und weißt, wo du nach dem guten Zeug suchen musst. Dadurch findest du jetzt noch mehr und bessere Beute."
+HiddenTreasuresRank1Desc,progression,skills,New,"+3% Loot Bonus, looting speed",ルートボーナス、スピード+3%,"+3% Beutebonus, Plündertempo"
+HiddenTreasuresRank2Desc,progression,skills,New,"+6% Loot Bonus, looting speed",ルートボーナス、スピード+6%,"+6% Beutebonus, Plündertempo"
+HiddenTreasuresRank3Desc,progression,skills,New,"+9% Loot Bonus, looting speed",ルートボーナス、スピード+9%,"+9% Beutebonus, Plündertempo"
+HiddenTreasuresRank4Desc,progression,skills,New,"+12% Loot Bonus, looting speed",ルートボーナス、スピード+12%,"+12% Beutebonus, Plündertempo"
+HiddenTreasuresRank5Desc,progression,skills,New,"+15% Loot Bonus, looting speed\n10% more loot from treasures",ルートボーナス、スピード+15%\nトレジャーアイテム+10%,"+15% Beutebonus, Plündertempo\n+10% mehr Beute aus Schätzen"
+HiddenTreasuresRank6Desc,progression,skills,New,"+16% Loot Bonus, looting speed\n10% more loot from treasures",ルートボーナス、スピード+16%\nトレジャーアイテム+10%,"+16% Beutebonus, Plündertempo\n+10% mehr Beute aus Schätzen"
+HiddenTreasuresRank7Desc,progression,skills,New,"+17% Loot Bonus, looting speed\n10% more loot from treasures",ルートボーナス、スピード+17%\nトレジャーアイテム+10%,"+17% Beutebonus, Plündertempo\n+10% mehr Beute aus Schätzen"
+HiddenTreasuresRank8Desc,progression,skills,New,"+18% Loot Bonus, looting speed\n10% more loot from treasures",ルートボーナス、スピード+18%\nトレジャーアイテム+10%,"+18% Beutebonus, Plündertempo\n+10% mehr Beute aus Schätzen"
+HiddenTreasuresRank9Desc,progression,skills,New,"+19% Loot Bonus, looting speed\n10% more loot from treasures",ルートボーナス、スピード+19%\nトレジャーアイテム+10%,"+19% Beutebonus, Plündertempo\n+10% mehr Beute aus Schätzen"
+HiddenTreasuresRank10Desc,progression,skills,New,"+20% Loot Bonus, looting speed\n20% more loot from treasures",ルートボーナス、スピード+20%\nトレジャーアイテム+20%,"+20% Beutebonus, Plündertempo\n+20% mehr Beute aus Schätzen"
+HiddenTreasuresRank1LongDesc,progression,skills,New,"Add an additional 3% to the Loot Bonus and your looting speed.",3%のルートボーナスとスピードを同値高速化。,"Erhöhe den Beutebonus und das Plündertempo um weitere 3%."
+HiddenTreasuresRank2LongDesc,progression,skills,New,"Add an additional 6% to the Loot Bonus and to your looting speed.",6%のルートボーナスとスピードを同値高速化。,"Erhöhe den Beutebonus und das Plündertempo um weitere 6%."
+HiddenTreasuresRank3LongDesc,progression,skills,New,"Add an additional 9% to the Loot Bonus and to your looting speed.",9%のルートボーナスとスピードを同値高速化。,"Erhöhe den Beutebonus und das Plündertempo um weitere 9%."
+HiddenTreasuresRank4LongDesc,progression,skills,New,"Add an additional 12% to the Loot Bonus and to your looting speed.",12%のルートボーナスとスピードを同値高速化。,"Erhöhe den Beutebonus und das Plündertempo um weitere 12%."
+HiddenTreasuresRank5LongDesc,progression,skills,New,"Add an additional 15% to the Loot Bonus and to your looting speed. Find 10% more loot in treasures.",15%のルートボーナスとスピードを同値高速化し、トレジャーアイテムを10%増やす。,"Erhöhe den Beutebonus und das Plündertempo um weitere 15%. Zudem findest du in Schätzen 10% mehr Beute."
+HiddenTreasuresRank6LongDesc,progression,skills,New,"Add an additional 16% to the Loot Bonus and to your looting speed. Find 10% more loot in treasures.",16%のルートボーナスとスピードを同値高速化し、トレジャーアイテムを10%増やす。,"Erhöhe den Beutebonus und das Plündertempo um weitere 16%. Zudem findest du in Schätzen 10% mehr Beute."
+HiddenTreasuresRank7LongDesc,progression,skills,New,"Add an additional 17% to the Loot Bonus and to your looting speed. Find 10% more loot in treasures.",17%のルートボーナスとスピードを同値高速化し、トレジャーアイテムを10%増やす。,"Erhöhe den Beutebonus und das Plündertempo um weitere 17%. Zudem findest du in Schätzen 10% mehr Beute."
+HiddenTreasuresRank8LongDesc,progression,skills,New,"Add an additional 18% to the Loot Bonus and to your looting speed. Find 10% more loot in treasures.",18%のルートボーナスとスピードを同値高速化し、トレジャーアイテムを10%増やす。,"Erhöhe den Beutebonus und das Plündertempo um weitere 18%. Zudem findest du in Schätzen 10% mehr Beute."
+HiddenTreasuresRank9LongDesc,progression,skills,New,"Add an additional 19% to the Loot Bonus and to your looting speed. Find 10% more loot in treasures.",19%のルートボーナスとスピードを同値高速化し、トレジャーアイテムを10%増やす。,"Erhöhe den Beutebonus und das Plündertempo um weitere 19%. Zudem findest du in Schätzen 10% mehr Beute."
+HiddenTreasuresRank10LongDesc,progression,skills,New,"Add an additional 20% to the Loot Bonus and to your looting speed. Find 20% more loot in treasures.",20%のルートボーナスとスピードを同値高速化し、トレジャーアイテムを20%増やす。,"Erhöhe den Beutebonus und das Plündertempo um weitere 20%. Zudem findest du in Schätzen 20% mehr Beute."
+
+DismembermentName,progression,skills,New,Dismemberment,四肢切断,Verstümmelung
+DismembermentDesc,progression,skills,New,With practice you've gotten better at aiming for weak spots to get even more lethal hits and as you improve you gain additional chances to dismember!,部位へのクリティカルヒットを狙う。部位破壊をする確率を上昇させる。,"Ziele auf die Schwachstellen, für noch todbringendere Angriffe."
+DismembermentRank1Desc,progression,skills,New,3% Dismember Chance,部位破壊率+3%,+3% Chance auf Zergliederung
+DismembermentRank2Desc,progression,skills,New,6% Dismember Chance,部位破壊率+6%,+6% Chance auf Zergliederung
+DismembermentRank3Desc,progression,skills,New,9% Dismember Chance,部位破壊率+9%,+9% Chance auf Zergliederung
+DismembermentRank4Desc,progression,skills,New,12% Dismember Chance,部位破壊率+12%,+12% Chance auf Zergliederung
+DismembermentRank5Desc,progression,skills,New,15% Dismember Chance,部位破壊率+15%,+15% Chance auf Zergliederung
+DismembermentRank6Desc,progression,skills,New,16% Dismember Chance,部位破壊率+16%,+16% Chance auf Zergliederung
+DismembermentRank7Desc,progression,skills,New,17% Dismember Chance,部位破壊率+17%,+17% Chance auf Zergliederung
+DismembermentRank8Desc,progression,skills,New,18% Dismember Chance,部位破壊率+18%,+18% Chance auf Zergliederung
+DismembermentRank9Desc,progression,skills,New,19% Dismember Chance,部位破壊率+19%,+19% Chance auf Zergliederung
+DismembermentRank10Desc,progression,skills,New,20% Dismember Chance,部位破壊率+20%,+20% Chance auf Zergliederung
+DismembermentRank1LongDesc,progression,skills,New,Increase your chance of dismemberment by 3%.,部位破壊の確率を3%上昇させます。,"Erhöhe deine Chance Feinde zu zergliedern um 3%."
+DismembermentRank2LongDesc,progression,skills,New,Increase your chance of dismemberment by 6%.,部位破壊の確率を6%上昇させます。,"Erhöhe deine Chance Feinde zu zergliedern um 6%."
+DismembermentRank3LongDesc,progression,skills,New,Increase your chance of dismemberment by 9%.,部位破壊の確率を9%上昇させます。,"Erhöhe deine Chance Feinde zu zergliedern um 9%."
+DismembermentRank4LongDesc,progression,skills,New,Increase your chance of dismemberment by 12%.,部位破壊の確率を12%上昇させます。,"Erhöhe deine Chance Feinde zu zergliedern um 12%."
+DismembermentRank5LongDesc,progression,skills,New,Increase your chance of dismemberment by 15%.,部位破壊の確率を15%上昇させます。,"Erhöhe deine Chance Feinde zu zergliedern um 15%."
+DismembermentRank6LongDesc,progression,skills,New,Increase your chance of dismemberment by 16%.,部位破壊の確率を16%上昇させます。,"Erhöhe deine Chance Feinde zu zergliedern um 16%."
+DismembermentRank7LongDesc,progression,skills,New,Increase your chance of dismemberment by 17%.,部位破壊の確率を17%上昇させます。,"Erhöhe deine Chance Feinde zu zergliedern um 17%."
+DismembermentRank8LongDesc,progression,skills,New,Increase your chance of dismemberment by 18%.,部位破壊の確率を18%上昇させます。,"Erhöhe deine Chance Feinde zu zergliedern um 18%."
+DismembermentRank9LongDesc,progression,skills,New,Increase your chance of dismemberment by 19%.,部位破壊の確率を19%上昇させます。,"Erhöhe deine Chance Feinde zu zergliedern um 19%."
+DismembermentRank10LongDesc,progression,skills,New,Increase your chance of dismemberment by 20%.,部位破壊の確率を20%上昇させます。,"Erhöhe deine Chance Feinde zu zergliedern um 20%."
+
+SneakDamageName,progression,skills,New,Sneak Damage,スニークアタック,Schleichschaden
+SneakDamageDesc,progression,skills,New,Increase your Sneak Damage against unaware enemies.,スニークアタックダメージを増加させます。,Erhöhe deinen Schleichschaden gegen nichtsahnende Gegner.
+SneakDamageRank1Desc,progression,skills,New,+40% Sneak Damage,スニークダメージ+40%,+40% Schleichschaden
+SneakDamageRank2Desc,progression,skills,New,+80% Sneak Damage,スニークダメージ+80%,+80% Schleichschaden
+SneakDamageRank3Desc,progression,skills,New,+120% Sneak Damage,スニークダメージ+120%,+120% Schleichschaden
+SneakDamageRank4Desc,progression,skills,New,+160% Sneak Damage,スニークダメージ+160%,+160% Schleichschaden
+SneakDamageRank5Desc,progression,skills,New,+200% Sneak Damage,スニークダメージ+200%,+200% Schleichschaden
+SneakDamageRank6Desc,progression,skills,New,+220% Sneak Damage,スニークダメージ+220%,+220% Schleichschaden
+SneakDamageRank7Desc,progression,skills,New,+240% Sneak Damage,スニークダメージ+240%,+240% Schleichschaden
+SneakDamageRank8Desc,progression,skills,New,+260% Sneak Damage,スニークダメージ+260%,+260% Schleichschaden
+SneakDamageRank9Desc,progression,skills,New,+280% Sneak Damage,スニークダメージ+280%,+280% Schleichschaden
+SneakDamageRank10Desc,progression,skills,New,+300% Sneak Damage,スニークダメージ+300%,+300% Schleichschaden
+SneakDamageRank1LongDesc,progression,skills,New,Increase Sneak Damage by 40%,スニークアタックダメージを40%上昇させます。,Erhöhe deinen Schleichschaden um 40%.
+SneakDamageRank2LongDesc,progression,skills,New,Increase Sneak Damage by 80%,スニークアタックダメージを80%上昇させます。,Erhöhe deinen Schleichschaden um 80%.
+SneakDamageRank3LongDesc,progression,skills,New,Increase Sneak Damage by 120%,スニークアタックダメージを120%上昇させます。,Erhöhe deinen Schleichschaden um 120%.
+SneakDamageRank4LongDesc,progression,skills,New,Increase Sneak Damage by 160%,スニークアタックダメージを160%上昇させます。,Erhöhe deinen Schleichschaden um 160%.
+SneakDamageRank5LongDesc,progression,skills,New,Increase Sneak Damage by 200%,スニークアタックダメージを200%上昇させます。,Erhöhe deinen Schleichschaden um 200%.
+SneakDamageRank6LongDesc,progression,skills,New,Increase Sneak Damage by 220%,スニークアタックダメージを220%上昇させます。,Erhöhe deinen Schleichschaden um 220%.
+SneakDamageRank7LongDesc,progression,skills,New,Increase Sneak Damage by 240%,スニークアタックダメージを240%上昇させます。,Erhöhe deinen Schleichschaden um 240%.
+SneakDamageRank8LongDesc,progression,skills,New,Increase Sneak Damage by 260%,スニークアタックダメージを260%上昇させます。,Erhöhe deinen Schleichschaden um 260%.
+SneakDamageRank9LongDesc,progression,skills,New,Increase Sneak Damage by 280%,スニークアタックダメージを280%上昇させます。,Erhöhe deinen Schleichschaden um 280%.
+SneakDamageRank10LongDesc,progression,skills,New,Increase Sneak Damage by 300%,スニークアタックダメージを300%上昇させます。,Erhöhe deinen Schleichschaden um 300%.
+
+StealthName,progression,skills,New,Stealth,ステルス,Verstohlenheit
+StealthDesc,progression,skills,New,You're a sneaky mongrel thus enemies have an even harder time to detect you.,あなたは闇に潜む雑種です。敵から検知される可能性を低減させます。,"Einen hinterhältigen Bastard wie dich zu entdecken, fällt wirklich jedem schwer."
+StealthDamageRank1Desc,progression,skills,New,-4% visibility and noise\nLockpicks are 3% more efficient,視認性と騒音-4%\nピックロック効率+3%,"-4% Sichtbarkeit und Geräusche\nDietriche sind 3% effizienter."
+StealthDamageRank2Desc,progression,skills,New,-8% visibility and noise\nLockpicks are 6% more efficient,視認性と騒音-8%\nピックロック効率+6%,"-8% Sichtbarkeit und Geräusche\nDietriche sind 6% effizienter."
+StealthDamageRank3Desc,progression,skills,New,-12% visibility and noise\nLockpicks are 9% more efficient,視認性と騒音-12%\nピックロック効率+9%,"-12% Sichtbarkeit und Geräusche\nDietriche sind 9% effizienter."
+StealthDamageRank4Desc,progression,skills,New,-16% visibility and noise\nLockpicks are 12% more efficient,視認性と騒音-16%\nピックロック効率+12%,"-16% Sichtbarkeit und Geräusche\nDietriche sind 12% effizienter."
+StealthDamageRank5Desc,progression,skills,New,-20% visibility and noise\nLockpicks are 15% more efficient,視認性と騒音-20%\nピックロック効率+15%,"-20% Sichtbarkeit und Geräusche\nDietriche sind 15% effizienter."
+StealthDamageRank6Desc,progression,skills,New,-22% visibility and noise\nLockpicks are 16% more efficient,視認性と騒音-22%\nピックロック効率+16%,"-22% Sichtbarkeit und Geräusche\nDietriche sind 16% effizienter."
+StealthDamageRank7Desc,progression,skills,New,-24% visibility and noise\nLockpicks are 17% more efficient,視認性と騒音-24%\nピックロック効率+17%,"-24% Sichtbarkeit und Geräusche\nDietriche sind 17% effizienter."
+StealthDamageRank8Desc,progression,skills,New,-26% visibility and noise\nLockpicks are 18% more efficient,視認性と騒音-26%\nピックロック効率+18%,"-26% Sichtbarkeit und Geräusche\nDietriche sind 18% effizienter."
+StealthDamageRank9Desc,progression,skills,New,-28% visibility and noise\nLockpicks are 19% more efficient,視認性と騒音-28%\nピックロック効率+19%,"-28% Sichtbarkeit und Geräusche\nDietriche sind 19% effizienter."
+StealthDamageRank10Desc,progression,skills,New,-30% visibility and noise\nLockpicks are 20% more efficient,視認性と騒音-30%\nピックロック効率+20%,"-30% Sichtbarkeit und Geräusche\nDietriche sind 20% effizienter."
+StealthDamageRank1LongDesc,progression,skills,New,Decrease your visibility in light and the noise you make while crouching by 4%. Pick locks 3% faster and break less lockpicks.,光の中での視認性としゃがんでいる時の騒音を4%減少させ、ピックロック速度と破損率を3%改善します。,"Verringere deine Sichtbarkeit und verursachten Geräusche, während du schleichst, um 4%. Zudem knackst du Schlösser 3% schneller und brichst weniger Dietriche ab." 
+StealthDamageRank2LongDesc,progression,skills,New,Decrease your visibility in light and the noise you make while crouching by 8%. Pick locks 6% faster and break less lockpicks.,光の中での視認性としゃがんでいる時の騒音を8%減少させ、ピックロック速度と破損率を6%改善します。,"Verringere deine Sichtbarkeit und verursachten Geräusche, während du schleichst, um 8%. Zudem knackst du Schlösser 6% schneller und brichst weniger Dietriche ab." 
+StealthDamageRank3LongDesc,progression,skills,New,Decrease your visibility in light and the noise you make while crouching by 12%. Pick locks 9% faster and break less lockpicks.,光の中での視認性としゃがんでいる時の騒音を12%減少させ、ピックロック速度と破損率を9%改善します。,"Verringere deine Sichtbarkeit und verursachten Geräusche, während du schleichst, um 12%. Zudem knackst du Schlösser 9% schneller und brichst weniger Dietriche ab." 
+StealthDamageRank4LongDesc,progression,skills,New,Decrease your visibility in light and the noise you make while crouching by 16%. Pick locks 12% faster and break less lockpicks.,光の中での視認性としゃがんでいる時の騒音を16%減少させ、ピックロック速度と破損率を12%改善します。,"Verringere deine Sichtbarkeit und verursachten Geräusche, während du schleichst, um 16%. Zudem knackst du Schlösser 12% schneller und brichst weniger Dietriche ab." 
+StealthDamageRank5LongDesc,progression,skills,New,Decrease your visibility in light and the noise you make while crouching by 20%. Pick locks 15% faster and break less lockpicks.,光の中での視認性としゃがんでいる時の騒音を20%減少させ、ピックロック速度と破損率を15%改善します。,"Verringere deine Sichtbarkeit und verursachten Geräusche, während du schleichst, um 20%. Zudem knackst du Schlösser 15% schneller und brichst weniger Dietriche ab." 
+StealthDamageRank6LongDesc,progression,skills,New,Decrease your visibility in light and the noise you make while crouching by 22%. Pick locks 16% faster and break less lockpicks.,光の中での視認性としゃがんでいる時の騒音を22%減少させ、ピックロック速度と破損率を16%改善します。,"Verringere deine Sichtbarkeit und verursachten Geräusche, während du schleichst, um 22%. Zudem knackst du Schlösser 16% schneller und brichst weniger Dietriche ab." 
+StealthDamageRank7LongDesc,progression,skills,New,Decrease your visibility in light and the noise you make while crouching by 24%. Pick locks 17% faster and break less lockpicks.,光の中での視認性としゃがんでいる時の騒音を24%減少させ、ピックロック速度と破損率を17%改善します。,"Verringere deine Sichtbarkeit und verursachten Geräusche, während du schleichst, um 24%. Zudem knackst du Schlösser 17% schneller und brichst weniger Dietriche ab." 
+StealthDamageRank8LongDesc,progression,skills,New,Decrease your visibility in light and the noise you make while crouching by 26%. Pick locks 18% faster and break less lockpicks.,光の中での視認性としゃがんでいる時の騒音を26%減少させ、ピックロック速度と破損率を18%改善します。,"Verringere deine Sichtbarkeit und verursachten Geräusche, während du schleichst, um 26%. Zudem knackst du Schlösser 18% schneller und brichst weniger Dietriche ab." 
+StealthDamageRank9LongDesc,progression,skills,New,Decrease your visibility in light and the noise you make while crouching by 28%. Pick locks 19% faster and break less lockpicks.,光の中での視認性としゃがんでいる時の騒音を28%減少させ、ピックロック速度と破損率を19%改善します。,"Verringere deine Sichtbarkeit und verursachten Geräusche, während du schleichst, um 28%. Zudem knackst du Schlösser 19% schneller und brichst weniger Dietriche ab." 
+StealthDamageRank10LongDesc,progression,skills,New,Decrease your visibility in light and the noise you make while crouching by 30%. Pick locks 20% faster and break less lockpicks.,光の中での視認性としゃがんでいる時の騒音を30%減少させ、ピックロック速度と破損率を20%改善します。,"Verringere deine Sichtbarkeit und verursachten Geräusche, während du schleichst, um 30%. Zudem knackst du Schlösser 20% schneller und brichst weniger Dietriche ab." 
+
+SenseMineralsName,progression,skills,New,Sense Minerals,直感採掘(石),Gespür für Minerale
+SenseMineralsDesc,progression,skills,New,You've acquired the knowledge to better learn how to sometimes find minerals when mining regular stones. Each rank increases the multiplier for the additional loot you can find.,普通の石を採掘するときに、たまに鉱物類を見つける知識を身につけました。ランクが上がるごとに入手倍率が上昇します。,"Du hast herausgefunden wie du in Steinen Mineralien finden kannst. Jeder Rang erhöht die Menge an Mineralien, die du finden kannst."
+SenseMineralsRank1Desc,progression,skills,New,"Gather additional ores out of stone blocks.",鉱石類入手,"Sammle zusätzliches Erz aus Steinblöcken."
+SenseMineralsRank2Desc,progression,skills,New,"Gather additional ores out of stone blocks.",鉱石類入手,"Sammle zusätzliches Erz aus Steinblöcken."
+SenseMineralsRank3Desc,progression,skills,New,"Gather additional ores out of stone blocks.",鉱石類入手,"Sammle zusätzliches Erz aus Steinblöcken."
+SenseMineralsRank4Desc,progression,skills,New,"Gather additional ores out of stone blocks.",鉱石類入手,"Sammle zusätzliches Erz aus Steinblöcken."
+SenseMineralsRank5Desc,progression,skills,New,"Gather additional ores out of stone blocks.",鉱石類入手,"Sammle zusätzliches Erz aus Steinblöcken."
+SenseMineralsRank6Desc,progression,skills,New,"Gather additional ores out of stone blocks.",鉱石類入手,"Sammle zusätzliches Erz aus Steinblöcken."
+SenseMineralsRank7Desc,progression,skills,New,"Gather additional ores out of stone blocks.",鉱石類入手,"Sammle zusätzliches Erz aus Steinblöcken."
+SenseMineralsRank8Desc,progression,skills,New,"Gather additional ores out of stone blocks.",鉱石類入手,"Sammle zusätzliches Erz aus Steinblöcken."
+SenseMineralsRank9Desc,progression,skills,New,"Gather additional ores out of stone blocks.",鉱石類入手,"Sammle zusätzliches Erz aus Steinblöcken."
+SenseMineralsRank10Desc,progression,skills,New,"Gather additional ores out of stone blocks.",鉱石類入手,"Sammle zusätzliches Erz aus Steinblöcken."
+SenseMineralsRank1LongDesc,progression,skills,New,"Gives you a very small chance to find Iron, Coal, Lead, Brass or Oil Shale, when mining stone. They also may contain valuable nuggets at a very low rate.",採石時に、鉄、石炭、鉛、真鍮、オイルシェールを超低確率で入手できます。また、それよりも低い確率で希少金属が採取できます。,"Gibt dir eine sehr geringe Chance Eisen, Kohle, Blei, Messing oder Ölschiefer zu finden, wenn du Steinblöcke abbaust. Zudem besteht eine sehr geringe Chance, Erzklumpen oder Diamanten zu finden."
+SenseMineralsRank2LongDesc,progression,skills,New,"Gives you a very small chance to find Iron, Coal, Lead, Brass or Oil Shale, when mining stone. They also may contain valuable nuggets at a very low rate.",採石時に、鉄、石炭、鉛、真鍮、オイルシェールを超低確率で入手できます。また、それよりも低い確率で希少金属が採取できます。,"Gibt dir eine sehr geringe Chance Eisen, Kohle, Blei, Messing oder Ölschiefer zu finden, wenn du Steinblöcke abbaust. Zudem besteht eine sehr geringe Chance, Erzklumpen oder Diamanten zu finden."
+SenseMineralsRank3LongDesc,progression,skills,New,"Gives you a small chance to find Iron, Coal, Lead, Brass or Oil Shale, when mining stone. They also may contain valuable nuggets at a very low rate.",採石時に、鉄、石炭、鉛、真鍮、オイルシェールを低確率で入手できます。また、それよりも低い確率で希少金属が採取できます。,"Gibt dir eine geringe Chance Eisen, Kohle, Blei, Messing oder Ölschiefer zu finden, wenn du Steinblöcke abbaust. Zudem besteht eine sehr geringe Chance, Erzklumpen oder Diamanten zu finden."
+SenseMineralsRank4LongDesc,progression,skills,New,"Gives you a small chance to find Iron, Coal, Lead, Brass or Oil Shale, when mining stone. They also may contain valuable nuggets at a very low rate.",採石時に、鉄、石炭、鉛、真鍮、オイルシェールを低確率で入手できます。また、それよりも低い確率で希少金属が採取できます。,"Gibt dir eine geringe Chance Eisen, Kohle, Blei, Messing oder Ölschiefer zu finden, wenn du Steinblöcke abbaust. Zudem besteht eine sehr geringe Chance, Erzklumpen oder Diamanten zu finden."
+SenseMineralsRank5LongDesc,progression,skills,New,"Gives you a mediocre chance to find Iron, Coal, Lead, Brass or Oil Shale, when mining stone. They also may contain valuable nuggets at a very low rate.",採石時に、鉄、石炭、鉛、真鍮、オイルシェールを中確率で入手できます。また、それよりも低い確率で希少金属が採取できます。,"Gibt dir eine mittelmäßige Chance Eisen, Kohle, Blei, Messing oder Ölschiefer zu finden, wenn du Steinblöcke abbaust. Zudem besteht eine sehr geringe Chance, Erzklumpen oder Diamanten zu finden."
+SenseMineralsRank6LongDesc,progression,skills,New,"Gives you a mediocre chance to find Iron, Coal, Lead, Brass or Oil Shale, when mining stone. They also may contain valuable nuggets at a very low rate.",採石時に、鉄、石炭、鉛、真鍮、オイルシェールを中低確率で入手できます。また、それよりも低い確率で希少金属が採取できます。,"Gibt dir eine mittelmäßige Chance Eisen, Kohle, Blei, Messing oder Ölschiefer zu finden, wenn du Steinblöcke abbaust. Zudem besteht eine sehr geringe Chance, Erzklumpen oder Diamanten zu finden."
+SenseMineralsRank7LongDesc,progression,skills,New,"Gives you a high chance to find Iron, Coal, Lead, Brass or Oil Shale, when mining stone. They also may contain valuable nuggets at a very low rate.",採石時に、鉄、石炭、鉛、真鍮、オイルシェールを高確率で入手できます。また、それよりも低い確率で希少金属が採取できます。,"Gibt dir eine hohe Chance Eisen, Kohle, Blei, Messing oder Ölschiefer zu finden, wenn du Steinblöcke abbaust. Zudem besteht eine sehr geringe Chance, Erzklumpen oder Diamanten zu finden."
+SenseMineralsRank8LongDesc,progression,skills,New,"Gives you a high chance to find Iron, Coal, Lead, Brass or Oil Shale, when mining stone. They also may contain valuable nuggets at a very low rate.",採石時に、鉄、石炭、鉛、真鍮、オイルシェールを高確率で入手できます。また、それよりも低い確率で希少金属が採取できます。,"Gibt dir eine hohe Chance Eisen, Kohle, Blei, Messing oder Ölschiefer zu finden, wenn du Steinblöcke abbaust. Zudem besteht eine sehr geringe Chance, Erzklumpen oder Diamanten zu finden."
+SenseMineralsRank9LongDesc,progression,skills,New,"Gives you a very high chance to find Iron, Coal, Lead, Brass or Oil Shale, when mining stone. They also may contain valuable nuggets at a very low rate.",採石時に、鉄、石炭、鉛、真鍮、オイルシェールを超高確率で入手できます。また、それよりも低い確率で希少金属が採取できます。,"Gibt dir eine sehr hohe Chance Eisen, Kohle, Blei, Messing oder Ölschiefer zu finden, wenn du Steinblöcke abbaust. Zudem besteht eine sehr geringe Chance, Erzklumpen oder Diamanten zu finden."
+SenseMineralsRank10LongDesc,progression,skills,New,"Gives you a very high chance to find Iron, Coal, Lead, Brass or Oil Shale, when mining stone. They also may contain valuable nuggets at a very low rate.",採石時に、鉄、石炭、鉛、真鍮、オイルシェールを超高確率で入手できます。また、それよりも低い確率で希少金属が採取できます。,"Gibt dir eine sehr hohe Chance Eisen, Kohle, Blei, Messing oder Ölschiefer zu finden, wenn du Steinblöcke abbaust. Zudem besteht eine sehr geringe Chance, Erzklumpen oder Diamanten zu finden."
+
+SenseValuablesName,progression,skills,New,Sense Valuables,直感採掘(土),Gespür für Wertvolles
+SenseValuablesDesc,progression,skills,New,You've acquired the knowledge to better learn how to sometimes find valuable resources when digging in the dirt. Each rank increases the multiplier for the additional loot you can find.,土、砂、雪を掘るときに、たまに異なるものを見つける知識を身につけました。ランクが上がるごとに入手倍率が上昇します。,"Du hast ein Gespür dafür entwickelt, wertvolle Sachen in der Erde zu finden. Jeder Rang erhöht die Menge an Objekten, die du finden kannst."
+SenseValuablesRank1Desc,progression,skills,New,"Find objects in dirt, sand or snow blocks.",異物類入手,"Finde Objekte in Erd-, Sand- oder Schneeblöcken."
+SenseValuablesRank2Desc,progression,skills,New,"Find objects in dirt, sand or snow blocks.",異物類入手,"Finde Objekte in Erd-, Sand- oder Schneeblöcken."
+SenseValuablesRank3Desc,progression,skills,New,"Find objects in dirt, sand or snow blocks.",異物類入手,"Finde Objekte in Erd-, Sand- oder Schneeblöcken."
+SenseValuablesRank4Desc,progression,skills,New,"Find objects in dirt, sand or snow blocks.",異物類入手,"Finde Objekte in Erd-, Sand- oder Schneeblöcken."
+SenseValuablesRank5Desc,progression,skills,New,"Find objects in dirt, sand or snow blocks.",異物類入手,"Finde Objekte in Erd-, Sand- oder Schneeblöcken."
+SenseValuablesRank6Desc,progression,skills,New,"Find objects in dirt, sand or snow blocks.",異物類入手,"Finde Objekte in Erd-, Sand- oder Schneeblöcken."
+SenseValuablesRank7Desc,progression,skills,New,"Find objects in dirt, sand or snow blocks.",異物類入手,"Finde Objekte in Erd-, Sand- oder Schneeblöcken."
+SenseValuablesRank8Desc,progression,skills,New,"Find objects in dirt, sand or snow blocks.",異物類入手,"Finde Objekte in Erd-, Sand- oder Schneeblöcken."
+SenseValuablesRank9Desc,progression,skills,New,"Find objects in dirt, sand or snow blocks.",異物類入手,"Finde Objekte in Erd-, Sand- oder Schneeblöcken."
+SenseValuablesRank10Desc,progression,skills,New,"Find objects in dirt, sand or snow blocks.",異物類入手,"Finde Objekte in Erd-, Sand- oder Schneeblöcken."
+SenseValuablesRank1LongDesc,progression,skills,New,"Gives you a very small chance to find additional resources, depending on the terrain, when you're digging dirt, sand or snow blocks.",土、砂、雪を掘るときに超低確率で地形に応じた追加アイテムを入手できます。,"Gibt dir eine sehr geringe Chance, zusätzliche, vom Terrain abhängige, Ressourcen zu finden, wenn du Erd-, Sand- oder Schneeblöcke abbaust."
+SenseValuablesRank2LongDesc,progression,skills,New,"Gives you a very small chance to find additional resources, depending on the terrain, when you're digging dirt, sand or snow blocks.",土、砂、雪を掘るときに超低確率で地形に応じた追加アイテムを入手できます。,"Gibt dir eine sehr geringe Chance, zusätzliche, vom Terrain abhängige, Ressourcen zu finden, wenn du Erd-, Sand- oder Schneeblöcke abbaust."
+SenseValuablesRank3LongDesc,progression,skills,New,"Gives you a small chance to find additional resources, depending on the terrain, when you're digging dirt, sand or snow blocks.",土、砂、雪を掘るときに低確率で地形に応じた追加アイテムを入手できます。,"Gibt dir eine geringe Chance, zusätzliche, vom Terrain abhängige, Ressourcen zu finden, wenn du Erd-, Sand- oder Schneeblöcke abbaust."
+SenseValuablesRank4LongDesc,progression,skills,New,"Gives you a small chance to find additional resources, depending on the terrain, when you're digging dirt, sand or snow blocks.",土、砂、雪を掘るときに低確率で地形に応じた追加アイテムを入手できます。,"Gibt dir eine geringe Chance, zusätzliche, vom Terrain abhängige, Ressourcen zu finden, wenn du Erd-, Sand- oder Schneeblöcke abbaust."
+SenseValuablesRank5LongDesc,progression,skills,New,"Gives you a mediocre chance to find additional resources, depending on the terrain, when you're digging dirt, sand or snow blocks.",土、砂、雪を掘るときに中確率で地形に応じた追加アイテムを入手できます。,"Gibt dir eine mittelmäßige Chance, zusätzliche, vom Terrain abhängige, Ressourcen zu finden, wenn du Erd-, Sand- oder Schneeblöcke abbaust."
+SenseValuablesRank6LongDesc,progression,skills,New,"Gives you a mediocre chance to find additional resources, depending on the terrain, when you're digging dirt, sand or snow blocks.",土、砂、雪を掘るときに中確率で地形に応じた追加アイテムを入手できます。,"Gibt dir eine mittelmäßige Chance, zusätzliche, vom Terrain abhängige, Ressourcen zu finden, wenn du Erd-, Sand- oder Schneeblöcke abbaust."
+SenseValuablesRank7LongDesc,progression,skills,New,"Gives you a high chance to find additional resources, depending on the terrain, when you're digging dirt, sand or snow blocks.",土、砂、雪を掘るときに高確率で地形に応じた追加アイテムを入手できます。,"Gibt dir eine hohe Chance, zusätzliche, vom Terrain abhängige, Ressourcen zu finden, wenn du Erd-, Sand- oder Schneeblöcke abbaust."
+SenseValuablesRank8LongDesc,progression,skills,New,"Gives you a high chance to find additional resources, depending on the terrain, when you're digging dirt, sand or snow blocks.",土、砂、雪を掘るときに高確率で地形に応じた追加アイテムを入手できます。,"Gibt dir eine hohe Chance, zusätzliche, vom Terrain abhängige, Ressourcen zu finden, wenn du Erd-, Sand- oder Schneeblöcke abbaust."
+SenseValuablesRank9LongDesc,progression,skills,New,"Gives you a very high chance to find additional resources, depending on the terrain, when you're digging dirt, sand or snow blocks.",土、砂、雪を掘るときに超高確率で地形に応じた追加アイテムを入手できます。,"Gibt dir eine sehr hohe Chance, zusätzliche, vom Terrain abhängige, Ressourcen zu finden, wenn du Erd-, Sand- oder Schneeblöcke abbaust."
+SenseValuablesRank10LongDesc,progression,skills,New,"Gives you a very high chance to find additional resources, depending on the terrain, when you're digging dirt, sand or snow blocks.",土、砂、雪を掘るときに超高確率で地形に応じた追加アイテムを入手できます。,"Gibt dir eine sehr hohe Chance, zusätzliche, vom Terrain abhängige, Ressourcen zu finden, wenn du Erd-, Sand- oder Schneeblöcke abbaust."
+
+CorpseExploitingName,progression,skills,New,Corpse Exploiting,死体の悪用,Leichenausbeutung
+CorpseExploitingDesc,progression,skills,New,You've acquired the knowledge to better learn how to appropriate butcher zombie corpses. Higher ranks increase the output.,おぞましいですが大事な資源です。死体を適切に解体する知識を身につけました。ランクが上がるごとに入手倍率が上昇します。,"Du hast herausgefunden, wie du Leichen von Zombies effizient zerlegen kannst. Höhere Ränge erhöhen den Ertrag"
+CorpseExploitingRank1Desc,progression,skills,New,"Gather body parts from zombie remains",腐肉類入手,"Ermöglicht dir Leichenteile aus Zombies zu gewinnen"
+CorpseExploitingRank2Desc,progression,skills,New,"Gather body parts from zombie remains",腐肉類入手量上昇,"Ermöglicht dir Leichenteile aus Zombies zu gewinnen"
+CorpseExploitingRank3Desc,progression,skills,New,"Gather body parts from zombie remains",腐肉類入手量上昇,"Ermöglicht dir Leichenteile aus Zombies zu gewinnen"
+CorpseExploitingRank4Desc,progression,skills,New,"Gather body parts from zombie remains",腐肉類入手量上昇,"Ermöglicht dir Leichenteile aus Zombies zu gewinnen"
+CorpseExploitingRank5Desc,progression,skills,New,"Gather body parts from zombie remains",腐肉類入手量上昇,"Ermöglicht dir Leichenteile aus Zombies zu gewinnen"
+CorpseExploitingRank6Desc,progression,skills,New,"Gather body parts from zombie remains",腐肉類入手量上昇,"Ermöglicht dir Leichenteile aus Zombies zu gewinnen"
+CorpseExploitingRank7Desc,progression,skills,New,"Gather body parts from zombie remains",腐肉類入手量上昇,"Ermöglicht dir Leichenteile aus Zombies zu gewinnen"
+CorpseExploitingRank8Desc,progression,skills,New,"Gather body parts from zombie remains",腐肉類入手量上昇,"Ermöglicht dir Leichenteile aus Zombies zu gewinnen"
+CorpseExploitingRank9Desc,progression,skills,New,"Gather body parts from zombie remains",腐肉類入手量上昇,"Ermöglicht dir Leichenteile aus Zombies zu gewinnen"
+CorpseExploitingRank10Desc,progression,skills,New,"Gather body parts from zombie remains",腐肉類入手量上昇,"Ermöglicht dir Leichenteile aus Zombies zu gewinnen"
+CorpseExploitingRank1LongDesc,progression,skills,New,"Gives you a very small chance to find Bones, Flesh, Nitrate or Fat, when you butcher zombie corpses",ゾンビの死体を解体する際に、骨、肉、硝酸塩、脂肪を僅かにふやします。,"Gewährt dir beim Ausnehmen von Zombies eine sehr geringe Chance Knochen, Fleisch, Nitrat oder Fett zu erbeuten."
+CorpseExploitingRank2LongDesc,progression,skills,New,"Gives you a very small chance to find Bones, Flesh, Nitrate or Fat, when you butcher zombie corpses",ゾンビの死体を解体する際に、骨、肉、硝酸塩、脂肪を僅かにふやします。,"Gewährt dir beim Ausnehmen von Zombies eine sehr geringe Chance Knochen, Fleisch, Nitrat oder Fett zu erbeuten."
+CorpseExploitingRank3LongDesc,progression,skills,New,"Gives you a small chance to find Bones, Flesh, Nitrate or Fat, when you butcher zombie corpses",ゾンビの死体を解体する際に、骨、肉、硝酸塩、脂肪を少量ふやします。,"Gewährt dir beim Ausnehmen von Zombies eine geringe Chance Knochen, Fleisch, Nitrat oder Fett zu erbeuten."
+CorpseExploitingRank4LongDesc,progression,skills,New,"Gives you a small chance to find Bones, Flesh, Nitrate or Fat, when you butcher zombie corpses",ゾンビの死体を解体する際に、骨、肉、硝酸塩、脂肪を少量ふやします。,"Gewährt dir beim Ausnehmen von Zombies eine geringe Chance Knochen, Fleisch, Nitrat oder Fett zu erbeuten."
+CorpseExploitingRank5LongDesc,progression,skills,New,"Gives you a mediocre chance to find Bones, Flesh, Nitrate or Fat, when you butcher zombie corpses",ゾンビの死体を解体する際に、骨、肉、硝酸塩、脂肪をふやします。,"Gewährt dir beim Ausnehmen von Zombies eine mittelmäßige Chance Knochen, Fleisch, Nitrat oder Fett zu erbeuten."
+CorpseExploitingRank6LongDesc,progression,skills,New,"Gives you a mediocre chance to find Bones, Flesh, Nitrate or Fat, when you butcher zombie corpses",ゾンビの死体を解体する際に、骨、肉、硝酸塩、脂肪をふやします。,"Gewährt dir beim Ausnehmen von Zombies eine mittelmäßige Chance Knochen, Fleisch, Nitrat oder Fett zu erbeuten."
+CorpseExploitingRank7LongDesc,progression,skills,New,"Gives you a high chance to find Bones, Flesh, Nitrate or Fat, when you butcher zombie corpses",ゾンビの死体を解体する際に、骨、肉、硝酸塩、脂肪を大きくふやします。,"Gewährt dir beim Ausnehmen von Zombies eine hohe Chance Knochen, Fleisch, Nitrat oder Fett zu erbeuten."
+CorpseExploitingRank8LongDesc,progression,skills,New,"Gives you a high chance to find Bones, Flesh, Nitrate or Fat, when you butcher zombie corpses",ゾンビの死体を解体する際に、骨、肉、硝酸塩、脂肪を大きくふやします。,"Gewährt dir beim Ausnehmen von Zombies eine hohe Chance Knochen, Fleisch, Nitrat oder Fett zu erbeuten."
+CorpseExploitingRank9LongDesc,progression,skills,New,"Gives you a very high chance to find Bones, Flesh, Nitrate or Fat, when you butcher zombie corpses",ゾンビの死体を解体する際に、骨、肉、硝酸塩、脂肪をかなりふやします。,"Gewährt dir beim Ausnehmen von Zombies eine sehr hohe Chance Knochen, Fleisch, Nitrat oder Fett zu erbeuten."
+CorpseExploitingRank10LongDesc,progression,skills,New,"Gives you a very high chance to find Bones, Flesh, Nitrate or Fat, when you butcher zombie corpses",ゾンビの死体を解体する際に、骨、肉、硝酸塩、脂肪をかなりふやします。,"Gewährt dir beim Ausnehmen von Zombies eine sehr hohe Chance Knochen, Fleisch, Nitrat oder Fett zu erbeuten."

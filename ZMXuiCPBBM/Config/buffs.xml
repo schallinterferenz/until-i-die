@@ -1,0 +1,18 @@
+<ZMXuiCPBBM name="buffs.xml">
+
+<!--	// SMX // God Mode Buff Conversion -->
+
+		<set xpath="/buffs/buff[@name='god']/effect_group/passive_effect[@name='CarryCapacity']/@value">100</set>
+
+
+<!--	// SMX // Steroid Buff Conversion -->
+
+		<set xpath="/buffs/buff[@name='buffDrugSteroids']/effect_group/passive_effect[@name='CarryCapacity']/@value">105</set>
+
+
+<!--	// SMX // Twitch Buff Conversions -->
+
+		<set xpath="/buffs/buff[@name='twitch_buffPackMule']/effect_group/passive_effect[@name='CarryCapacity']/@value">105</set>
+		<set xpath="/buffs/buff[@name='twitch_buffEncumbered']/effect_group/passive_effect[@name='CarryCapacity']/@value">77</set>
+
+</ZMXuiCPBBM>

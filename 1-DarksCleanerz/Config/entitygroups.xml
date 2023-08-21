@@ -1,0 +1,118 @@
+<configs>
+
+<!-- *** BIOME_GROUPS -->
+	<!-- *** BIOME_ALL_ZOMBIES_GROUP -->
+	<csv xpath="/entitygroups/entitygroup[@name='ZombiesAll']/text()" delim="\n" op="add" >
+		RaiderGBDAxe, .1
+		RaiderGBDKnife, .1
+		RaiderGBDPistol, .1
+		RaiderGBDTRifle, .1
+		RaiderGBDM60, .1
+		RaiderGDAxe, .1
+		RaiderGDKnife, .1
+		RaiderGDPistol, .1
+		RaiderGDTRifle, .1
+		RaiderGDM60, .1
+        RaiderGHDAxe, .1
+		RaiderGHDKnife, .1
+		RaiderGHDPistol, .1
+		RaiderGHDTRifle, .1
+		RaiderGHDM60, .1             
+	</csv>
+
+	<!-- *** BIOME_ZOMBIES_NIGHT_GROUP -->
+	<csv xpath="/entitygroups/entitygroup[@name='ZombiesNight']/text()" delim="\n" op="add" >
+		RaiderGBDAxe, .05
+		RaiderGBDKnife, .05
+		RaiderGBDPistol, .05
+		RaiderGBDTRifle, .05
+		RaiderGBDM60, .05
+		RaiderGDAxe, .05
+		RaiderGDKnife, .05
+		RaiderGDPistol, .05
+		RaiderGDTRifle, .05
+		RaiderGDM60, .05
+        RaiderGHDAxe, .05
+		RaiderGHDKnife, .05
+		RaiderGHDPistol, .05
+		RaiderGHDTRifle, .05
+		RaiderGHDM60, .05          	
+	</csv>
+	
+<!-- *** BIOME_ZOMBIES_LUMBERJACK_GROUPS -->	
+	<csv xpath="/entitygroups/entitygroup[@name='SnowZombies']/text()" delim="\n" op="add" >
+		RaiderGBDAxe, .05
+		RaiderGBDKnife, .05
+		RaiderGBDPistol, .05
+		RaiderGBDTRifle, .05
+		RaiderGBDM60, .05
+		RaiderGDAxe, .05
+		RaiderGDKnife, .05
+		RaiderGDPistol, .05
+		RaiderGDTRifle, .05
+		RaiderGDM60, .05
+        RaiderGHDAxe, .05
+		RaiderGHDKnife, .05
+		RaiderGHDPistol, .05
+		RaiderGHDTRifle, .05
+		RaiderGHDM60, .05 
+	</csv>
+
+<!-- *** BIOME_ZOMBIES_WASTELAND_GROUP -->
+	<csv xpath="/entitygroups/entitygroup[@name='ZombiesWasteland']/text()" delim="\n" op="add" >
+		RaiderGBDAxe, .5
+		RaiderGBDKnife, .5
+		RaiderGBDPistol, .5
+		RaiderGBDTRifle, .5
+		RaiderGBDM60, .5
+		RaiderGDAxe, .5
+		RaiderGDKnife, .5
+		RaiderGDPistol, .5
+		RaiderGDTRifle, .5
+		RaiderGDM60, .5
+        RaiderGHDAxe, .5
+		RaiderGHDKnife, .5
+		RaiderGHDPistol, .5
+		RaiderGHDTRifle, .5
+		RaiderGHDM60, .5              				
+	</csv>
+	
+<!-- *** BIOME_ZOMBIES_WASTELAND_NIGHT_GROUP -->
+	<csv xpath="/entitygroups/entitygroup[@name='ZombiesWastelandNight']/text()" delim="\n" op="add" >
+		RaiderGBDAxe, .5
+		RaiderGBDKnife, .5
+		RaiderGBDPistol, .5
+		RaiderGBDTRifle, .5
+		RaiderGBDM60, .5
+		RaiderGDAxe, .5
+		RaiderGDKnife, .5
+		RaiderGDPistol, .5
+		RaiderGDTRifle, .5
+		RaiderGDM60, .5
+        RaiderGHDAxe, .5
+		RaiderGHDKnife, .5
+		RaiderGHDPistol, .5
+		RaiderGHDTRifle, .5
+		RaiderGHDM60, .5              			
+	</csv>
+
+<!-- *** BIOME_ZOMBIES_BURNT_FOREST_GROUP -->
+	<csv xpath="/entitygroups/entitygroup[@name='ZombiesBurntForest']/text()" delim="\n" op="add" >
+		RaiderGBDAxe, .025
+		RaiderGBDKnife, .025
+		RaiderGBDPistol, .025
+		RaiderGBDTRifle, .025
+		RaiderGBDM60, .025
+		RaiderGDAxe, .025
+		RaiderGDKnife, .025
+		RaiderGDPistol, .025
+		RaiderGDTRifle, .025
+		RaiderGDM60, .025
+        RaiderGHDAxe, .025
+		RaiderGHDKnife, .025
+		RaiderGHDPistol, .025
+		RaiderGHDTRifle, .025
+		RaiderGHDM60, .025               	
+	</csv>
+
+</configs>

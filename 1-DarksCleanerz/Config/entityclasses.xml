@@ -1,0 +1,176 @@
+<configs>
+
+
+
+	<append xpath="/entity_classes">
+
+         <!-- Modular military characters by Slayver purchased for use in NPC Mod -->
+
+                <entity_class name="RaiderGBDAxe" extends="npcAxeTemplate"> 
+			<property name="UserSpawnType" value="Menu"/><property name="Tags" value="entity,male,npc,walker,melee,bandit,UMA2,DRMid"/>
+			<property name="Faction" value="bandits"/>
+			<property name="Names" value="King Moneybags" />
+			<property name="Mesh" value="#@modfolder:Resources/DarksCleanerz.unity3d?SoldierGasBeretDark"/>
+                        <property name="LookAtAngle" value="0"/>
+			<property name="LootDropProb" value="0.2"/> 
+			<property name="LootDropEntityClass" value="EntityLootContainerRegular"/>	
+			<property name="AIPackages" value="NPCModCoreNoChat, NPCModHostileMeleeBasic, NPCModHostileRangedBasic"/>
+		</entity_class>	
+
+                 <entity_class name="RaiderGBDKnife" extends="npcKnifeTemplate"> 
+			<property name="UserSpawnType" value="Menu"/><property name="Tags" value="entity,male,npc,walker,melee,bandit,UMA2,DRMid"/>
+			<property name="Faction" value="bandits"/>
+			<property name="Names" value="King Moneybags" />
+			<property name="Mesh" value="#@modfolder:Resources/DarksCleanerz.unity3d?SoldierGasBeretDark"/>
+                        <property name="LookAtAngle" value="0"/>
+			<property name="LootDropProb" value="0.2"/> 
+			<property name="LootDropEntityClass" value="EntityLootContainerRegular"/>	
+			<property name="AIPackages" value="NPCModCoreNoChat, NPCModHostileMeleeBasic, NPCModHostileRangedBasic"/>
+		</entity_class>		
+
+		<entity_class name="RaiderGBDPistol" extends="npcPistolTemplate"> 
+			<property name="UserSpawnType" value="Menu"/><property name="Tags" value="entity,male,npc,walker,ranged,bandit,UMA2,DRMid"/>
+			<property name="Faction" value="bandits"/>
+			<property name="Names" value="King Moneybags" />
+			<property name="Mesh" value="#@modfolder:Resources/DarksCleanerz.unity3d?SoldierGasBeretDark"/>
+			<property name="LookAtAngle" value="0"/>
+			<property name="LootDropProb" value="0.2"/> 
+			<property name="LootDropEntityClass" value="EntityLootContainerRegular"/>	
+			<property name="AIPackages" value="NPCModCoreNoChat, NPCModHostileMeleeBasic, NPCModHostileRangedBasic"/>
+		</entity_class>	
+
+                <entity_class name="RaiderGBDM60" extends="npcM60Template"> 
+			<property name="UserSpawnType" value="Menu"/><property name="Tags" value="entity,male,npc,walker,ranged,bandit,UMA2,DRMid"/>
+			<property name="Faction" value="bandits"/>
+			<property name="Names" value="King Moneybags" />
+			<property name="Mesh" value="#@modfolder:Resources/DarksCleanerz.unity3d?SoldierGasBeretDark"/>
+			<property name="LookAtAngle" value="0"/>
+			<property name="LootDropProb" value="0.2"/> 
+			<property name="LootDropEntityClass" value="EntityLootContainerRegular"/>	
+			<property name="AIPackages" value="NPCModCoreNoChat, NPCModHostileMeleeBasic, NPCModHostileRangedBasic"/>
+		</entity_class>	
+
+                <entity_class name="RaiderGBDTRifle" extends="npcTRifleTemplate"> 
+			<property name="UserSpawnType" value="Menu"/><property name="Tags" value="entity,male,npc,walker,ranged,bandit,UMA2,DRMid"/>
+			<property name="Faction" value="bandits"/>
+			<property name="Names" value="King Moneybags" />
+			<property name="Mesh" value="#@modfolder:Resources/DarksCleanerz.unity3d?SoldierGasBeretDark"/>
+			<property name="LookAtAngle" value="0"/>
+			<property name="LootDropProb" value="0.2"/> 
+			<property name="LootDropEntityClass" value="EntityLootContainerRegular"/>	
+			<property name="AIPackages" value="NPCModCoreNoChat, NPCModHostileMeleeBasic, NPCModHostileRangedBasic"/>
+		</entity_class>	
+                
+                 <entity_class name="RaiderGDAxe" extends="npcAxeTemplate"> 
+			<property name="UserSpawnType" value="Menu"/><property name="Tags" value="entity,male,npc,walker,melee,bandit,UMA2,DRMid"/>
+			<property name="Faction" value="bandits"/>
+			<property name="Names" value="King Moneybags" />
+			<property name="Mesh" value="#@modfolder:Resources/DarksCleanerz.unity3d?SoldierGasDark"/>
+                        <property name="LookAtAngle" value="0"/>
+			<property name="LootDropProb" value="0.2"/> 
+			<property name="LootDropEntityClass" value="EntityLootContainerRegular"/>	
+			<property name="AIPackages" value="NPCModCoreNoChat, NPCModHostileMeleeBasic, NPCModHostileRangedBasic"/>
+		</entity_class>	
+
+                 <entity_class name="RaiderGDKnife" extends="npcKnifeTemplate"> 
+			<property name="UserSpawnType" value="Menu"/><property name="Tags" value="entity,male,npc,walker,melee,bandit,UMA2,DRMid"/>
+			<property name="Faction" value="bandits"/>
+			<property name="Names" value="King Moneybags" />
+			<property name="Mesh" value="#@modfolder:Resources/DarksCleanerz.unity3d?SoldierGasDark"/>
+                        <property name="LookAtAngle" value="0"/>
+			<property name="LootDropProb" value="0.2"/> 
+			<property name="LootDropEntityClass" value="EntityLootContainerRegular"/>	
+			<property name="AIPackages" value="NPCModCoreNoChat, NPCModHostileMeleeBasic, NPCModHostileRangedBasic"/>
+		</entity_class>		
+
+		<entity_class name="RaiderGDPistol" extends="npcPistolTemplate"> 
+			<property name="UserSpawnType" value="Menu"/><property name="Tags" value="entity,male,npc,walker,ranged,bandit,UMA2,DRMid"/>
+			<property name="Faction" value="bandits"/>
+			<property name="Names" value="King Moneybags" />
+			<property name="Mesh" value="#@modfolder:Resources/DarksCleanerz.unity3d?SoldierGasDark"/>
+			<property name="LookAtAngle" value="0"/>
+			<property name="LootDropProb" value="0.2"/> 
+			<property name="LootDropEntityClass" value="EntityLootContainerRegular"/>	
+			<property name="AIPackages" value="NPCModCoreNoChat, NPCModHostileMeleeBasic, NPCModHostileRangedBasic"/>
+		</entity_class>	
+
+                <entity_class name="RaiderGDM60" extends="npcM60Template"> 
+			<property name="UserSpawnType" value="Menu"/><property name="Tags" value="entity,male,npc,walker,ranged,bandit,UMA2,DRMid"/>
+			<property name="Faction" value="bandits"/>
+			<property name="Names" value="King Moneybags" />
+			<property name="Mesh" value="#@modfolder:Resources/DarksCleanerz.unity3d?SoldierGasDark"/>
+			<property name="LookAtAngle" value="0"/>
+			<property name="LootDropProb" value="0.2"/> 
+			<property name="LootDropEntityClass" value="EntityLootContainerRegular"/>	
+			<property name="AIPackages" value="NPCModCoreNoChat, NPCModHostileMeleeBasic, NPCModHostileRangedBasic"/>
+		</entity_class>	
+
+                <entity_class name="RaiderGDTRifle" extends="npcTRifleTemplate"> 
+			<property name="UserSpawnType" value="Menu"/><property name="Tags" value="entity,male,npc,walker,ranged,bandit,UMA2,DRMid"/>
+			<property name="Faction" value="bandits"/>
+			<property name="Names" value="King Moneybags" />
+			<property name="Mesh" value="#@modfolder:Resources/DarksCleanerz.unity3d?SoldierGasDark"/>
+			<property name="LookAtAngle" value="0"/>
+			<property name="LootDropProb" value="0.2"/> 
+			<property name="LootDropEntityClass" value="EntityLootContainerRegular"/>	
+			<property name="AIPackages" value="NPCModCoreNoChat, NPCModHostileMeleeBasic, NPCModHostileRangedBasic"/>
+		</entity_class>	
+
+                 <entity_class name="RaiderGHDAxe" extends="npcAxeTemplate"> 
+			<property name="UserSpawnType" value="Menu"/><property name="Tags" value="entity,male,npc,walker,melee,bandit,UMA2,DRMid"/>
+			<property name="Faction" value="bandits"/>
+			<property name="Names" value="King Moneybags" />
+			<property name="Mesh" value="#@modfolder:Resources/DarksCleanerz.unity3d?SoldierGasHelmDark"/>
+                        <property name="LookAtAngle" value="0"/>
+			<property name="LootDropProb" value="0.2"/> 
+			<property name="LootDropEntityClass" value="EntityLootContainerRegular"/>	
+			<property name="AIPackages" value="NPCModCoreNoChat, NPCModHostileMeleeBasic, NPCModHostileRangedBasic"/>
+		</entity_class>	
+
+                 <entity_class name="RaiderGHDKnife" extends="npcKnifeTemplate"> 
+			<property name="UserSpawnType" value="Menu"/><property name="Tags" value="entity,male,npc,walker,melee,bandit,UMA2,DRMid"/>
+			<property name="Faction" value="bandits"/>
+			<property name="Names" value="King Moneybags" />
+			<property name="Mesh" value="#@modfolder:Resources/DarksCleanerz.unity3d?SoldierGasHelmDark"/>
+                        <property name="LookAtAngle" value="0"/>
+			<property name="LootDropProb" value="0.2"/> 
+			<property name="LootDropEntityClass" value="EntityLootContainerRegular"/>	
+			<property name="AIPackages" value="NPCModCoreNoChat, NPCModHostileMeleeBasic, NPCModHostileRangedBasic"/>
+		</entity_class>		
+
+		<entity_class name="RaiderGHDPistol" extends="npcPistolTemplate"> 
+			<property name="UserSpawnType" value="Menu"/><property name="Tags" value="entity,male,npc,walker,ranged,bandit,UMA2,DRMid"/>
+			<property name="Faction" value="bandits"/>
+			<property name="Names" value="King Moneybags" />
+			<property name="Mesh" value="#@modfolder:Resources/DarksCleanerz.unity3d?SoldierGasHelmDark"/>
+			<property name="LookAtAngle" value="0"/>
+			<property name="LootDropProb" value="0.2"/> 
+			<property name="LootDropEntityClass" value="EntityLootContainerRegular"/>	
+			<property name="AIPackages" value="NPCModCoreNoChat, NPCModHostileMeleeBasic, NPCModHostileRangedBasic"/>
+		</entity_class>	
+
+                <entity_class name="RaiderGHDM60" extends="npcM60Template"> 
+			<property name="UserSpawnType" value="Menu"/><property name="Tags" value="entity,male,npc,walker,ranged,bandit,UMA2,DRMid"/>
+			<property name="Faction" value="bandits"/>
+			<property name="Names" value="King Moneybags" />
+			<property name="Mesh" value="#@modfolder:Resources/DarksCleanerz.unity3d?SoldierGasHelmDark"/>
+			<property name="LookAtAngle" value="0"/>
+			<property name="LootDropProb" value="0.2"/> 
+			<property name="LootDropEntityClass" value="EntityLootContainerRegular"/>	
+			<property name="AIPackages" value="NPCModCoreNoChat, NPCModHostileMeleeBasic, NPCModHostileRangedBasic"/>
+		</entity_class>	
+
+                <entity_class name="RaiderGHDTRifle" extends="npcTRifleTemplate"> 
+			<property name="UserSpawnType" value="Menu"/><property name="Tags" value="entity,male,npc,walker,ranged,bandit,UMA2,DRMid"/>
+			<property name="Faction" value="bandits"/>
+			<property name="Names" value="King Moneybags" />
+			<property name="Mesh" value="#@modfolder:Resources/DarksCleanerz.unity3d?SoldierGasHelmDark"/>
+			<property name="LookAtAngle" value="0"/>
+			<property name="LootDropProb" value="0.2"/> 
+			<property name="LootDropEntityClass" value="EntityLootContainerRegular"/>	
+			<property name="AIPackages" value="NPCModCoreNoChat, NPCModHostileMeleeBasic, NPCModHostileRangedBasic"/>
+		</entity_class>	
+
+    </append>			
+	
+</configs>

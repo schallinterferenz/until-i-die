@@ -1,0 +1,29 @@
+<configs>
+
+	<append xpath="//trader_item_group[@name='groupRangedAll']">
+			<item name="IZYgunT1shotgunDoublebarrellong" quality="2,5" />
+			<item name="IZYgunT1shotgunBoltactionShotgun" quality="2,5" />
+			<item name="IZYgunT1shotgunModel1887" quality="2,5" />
+			<item name="IZYgunT2shotgunM31hunter" quality="2,5" />
+			<item name="IZYgunT2shotgunM1897" quality="2,5" />
+			<item name="IZYgunT2shotgunM870Police" quality="2,5" />
+			<item name="IZYgunT3shotgunM4terminator" quality="2,5" />
+			<item name="IZYgunT3shotgunXM12G" quality="2,5" />
+			<item name="IZYgunT3shotgunM590S" quality="2,5" />
+			<item name="IZYgunT4shotgunSaika12g" quality="2,5" prob="0.2"/>
+			<item name="IZYgunT4shotgunHEXAGun" quality="2,5" prob="0.2"/>
+			<item name="IZYgunT4shotgunSPAS12" quality="2,5" prob="0.2"/>
+	</append>
+	
+		<!--	AMMO_TRADER	-->
+
+	<append xpath="/traders/trader_item_groups/trader_item_group[@name='ammoHP']">
+		<item name="ammoShotgunShellTokenShot" count="8,25"/>
+		<item name="ammoShotgunShellFlechette" count="8,25"/>
+	</append>
+	
+	<append xpath="/traders/trader_item_groups/trader_item_group[@name='ammoAP']">
+		<item name="ammoShotgunSuperpenetratorslug" count="5,15"/>
+	</append>
+
+</configs>	

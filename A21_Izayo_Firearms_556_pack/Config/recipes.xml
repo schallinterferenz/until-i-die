@@ -1,0 +1,94 @@
+<addnew>
+
+	<append xpath="/recipes">
+
+
+	<recipe name="IZYammo556mmBulletBall" count="1" craft_area="workbench" tags="workbenchCrafting">
+		<ingredient name="resourceBulletTip" count="1"/>
+		<ingredient name="resourceScrapIron" count="1"/>
+		<ingredient name="resourceGunPowder" count="2"/>
+		<ingredient name="resourceBulletCasing" count="1"/>
+	</recipe>
+	
+	<recipe name="IZYammo556mmArmorpiercing" count="1" craft_area="workbench" tags="workbenchCrafting">
+		<ingredient name="resourceBulletTip" count="1"/>
+		<ingredient name="resourceScrapIron" count="4"/>
+		<ingredient name="resourceGunPowder" count="3"/>
+		<ingredient name="resourceBulletCasing" count="1"/>
+	</recipe>
+	
+	<recipe name="IZYammo556mmHighPower" count="1" craft_area="workbench" tags="workbenchCrafting">
+		<ingredient name="resourceBulletTip" count="1"/>
+		<ingredient name="resourceScrapIron" count="1"/>
+		<ingredient name="resourceGunPowder" count="4"/>
+		<ingredient name="resourceBulletCasing" count="1"/>
+	</recipe>
+
+	<recipe name="IZYgunT1assaultrifleTacticalCarbineCAR15" count="1" craft_area="workbench" tags="learnable,perkMachineGunner">
+		<ingredient name="gunMGT1AK47Parts" count="5"/>
+		<ingredient name="resourceForgedIron" count="50"/>
+		<ingredient name="resourceDuctTape" count="10"/>
+		<ingredient name="resourceScrapPolymers" count="50"/>
+		<ingredient name="resourceSpring" count="10"/>
+	</recipe>
+
+	<recipe name="IZYgunT1assaultrifleBattleCarbineFNLcal" count="1" craft_area="workbench" tags="learnable,perkMachineGunner">
+		<ingredient name="gunMGT1AK47Parts" count="5"/>
+		<ingredient name="resourceForgedIron" count="50"/>
+		<ingredient name="resourceDuctTape" count="10"/>
+		<ingredient name="resourceScrapPolymers" count="50"/>
+		<ingredient name="resourceSpring" count="10"/>
+	</recipe>
+
+	<recipe name="IZYgunT2assaultrifleTacticalCarbineM4C" count="1" craft_area="workbench" tags="learnable,perkMachineGunner">
+		<ingredient name="gunMGT1AK47Parts" count="5"/>
+		<ingredient name="resourceForgedSteel" count="75"/>
+		<ingredient name="resourceDuctTape" count="15"/>
+		<ingredient name="resourceScrapPolymers" count="100"/>
+		<ingredient name="resourceSpring" count="15"/>
+	</recipe>
+
+	<recipe name="IZYgunT2assaultrifleBattleCarbineHK33" count="1" craft_area="workbench" tags="learnable,perkMachineGunner">
+		<ingredient name="gunMGT1AK47Parts" count="5"/>
+		<ingredient name="resourceForgedSteel" count="75"/>
+		<ingredient name="resourceDuctTape" count="15"/>
+		<ingredient name="resourceScrapPolymers" count="100"/>
+		<ingredient name="resourceSpring" count="15"/>
+	</recipe>
+
+	<recipe name="IZYgunT3assaultrifleBattleCarbineAKWa2" count="1" craft_area="workbench" tags="learnable,perkMachineGunner">
+		<ingredient name="gunMGT1AK47Parts" count="5"/>
+		<ingredient name="resourceForgedSteel" count="150"/>
+		<ingredient name="resourceDuctTape" count="15"/>
+		<ingredient name="resourceScrapPolymers" count="200"/>
+		<ingredient name="resourceSpring" count="20"/>
+	</recipe>
+
+	<recipe name="IZYgunT3assaultrifleTacticalCarbineSOCmk1" count="1" craft_area="workbench" tags="learnable,perkMachineGunner">
+		<ingredient name="gunMGT1AK47Parts" count="5"/>
+		<ingredient name="resourceForgedSteel" count="150"/>
+		<ingredient name="resourceDuctTape" count="15"/>
+		<ingredient name="resourceScrapPolymers" count="200"/>
+		<ingredient name="resourceSpring" count="20"/>
+	</recipe>
+
+	<recipe name="IZYgunT4assaultrifleBattleCarbineScarLight" count="1" craft_area="workbench" tags="learnable,perkMachineGunner">
+		<ingredient name="gunMGT1AK47Parts" count="8"/>
+		<ingredient name="resourceForgedSteel" count="160"/>
+		<ingredient name="resourceDuctTape" count="20"/>
+		<ingredient name="resourceScrapPolymers" count="240"/>
+		<ingredient name="resourceSpring" count="24"/>
+	</recipe>
+	
+	<recipe name="IZYgunT4assaultrifleTacticalCarbineG36cA1" count="1" craft_area="workbench" tags="learnable,perkMachineGunner">
+		<ingredient name="gunMGT1AK47Parts" count="8"/>
+		<ingredient name="resourceForgedSteel" count="160"/>
+		<ingredient name="resourceDuctTape" count="20"/>
+		<ingredient name="resourceScrapPolymers" count="240"/>
+		<ingredient name="resourceSpring" count="24"/>
+	</recipe>
+
+	</append>
+
+
+</addnew>
