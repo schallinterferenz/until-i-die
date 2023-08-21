@@ -7,7 +7,7 @@ First of all we want to say, that every mod/s, except UNTILiDIE mod/folder, was 
 Sadly, we could not upload one or several mod/s, due to a file size restriction (File mustn't be over 100MB). 
 You have to download them manually and insert them into the 7 Days to Die/Mods folder. 
 
-**Tactical Weapons** Mod: https://7daystodiemods.com/tactical-weapons/
+**Tactical Weapons** Mod: https://7daystodiemods.com/tactical-weapons-a21/
 
 # Install
 
